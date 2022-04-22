@@ -1,0 +1,3 @@
+import climate_scorecard_data_2022
+
+import pytest
