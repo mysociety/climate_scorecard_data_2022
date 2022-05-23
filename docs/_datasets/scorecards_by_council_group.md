@@ -1,13 +1,19 @@
 ---
 name: scorecards_by_council_group
-title: Scorecards by council group
-description: "Scorecards score information with seperate tables for each Council type/group\n"
+title: Scorecard data (by council group)
+description: "Scorecards score information with seperate tables for each council type/group\n"
 version: 1
 licenses:
 - name: CC-BY-NC-4.0
   path: https://creativecommons.org/licenses/by-nc/4.0/
   title: Creative Commons Attribution-NonCommercial 4.0 International License
+sources:
+- title: Council Climate Plan Scorecards
+  path: https://councilclimatescorecards.uk/
 contributors:
+- title: Climate Emergency UK
+  path: https://www.climateemergency.uk/
+  role: author
 - title: mySociety
   path: https://mysociety.org
   role: author
