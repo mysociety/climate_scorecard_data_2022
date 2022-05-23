@@ -1,0 +1,3682 @@
+local-authority-code,section,max_score,score,section_name
+ABC,s1_gov,21,0.0,"Governance, development and funding"
+ABC,s2_m&a,18,0.0,Mitigation and adaptation
+ABC,s3_c&a,7,0.0,Commitment and intergration
+ABC,s4_coms,9,0.0,"Community, engagement and communications"
+ABC,s5_mset,5,0.0,Measuring and setting emissions targets
+ABC,s6_cb,4,0.0,Co-benefits
+ABC,s7_dsi,5,0.0,Diversity and inclusion
+ABC,s8_est,5,0.0,"Education, skills and training"
+ABC,s9_ee,4,0.0,Ecological emergency
+ABD,s1_gov,21,0.0,"Governance, development and funding"
+ABD,s2_m&a,18,0.0,Mitigation and adaptation
+ABD,s3_c&a,7,0.0,Commitment and intergration
+ABD,s4_coms,9,0.0,"Community, engagement and communications"
+ABD,s5_mset,5,0.0,Measuring and setting emissions targets
+ABD,s6_cb,4,0.0,Co-benefits
+ABD,s7_dsi,5,0.0,Diversity and inclusion
+ABD,s8_est,5,0.0,"Education, skills and training"
+ABD,s9_ee,4,0.0,Ecological emergency
+ABE,s1_gov,21,10.0,"Governance, development and funding"
+ABE,s2_m&a,18,9.0,Mitigation and adaptation
+ABE,s3_c&a,7,3.0,Commitment and intergration
+ABE,s4_coms,9,4.0,"Community, engagement and communications"
+ABE,s5_mset,5,2.0,Measuring and setting emissions targets
+ABE,s6_cb,4,2.0,Co-benefits
+ABE,s7_dsi,5,0.0,Diversity and inclusion
+ABE,s8_est,5,1.0,"Education, skills and training"
+ABE,s9_ee,4,0.0,Ecological emergency
+ADU,s1_gov,21,13.0,"Governance, development and funding"
+ADU,s2_m&a,18,12.0,Mitigation and adaptation
+ADU,s3_c&a,7,2.0,Commitment and intergration
+ADU,s4_coms,9,5.0,"Community, engagement and communications"
+ADU,s5_mset,5,3.0,Measuring and setting emissions targets
+ADU,s6_cb,4,3.0,Co-benefits
+ADU,s7_dsi,5,2.0,Diversity and inclusion
+ADU,s8_est,5,3.0,"Education, skills and training"
+ADU,s9_ee,4,2.0,Ecological emergency
+AGB,s1_gov,21,11.0,"Governance, development and funding"
+AGB,s2_m&a,18,8.0,Mitigation and adaptation
+AGB,s3_c&a,7,2.0,Commitment and intergration
+AGB,s4_coms,9,4.0,"Community, engagement and communications"
+AGB,s5_mset,5,2.0,Measuring and setting emissions targets
+AGB,s6_cb,4,2.0,Co-benefits
+AGB,s7_dsi,5,1.0,Diversity and inclusion
+AGB,s8_est,5,0.0,"Education, skills and training"
+AGB,s9_ee,4,1.0,Ecological emergency
+AGY,s1_gov,21,0.0,"Governance, development and funding"
+AGY,s2_m&a,18,0.0,Mitigation and adaptation
+AGY,s3_c&a,7,0.0,Commitment and intergration
+AGY,s4_coms,9,0.0,"Community, engagement and communications"
+AGY,s5_mset,5,0.0,Measuring and setting emissions targets
+AGY,s6_cb,4,0.0,Co-benefits
+AGY,s7_dsi,5,0.0,Diversity and inclusion
+AGY,s8_est,5,0.0,"Education, skills and training"
+AGY,s9_ee,4,0.0,Ecological emergency
+ALL,s1_gov,21,13.0,"Governance, development and funding"
+ALL,s2_m&a,18,12.0,Mitigation and adaptation
+ALL,s3_c&a,7,3.0,Commitment and intergration
+ALL,s4_coms,9,5.0,"Community, engagement and communications"
+ALL,s5_mset,5,3.0,Measuring and setting emissions targets
+ALL,s6_cb,4,2.0,Co-benefits
+ALL,s7_dsi,5,2.0,Diversity and inclusion
+ALL,s8_est,5,4.0,"Education, skills and training"
+ALL,s9_ee,4,2.0,Ecological emergency
+AMB,s1_gov,21,5.0,"Governance, development and funding"
+AMB,s2_m&a,18,1.0,Mitigation and adaptation
+AMB,s3_c&a,7,1.0,Commitment and intergration
+AMB,s4_coms,9,1.0,"Community, engagement and communications"
+AMB,s5_mset,5,2.0,Measuring and setting emissions targets
+AMB,s6_cb,4,2.0,Co-benefits
+AMB,s7_dsi,5,1.0,Diversity and inclusion
+AMB,s8_est,5,0.0,"Education, skills and training"
+AMB,s9_ee,4,3.0,Ecological emergency
+AND,s1_gov,21,7.0,"Governance, development and funding"
+AND,s2_m&a,18,0.0,Mitigation and adaptation
+AND,s3_c&a,7,6.0,Commitment and intergration
+AND,s4_coms,9,4.0,"Community, engagement and communications"
+AND,s5_mset,5,0.0,Measuring and setting emissions targets
+AND,s6_cb,4,1.0,Co-benefits
+AND,s7_dsi,5,0.0,Diversity and inclusion
+AND,s8_est,5,2.0,"Education, skills and training"
+AND,s9_ee,4,1.0,Ecological emergency
+ANN,s1_gov,21,0.0,"Governance, development and funding"
+ANN,s2_m&a,18,0.0,Mitigation and adaptation
+ANN,s3_c&a,7,0.0,Commitment and intergration
+ANN,s4_coms,9,0.0,"Community, engagement and communications"
+ANN,s5_mset,5,0.0,Measuring and setting emissions targets
+ANN,s6_cb,4,0.0,Co-benefits
+ANN,s7_dsi,5,0.0,Diversity and inclusion
+ANN,s8_est,5,0.0,"Education, skills and training"
+ANN,s9_ee,4,0.0,Ecological emergency
+ANS,s1_gov,21,0.0,"Governance, development and funding"
+ANS,s2_m&a,18,0.0,Mitigation and adaptation
+ANS,s3_c&a,7,0.0,Commitment and intergration
+ANS,s4_coms,9,0.0,"Community, engagement and communications"
+ANS,s5_mset,5,0.0,Measuring and setting emissions targets
+ANS,s6_cb,4,0.0,Co-benefits
+ANS,s7_dsi,5,0.0,Diversity and inclusion
+ANS,s8_est,5,0.0,"Education, skills and training"
+ANS,s9_ee,4,0.0,Ecological emergency
+ARU,s1_gov,21,0.0,"Governance, development and funding"
+ARU,s2_m&a,18,0.0,Mitigation and adaptation
+ARU,s3_c&a,7,0.0,Commitment and intergration
+ARU,s4_coms,9,0.0,"Community, engagement and communications"
+ARU,s5_mset,5,0.0,Measuring and setting emissions targets
+ARU,s6_cb,4,0.0,Co-benefits
+ARU,s7_dsi,5,0.0,Diversity and inclusion
+ARU,s8_est,5,0.0,"Education, skills and training"
+ARU,s9_ee,4,0.0,Ecological emergency
+ASF,s1_gov,21,9.0,"Governance, development and funding"
+ASF,s2_m&a,18,11.0,Mitigation and adaptation
+ASF,s3_c&a,7,6.0,Commitment and intergration
+ASF,s4_coms,9,7.0,"Community, engagement and communications"
+ASF,s5_mset,5,1.0,Measuring and setting emissions targets
+ASF,s6_cb,4,4.0,Co-benefits
+ASF,s7_dsi,5,1.0,Diversity and inclusion
+ASF,s8_est,5,1.0,"Education, skills and training"
+ASF,s9_ee,4,3.0,Ecological emergency
+ASH,s1_gov,21,0.0,"Governance, development and funding"
+ASH,s2_m&a,18,0.0,Mitigation and adaptation
+ASH,s3_c&a,7,0.0,Commitment and intergration
+ASH,s4_coms,9,0.0,"Community, engagement and communications"
+ASH,s5_mset,5,0.0,Measuring and setting emissions targets
+ASH,s6_cb,4,0.0,Co-benefits
+ASH,s7_dsi,5,0.0,Diversity and inclusion
+ASH,s8_est,5,0.0,"Education, skills and training"
+ASH,s9_ee,4,0.0,Ecological emergency
+BAB,s1_gov,21,14.0,"Governance, development and funding"
+BAB,s2_m&a,18,13.0,Mitigation and adaptation
+BAB,s3_c&a,7,5.0,Commitment and intergration
+BAB,s4_coms,9,6.0,"Community, engagement and communications"
+BAB,s5_mset,5,2.0,Measuring and setting emissions targets
+BAB,s6_cb,4,2.0,Co-benefits
+BAB,s7_dsi,5,0.0,Diversity and inclusion
+BAB,s8_est,5,3.0,"Education, skills and training"
+BAB,s9_ee,4,3.0,Ecological emergency
+BAE,s1_gov,21,0.0,"Governance, development and funding"
+BAE,s2_m&a,18,0.0,Mitigation and adaptation
+BAE,s3_c&a,7,0.0,Commitment and intergration
+BAE,s4_coms,9,0.0,"Community, engagement and communications"
+BAE,s5_mset,5,0.0,Measuring and setting emissions targets
+BAE,s6_cb,4,0.0,Co-benefits
+BAE,s7_dsi,5,0.0,Diversity and inclusion
+BAE,s8_est,5,0.0,"Education, skills and training"
+BAE,s9_ee,4,0.0,Ecological emergency
+BAI,s1_gov,21,9.0,"Governance, development and funding"
+BAI,s2_m&a,18,10.0,Mitigation and adaptation
+BAI,s3_c&a,7,5.0,Commitment and intergration
+BAI,s4_coms,9,6.0,"Community, engagement and communications"
+BAI,s5_mset,5,3.0,Measuring and setting emissions targets
+BAI,s6_cb,4,2.0,Co-benefits
+BAI,s7_dsi,5,0.0,Diversity and inclusion
+BAI,s8_est,5,1.0,"Education, skills and training"
+BAI,s9_ee,4,2.0,Ecological emergency
+BAN,s1_gov,21,13.0,"Governance, development and funding"
+BAN,s2_m&a,18,8.0,Mitigation and adaptation
+BAN,s3_c&a,7,6.0,Commitment and intergration
+BAN,s4_coms,9,5.0,"Community, engagement and communications"
+BAN,s5_mset,5,4.0,Measuring and setting emissions targets
+BAN,s6_cb,4,2.0,Co-benefits
+BAN,s7_dsi,5,0.0,Diversity and inclusion
+BAN,s8_est,5,2.0,"Education, skills and training"
+BAN,s9_ee,4,2.0,Ecological emergency
+BAR,s1_gov,21,5.0,"Governance, development and funding"
+BAR,s2_m&a,18,0.0,Mitigation and adaptation
+BAR,s3_c&a,7,3.0,Commitment and intergration
+BAR,s4_coms,9,3.0,"Community, engagement and communications"
+BAR,s5_mset,5,2.0,Measuring and setting emissions targets
+BAR,s6_cb,4,1.0,Co-benefits
+BAR,s7_dsi,5,0.0,Diversity and inclusion
+BAR,s8_est,5,0.0,"Education, skills and training"
+BAR,s9_ee,4,0.0,Ecological emergency
+BAS,s1_gov,21,7.0,"Governance, development and funding"
+BAS,s2_m&a,18,6.0,Mitigation and adaptation
+BAS,s3_c&a,7,3.0,Commitment and intergration
+BAS,s4_coms,9,8.0,"Community, engagement and communications"
+BAS,s5_mset,5,4.0,Measuring and setting emissions targets
+BAS,s6_cb,4,0.0,Co-benefits
+BAS,s7_dsi,5,1.0,Diversity and inclusion
+BAS,s8_est,5,3.0,"Education, skills and training"
+BAS,s9_ee,4,3.0,Ecological emergency
+BBD,s1_gov,21,8.0,"Governance, development and funding"
+BBD,s2_m&a,18,8.0,Mitigation and adaptation
+BBD,s3_c&a,7,3.0,Commitment and intergration
+BBD,s4_coms,9,6.0,"Community, engagement and communications"
+BBD,s5_mset,5,3.0,Measuring and setting emissions targets
+BBD,s6_cb,4,3.0,Co-benefits
+BBD,s7_dsi,5,0.0,Diversity and inclusion
+BBD,s8_est,5,0.0,"Education, skills and training"
+BBD,s9_ee,4,2.0,Ecological emergency
+BDF,s1_gov,21,13.0,"Governance, development and funding"
+BDF,s2_m&a,18,12.0,Mitigation and adaptation
+BDF,s3_c&a,7,6.0,Commitment and intergration
+BDF,s4_coms,9,6.0,"Community, engagement and communications"
+BDF,s5_mset,5,2.0,Measuring and setting emissions targets
+BDF,s6_cb,4,2.0,Co-benefits
+BDF,s7_dsi,5,0.0,Diversity and inclusion
+BDF,s8_est,5,3.0,"Education, skills and training"
+BDF,s9_ee,4,2.0,Ecological emergency
+BDG,s1_gov,21,5.0,"Governance, development and funding"
+BDG,s2_m&a,18,6.0,Mitigation and adaptation
+BDG,s3_c&a,7,3.0,Commitment and intergration
+BDG,s4_coms,9,3.0,"Community, engagement and communications"
+BDG,s5_mset,5,2.0,Measuring and setting emissions targets
+BDG,s6_cb,4,3.0,Co-benefits
+BDG,s7_dsi,5,2.0,Diversity and inclusion
+BDG,s8_est,5,0.0,"Education, skills and training"
+BDG,s9_ee,4,2.0,Ecological emergency
+BEN,s1_gov,21,14.0,"Governance, development and funding"
+BEN,s2_m&a,18,14.0,Mitigation and adaptation
+BEN,s3_c&a,7,6.0,Commitment and intergration
+BEN,s4_coms,9,6.0,"Community, engagement and communications"
+BEN,s5_mset,5,2.0,Measuring and setting emissions targets
+BEN,s6_cb,4,4.0,Co-benefits
+BEN,s7_dsi,5,4.0,Diversity and inclusion
+BEN,s8_est,5,4.0,"Education, skills and training"
+BEN,s9_ee,4,3.0,Ecological emergency
+BEX,s1_gov,21,0.0,"Governance, development and funding"
+BEX,s2_m&a,18,0.0,Mitigation and adaptation
+BEX,s3_c&a,7,0.0,Commitment and intergration
+BEX,s4_coms,9,0.0,"Community, engagement and communications"
+BEX,s5_mset,5,0.0,Measuring and setting emissions targets
+BEX,s6_cb,4,0.0,Co-benefits
+BEX,s7_dsi,5,0.0,Diversity and inclusion
+BEX,s8_est,5,0.0,"Education, skills and training"
+BEX,s9_ee,4,0.0,Ecological emergency
+BFS,s1_gov,21,4.0,"Governance, development and funding"
+BFS,s2_m&a,18,3.0,Mitigation and adaptation
+BFS,s3_c&a,7,2.0,Commitment and intergration
+BFS,s4_coms,9,2.0,"Community, engagement and communications"
+BFS,s5_mset,5,1.0,Measuring and setting emissions targets
+BFS,s6_cb,4,2.0,Co-benefits
+BFS,s7_dsi,5,0.0,Diversity and inclusion
+BFS,s8_est,5,1.0,"Education, skills and training"
+BFS,s9_ee,4,0.0,Ecological emergency
+BGE,s1_gov,21,0.0,"Governance, development and funding"
+BGE,s2_m&a,18,0.0,Mitigation and adaptation
+BGE,s3_c&a,7,0.0,Commitment and intergration
+BGE,s4_coms,9,0.0,"Community, engagement and communications"
+BGE,s5_mset,5,0.0,Measuring and setting emissions targets
+BGE,s6_cb,4,0.0,Co-benefits
+BGE,s7_dsi,5,0.0,Diversity and inclusion
+BGE,s8_est,5,0.0,"Education, skills and training"
+BGE,s9_ee,4,0.0,Ecological emergency
+BGW,s1_gov,21,2.0,"Governance, development and funding"
+BGW,s2_m&a,18,4.0,Mitigation and adaptation
+BGW,s3_c&a,7,0.0,Commitment and intergration
+BGW,s4_coms,9,2.0,"Community, engagement and communications"
+BGW,s5_mset,5,4.0,Measuring and setting emissions targets
+BGW,s6_cb,4,1.0,Co-benefits
+BGW,s7_dsi,5,0.0,Diversity and inclusion
+BGW,s8_est,5,0.0,"Education, skills and training"
+BGW,s9_ee,4,0.0,Ecological emergency
+BIR,s1_gov,21,11.0,"Governance, development and funding"
+BIR,s2_m&a,18,10.0,Mitigation and adaptation
+BIR,s3_c&a,7,4.0,Commitment and intergration
+BIR,s4_coms,9,5.0,"Community, engagement and communications"
+BIR,s5_mset,5,3.0,Measuring and setting emissions targets
+BIR,s6_cb,4,3.0,Co-benefits
+BIR,s7_dsi,5,2.0,Diversity and inclusion
+BIR,s8_est,5,2.0,"Education, skills and training"
+BIR,s9_ee,4,2.0,Ecological emergency
+BLA,s1_gov,21,11.0,"Governance, development and funding"
+BLA,s2_m&a,18,10.0,Mitigation and adaptation
+BLA,s3_c&a,7,4.0,Commitment and intergration
+BLA,s4_coms,9,7.0,"Community, engagement and communications"
+BLA,s5_mset,5,5.0,Measuring and setting emissions targets
+BLA,s6_cb,4,2.0,Co-benefits
+BLA,s7_dsi,5,0.0,Diversity and inclusion
+BLA,s8_est,5,3.0,"Education, skills and training"
+BLA,s9_ee,4,1.0,Ecological emergency
+BNE,s1_gov,21,0.0,"Governance, development and funding"
+BNE,s2_m&a,18,0.0,Mitigation and adaptation
+BNE,s3_c&a,7,0.0,Commitment and intergration
+BNE,s4_coms,9,0.0,"Community, engagement and communications"
+BNE,s5_mset,5,0.0,Measuring and setting emissions targets
+BNE,s6_cb,4,0.0,Co-benefits
+BNE,s7_dsi,5,0.0,Diversity and inclusion
+BNE,s8_est,5,0.0,"Education, skills and training"
+BNE,s9_ee,4,0.0,Ecological emergency
+BNH,s1_gov,21,11.0,"Governance, development and funding"
+BNH,s2_m&a,18,13.0,Mitigation and adaptation
+BNH,s3_c&a,7,3.0,Commitment and intergration
+BNH,s4_coms,9,8.0,"Community, engagement and communications"
+BNH,s5_mset,5,4.0,Measuring and setting emissions targets
+BNH,s6_cb,4,3.0,Co-benefits
+BNH,s7_dsi,5,2.0,Diversity and inclusion
+BNH,s8_est,5,3.0,"Education, skills and training"
+BNH,s9_ee,4,4.0,Ecological emergency
+BNS,s1_gov,21,8.0,"Governance, development and funding"
+BNS,s2_m&a,18,6.0,Mitigation and adaptation
+BNS,s3_c&a,7,4.0,Commitment and intergration
+BNS,s4_coms,9,5.0,"Community, engagement and communications"
+BNS,s5_mset,5,4.0,Measuring and setting emissions targets
+BNS,s6_cb,4,2.0,Co-benefits
+BNS,s7_dsi,5,1.0,Diversity and inclusion
+BNS,s8_est,5,1.0,"Education, skills and training"
+BNS,s9_ee,4,1.0,Ecological emergency
+BOL,s1_gov,21,4.0,"Governance, development and funding"
+BOL,s2_m&a,18,3.0,Mitigation and adaptation
+BOL,s3_c&a,7,5.0,Commitment and intergration
+BOL,s4_coms,9,6.0,"Community, engagement and communications"
+BOL,s5_mset,5,2.0,Measuring and setting emissions targets
+BOL,s6_cb,4,3.0,Co-benefits
+BOL,s7_dsi,5,1.0,Diversity and inclusion
+BOL,s8_est,5,3.0,"Education, skills and training"
+BOL,s9_ee,4,2.0,Ecological emergency
+BOS,s1_gov,21,7.0,"Governance, development and funding"
+BOS,s2_m&a,18,2.0,Mitigation and adaptation
+BOS,s3_c&a,7,3.0,Commitment and intergration
+BOS,s4_coms,9,4.0,"Community, engagement and communications"
+BOS,s5_mset,5,1.0,Measuring and setting emissions targets
+BOS,s6_cb,4,3.0,Co-benefits
+BOS,s7_dsi,5,1.0,Diversity and inclusion
+BOS,s8_est,5,2.0,"Education, skills and training"
+BOS,s9_ee,4,1.0,Ecological emergency
+BOT,s1_gov,21,0.0,"Governance, development and funding"
+BOT,s2_m&a,18,0.0,Mitigation and adaptation
+BOT,s3_c&a,7,2.0,Commitment and intergration
+BOT,s4_coms,9,3.0,"Community, engagement and communications"
+BOT,s5_mset,5,1.0,Measuring and setting emissions targets
+BOT,s6_cb,4,0.0,Co-benefits
+BOT,s7_dsi,5,0.0,Diversity and inclusion
+BOT,s8_est,5,0.0,"Education, skills and training"
+BOT,s9_ee,4,1.0,Ecological emergency
+BPC,s1_gov,21,10.0,"Governance, development and funding"
+BPC,s2_m&a,18,9.0,Mitigation and adaptation
+BPC,s3_c&a,7,4.0,Commitment and intergration
+BPC,s4_coms,9,6.0,"Community, engagement and communications"
+BPC,s5_mset,5,4.0,Measuring and setting emissions targets
+BPC,s6_cb,4,2.0,Co-benefits
+BPC,s7_dsi,5,0.0,Diversity and inclusion
+BPC,s8_est,5,0.0,"Education, skills and training"
+BPC,s9_ee,4,3.0,Ecological emergency
+BPL,s1_gov,21,10.0,"Governance, development and funding"
+BPL,s2_m&a,18,10.0,Mitigation and adaptation
+BPL,s3_c&a,7,4.0,Commitment and intergration
+BPL,s4_coms,9,9.0,"Community, engagement and communications"
+BPL,s5_mset,5,3.0,Measuring and setting emissions targets
+BPL,s6_cb,4,2.0,Co-benefits
+BPL,s7_dsi,5,1.0,Diversity and inclusion
+BPL,s8_est,5,4.0,"Education, skills and training"
+BPL,s9_ee,4,3.0,Ecological emergency
+BRA,s1_gov,21,5.0,"Governance, development and funding"
+BRA,s2_m&a,18,2.0,Mitigation and adaptation
+BRA,s3_c&a,7,3.0,Commitment and intergration
+BRA,s4_coms,9,7.0,"Community, engagement and communications"
+BRA,s5_mset,5,3.0,Measuring and setting emissions targets
+BRA,s6_cb,4,3.0,Co-benefits
+BRA,s7_dsi,5,0.0,Diversity and inclusion
+BRA,s8_est,5,2.0,"Education, skills and training"
+BRA,s9_ee,4,1.0,Ecological emergency
+BRC,s1_gov,21,7.0,"Governance, development and funding"
+BRC,s2_m&a,18,5.0,Mitigation and adaptation
+BRC,s3_c&a,7,2.0,Commitment and intergration
+BRC,s4_coms,9,1.0,"Community, engagement and communications"
+BRC,s5_mset,5,3.0,Measuring and setting emissions targets
+BRC,s6_cb,4,0.0,Co-benefits
+BRC,s7_dsi,5,0.0,Diversity and inclusion
+BRC,s8_est,5,0.0,"Education, skills and training"
+BRC,s9_ee,4,0.0,Ecological emergency
+BRD,s1_gov,21,2.0,"Governance, development and funding"
+BRD,s2_m&a,18,8.0,Mitigation and adaptation
+BRD,s3_c&a,7,1.0,Commitment and intergration
+BRD,s4_coms,9,1.0,"Community, engagement and communications"
+BRD,s5_mset,5,2.0,Measuring and setting emissions targets
+BRD,s6_cb,4,0.0,Co-benefits
+BRD,s7_dsi,5,0.0,Diversity and inclusion
+BRD,s8_est,5,3.0,"Education, skills and training"
+BRD,s9_ee,4,1.0,Ecological emergency
+BRE,s1_gov,21,7.0,"Governance, development and funding"
+BRE,s2_m&a,18,0.0,Mitigation and adaptation
+BRE,s3_c&a,7,2.0,Commitment and intergration
+BRE,s4_coms,9,3.0,"Community, engagement and communications"
+BRE,s5_mset,5,1.0,Measuring and setting emissions targets
+BRE,s6_cb,4,0.0,Co-benefits
+BRE,s7_dsi,5,0.0,Diversity and inclusion
+BRE,s8_est,5,1.0,"Education, skills and training"
+BRE,s9_ee,4,1.0,Ecological emergency
+BRM,s1_gov,21,2.0,"Governance, development and funding"
+BRM,s2_m&a,18,0.0,Mitigation and adaptation
+BRM,s3_c&a,7,0.0,Commitment and intergration
+BRM,s4_coms,9,3.0,"Community, engagement and communications"
+BRM,s5_mset,5,1.0,Measuring and setting emissions targets
+BRM,s6_cb,4,0.0,Co-benefits
+BRM,s7_dsi,5,0.0,Diversity and inclusion
+BRM,s8_est,5,1.0,"Education, skills and training"
+BRM,s9_ee,4,0.0,Ecological emergency
+BRO,s1_gov,21,0.0,"Governance, development and funding"
+BRO,s2_m&a,18,11.0,Mitigation and adaptation
+BRO,s3_c&a,7,4.0,Commitment and intergration
+BRO,s4_coms,9,1.0,"Community, engagement and communications"
+BRO,s5_mset,5,1.0,Measuring and setting emissions targets
+BRO,s6_cb,4,1.0,Co-benefits
+BRO,s7_dsi,5,0.0,Diversity and inclusion
+BRO,s8_est,5,0.0,"Education, skills and training"
+BRO,s9_ee,4,4.0,Ecological emergency
+BRT,s1_gov,21,5.0,"Governance, development and funding"
+BRT,s2_m&a,18,2.0,Mitigation and adaptation
+BRT,s3_c&a,7,3.0,Commitment and intergration
+BRT,s4_coms,9,4.0,"Community, engagement and communications"
+BRT,s5_mset,5,2.0,Measuring and setting emissions targets
+BRT,s6_cb,4,1.0,Co-benefits
+BRT,s7_dsi,5,0.0,Diversity and inclusion
+BRT,s8_est,5,2.0,"Education, skills and training"
+BRT,s9_ee,4,0.0,Ecological emergency
+BRW,s1_gov,21,0.0,"Governance, development and funding"
+BRW,s2_m&a,18,0.0,Mitigation and adaptation
+BRW,s3_c&a,7,0.0,Commitment and intergration
+BRW,s4_coms,9,0.0,"Community, engagement and communications"
+BRW,s5_mset,5,0.0,Measuring and setting emissions targets
+BRW,s6_cb,4,0.0,Co-benefits
+BRW,s7_dsi,5,0.0,Diversity and inclusion
+BRW,s8_est,5,0.0,"Education, skills and training"
+BRW,s9_ee,4,0.0,Ecological emergency
+BRX,s1_gov,21,6.0,"Governance, development and funding"
+BRX,s2_m&a,18,5.0,Mitigation and adaptation
+BRX,s3_c&a,7,6.0,Commitment and intergration
+BRX,s4_coms,9,3.0,"Community, engagement and communications"
+BRX,s5_mset,5,1.0,Measuring and setting emissions targets
+BRX,s6_cb,4,0.0,Co-benefits
+BRX,s7_dsi,5,1.0,Diversity and inclusion
+BRX,s8_est,5,0.0,"Education, skills and training"
+BRX,s9_ee,4,1.0,Ecological emergency
+BRY,s1_gov,21,14.0,"Governance, development and funding"
+BRY,s2_m&a,18,7.0,Mitigation and adaptation
+BRY,s3_c&a,7,5.0,Commitment and intergration
+BRY,s4_coms,9,5.0,"Community, engagement and communications"
+BRY,s5_mset,5,4.0,Measuring and setting emissions targets
+BRY,s6_cb,4,3.0,Co-benefits
+BRY,s7_dsi,5,1.0,Diversity and inclusion
+BRY,s8_est,5,1.0,"Education, skills and training"
+BRY,s9_ee,4,3.0,Ecological emergency
+BST,s1_gov,21,15.0,"Governance, development and funding"
+BST,s2_m&a,18,14.0,Mitigation and adaptation
+BST,s3_c&a,7,1.0,Commitment and intergration
+BST,s4_coms,9,5.0,"Community, engagement and communications"
+BST,s5_mset,5,5.0,Measuring and setting emissions targets
+BST,s6_cb,4,4.0,Co-benefits
+BST,s7_dsi,5,1.0,Diversity and inclusion
+BST,s8_est,5,5.0,"Education, skills and training"
+BST,s9_ee,4,3.0,Ecological emergency
+BUC,s1_gov,21,5.0,"Governance, development and funding"
+BUC,s2_m&a,18,11.0,Mitigation and adaptation
+BUC,s3_c&a,7,2.0,Commitment and intergration
+BUC,s4_coms,9,5.0,"Community, engagement and communications"
+BUC,s5_mset,5,3.0,Measuring and setting emissions targets
+BUC,s6_cb,4,1.0,Co-benefits
+BUC,s7_dsi,5,0.0,Diversity and inclusion
+BUC,s8_est,5,0.0,"Education, skills and training"
+BUC,s9_ee,4,2.0,Ecological emergency
+BUN,s1_gov,21,0.0,"Governance, development and funding"
+BUN,s2_m&a,18,0.0,Mitigation and adaptation
+BUN,s3_c&a,7,0.0,Commitment and intergration
+BUN,s4_coms,9,0.0,"Community, engagement and communications"
+BUN,s5_mset,5,0.0,Measuring and setting emissions targets
+BUN,s6_cb,4,0.0,Co-benefits
+BUN,s7_dsi,5,0.0,Diversity and inclusion
+BUN,s8_est,5,0.0,"Education, skills and training"
+BUN,s9_ee,4,0.0,Ecological emergency
+BUR,s1_gov,21,10.0,"Governance, development and funding"
+BUR,s2_m&a,18,18.0,Mitigation and adaptation
+BUR,s3_c&a,7,2.0,Commitment and intergration
+BUR,s4_coms,9,6.0,"Community, engagement and communications"
+BUR,s5_mset,5,3.0,Measuring and setting emissions targets
+BUR,s6_cb,4,4.0,Co-benefits
+BUR,s7_dsi,5,2.0,Diversity and inclusion
+BUR,s8_est,5,3.0,"Education, skills and training"
+BUR,s9_ee,4,2.0,Ecological emergency
+CAB,s1_gov,21,10.0,"Governance, development and funding"
+CAB,s2_m&a,18,13.0,Mitigation and adaptation
+CAB,s3_c&a,7,6.0,Commitment and intergration
+CAB,s4_coms,9,7.0,"Community, engagement and communications"
+CAB,s5_mset,5,4.0,Measuring and setting emissions targets
+CAB,s6_cb,4,3.0,Co-benefits
+CAB,s7_dsi,5,3.0,Diversity and inclusion
+CAB,s8_est,5,0.0,"Education, skills and training"
+CAB,s9_ee,4,3.0,Ecological emergency
+CAM,s1_gov,21,11.0,"Governance, development and funding"
+CAM,s2_m&a,18,12.0,Mitigation and adaptation
+CAM,s3_c&a,5,4.0,Commitment and intergration
+CAM,s4_coms,9,5.0,"Community, engagement and communications"
+CAM,s5_mset,5,4.0,Measuring and setting emissions targets
+CAM,s6_cb,4,0.0,Co-benefits
+CAM,s7_dsi,5,0.0,Diversity and inclusion
+CAM,s8_est,5,3.0,"Education, skills and training"
+CAM,s9_ee,4,3.0,Ecological emergency
+CAN,s1_gov,21,0.0,"Governance, development and funding"
+CAN,s2_m&a,18,0.0,Mitigation and adaptation
+CAN,s3_c&a,7,0.0,Commitment and intergration
+CAN,s4_coms,9,0.0,"Community, engagement and communications"
+CAN,s5_mset,5,0.0,Measuring and setting emissions targets
+CAN,s6_cb,4,0.0,Co-benefits
+CAN,s7_dsi,5,0.0,Diversity and inclusion
+CAN,s8_est,5,0.0,"Education, skills and training"
+CAN,s9_ee,4,0.0,Ecological emergency
+CAR,s1_gov,21,14.0,"Governance, development and funding"
+CAR,s2_m&a,18,5.0,Mitigation and adaptation
+CAR,s3_c&a,7,5.0,Commitment and intergration
+CAR,s4_coms,9,6.0,"Community, engagement and communications"
+CAR,s5_mset,5,5.0,Measuring and setting emissions targets
+CAR,s6_cb,4,3.0,Co-benefits
+CAR,s7_dsi,5,0.0,Diversity and inclusion
+CAR,s8_est,5,2.0,"Education, skills and training"
+CAR,s9_ee,4,1.0,Ecological emergency
+CAS,s1_gov,21,0.0,"Governance, development and funding"
+CAS,s2_m&a,18,0.0,Mitigation and adaptation
+CAS,s3_c&a,7,0.0,Commitment and intergration
+CAS,s4_coms,9,0.0,"Community, engagement and communications"
+CAS,s5_mset,5,0.0,Measuring and setting emissions targets
+CAS,s6_cb,4,0.0,Co-benefits
+CAS,s7_dsi,5,0.0,Diversity and inclusion
+CAS,s8_est,5,0.0,"Education, skills and training"
+CAS,s9_ee,4,0.0,Ecological emergency
+CAT,s1_gov,21,12.0,"Governance, development and funding"
+CAT,s2_m&a,18,11.0,Mitigation and adaptation
+CAT,s3_c&a,7,7.0,Commitment and intergration
+CAT,s4_coms,9,4.0,"Community, engagement and communications"
+CAT,s5_mset,5,3.0,Measuring and setting emissions targets
+CAT,s6_cb,4,4.0,Co-benefits
+CAT,s7_dsi,5,1.0,Diversity and inclusion
+CAT,s8_est,5,2.0,"Education, skills and training"
+CAT,s9_ee,4,3.0,Ecological emergency
+CAY,s1_gov,21,9.0,"Governance, development and funding"
+CAY,s2_m&a,18,7.0,Mitigation and adaptation
+CAY,s3_c&a,7,2.0,Commitment and intergration
+CAY,s4_coms,9,3.0,"Community, engagement and communications"
+CAY,s5_mset,5,2.0,Measuring and setting emissions targets
+CAY,s6_cb,4,0.0,Co-benefits
+CAY,s7_dsi,5,0.0,Diversity and inclusion
+CAY,s8_est,5,1.0,"Education, skills and training"
+CAY,s9_ee,4,3.0,Ecological emergency
+CBF,s1_gov,21,16.0,"Governance, development and funding"
+CBF,s2_m&a,18,11.0,Mitigation and adaptation
+CBF,s3_c&a,7,7.0,Commitment and intergration
+CBF,s4_coms,9,4.0,"Community, engagement and communications"
+CBF,s5_mset,5,4.0,Measuring and setting emissions targets
+CBF,s6_cb,4,2.0,Co-benefits
+CBF,s7_dsi,5,1.0,Diversity and inclusion
+CBF,s8_est,5,3.0,"Education, skills and training"
+CBF,s9_ee,4,2.0,Ecological emergency
+CCG,s1_gov,21,0.0,"Governance, development and funding"
+CCG,s2_m&a,18,0.0,Mitigation and adaptation
+CCG,s3_c&a,7,0.0,Commitment and intergration
+CCG,s4_coms,9,0.0,"Community, engagement and communications"
+CCG,s5_mset,5,0.0,Measuring and setting emissions targets
+CCG,s6_cb,4,0.0,Co-benefits
+CCG,s7_dsi,5,0.0,Diversity and inclusion
+CCG,s8_est,5,0.0,"Education, skills and training"
+CCG,s9_ee,4,0.0,Ecological emergency
+CGN,s1_gov,21,15.0,"Governance, development and funding"
+CGN,s2_m&a,18,4.0,Mitigation and adaptation
+CGN,s3_c&a,7,3.0,Commitment and intergration
+CGN,s4_coms,9,2.0,"Community, engagement and communications"
+CGN,s5_mset,5,2.0,Measuring and setting emissions targets
+CGN,s6_cb,4,0.0,Co-benefits
+CGN,s7_dsi,5,0.0,Diversity and inclusion
+CGN,s8_est,5,2.0,"Education, skills and training"
+CGN,s9_ee,4,2.0,Ecological emergency
+CHA,s1_gov,21,5.0,"Governance, development and funding"
+CHA,s2_m&a,18,3.0,Mitigation and adaptation
+CHA,s3_c&a,7,2.0,Commitment and intergration
+CHA,s4_coms,9,2.0,"Community, engagement and communications"
+CHA,s5_mset,5,1.0,Measuring and setting emissions targets
+CHA,s6_cb,4,3.0,Co-benefits
+CHA,s7_dsi,5,0.0,Diversity and inclusion
+CHA,s8_est,5,0.0,"Education, skills and training"
+CHA,s9_ee,4,1.0,Ecological emergency
+CHE,s1_gov,21,16.0,"Governance, development and funding"
+CHE,s2_m&a,18,12.0,Mitigation and adaptation
+CHE,s3_c&a,7,5.0,Commitment and intergration
+CHE,s4_coms,9,8.0,"Community, engagement and communications"
+CHE,s5_mset,5,5.0,Measuring and setting emissions targets
+CHE,s6_cb,4,4.0,Co-benefits
+CHE,s7_dsi,5,0.0,Diversity and inclusion
+CHE,s8_est,5,1.0,"Education, skills and training"
+CHE,s9_ee,4,3.0,Ecological emergency
+CHI,s1_gov,21,13.0,"Governance, development and funding"
+CHI,s2_m&a,18,10.0,Mitigation and adaptation
+CHI,s3_c&a,7,3.0,Commitment and intergration
+CHI,s4_coms,9,4.0,"Community, engagement and communications"
+CHI,s5_mset,5,1.0,Measuring and setting emissions targets
+CHI,s6_cb,4,1.0,Co-benefits
+CHI,s7_dsi,5,1.0,Diversity and inclusion
+CHI,s8_est,5,4.0,"Education, skills and training"
+CHI,s9_ee,4,1.0,Ecological emergency
+CHL,s1_gov,21,6.0,"Governance, development and funding"
+CHL,s2_m&a,18,3.0,Mitigation and adaptation
+CHL,s3_c&a,7,4.0,Commitment and intergration
+CHL,s4_coms,9,1.0,"Community, engagement and communications"
+CHL,s5_mset,5,1.0,Measuring and setting emissions targets
+CHL,s6_cb,4,0.0,Co-benefits
+CHL,s7_dsi,5,0.0,Diversity and inclusion
+CHL,s8_est,5,1.0,"Education, skills and training"
+CHL,s9_ee,4,1.0,Ecological emergency
+CHO,s1_gov,21,0.0,"Governance, development and funding"
+CHO,s2_m&a,18,0.0,Mitigation and adaptation
+CHO,s3_c&a,7,0.0,Commitment and intergration
+CHO,s4_coms,9,0.0,"Community, engagement and communications"
+CHO,s5_mset,5,0.0,Measuring and setting emissions targets
+CHO,s6_cb,4,0.0,Co-benefits
+CHO,s7_dsi,5,0.0,Diversity and inclusion
+CHO,s8_est,5,0.0,"Education, skills and training"
+CHO,s9_ee,4,0.0,Ecological emergency
+CHR,s1_gov,21,12.0,"Governance, development and funding"
+CHR,s2_m&a,18,8.0,Mitigation and adaptation
+CHR,s3_c&a,7,5.0,Commitment and intergration
+CHR,s4_coms,9,4.0,"Community, engagement and communications"
+CHR,s5_mset,5,4.0,Measuring and setting emissions targets
+CHR,s6_cb,4,2.0,Co-benefits
+CHR,s7_dsi,5,0.0,Diversity and inclusion
+CHR,s8_est,5,1.0,"Education, skills and training"
+CHR,s9_ee,4,0.0,Ecological emergency
+CHS,s1_gov,21,11.0,"Governance, development and funding"
+CHS,s2_m&a,18,4.0,Mitigation and adaptation
+CHS,s3_c&a,7,3.0,Commitment and intergration
+CHS,s4_coms,9,2.0,"Community, engagement and communications"
+CHS,s5_mset,5,1.0,Measuring and setting emissions targets
+CHS,s6_cb,4,0.0,Co-benefits
+CHS,s7_dsi,5,0.0,Diversity and inclusion
+CHS,s8_est,5,1.0,"Education, skills and training"
+CHS,s9_ee,4,0.0,Ecological emergency
+CHT,s1_gov,21,9.0,"Governance, development and funding"
+CHT,s2_m&a,18,4.0,Mitigation and adaptation
+CHT,s3_c&a,7,0.0,Commitment and intergration
+CHT,s4_coms,9,4.0,"Community, engagement and communications"
+CHT,s5_mset,5,4.0,Measuring and setting emissions targets
+CHT,s6_cb,4,0.0,Co-benefits
+CHT,s7_dsi,5,0.0,Diversity and inclusion
+CHT,s8_est,5,0.0,"Education, skills and training"
+CHT,s9_ee,4,0.0,Ecological emergency
+CHW,s1_gov,21,15.0,"Governance, development and funding"
+CHW,s2_m&a,18,13.0,Mitigation and adaptation
+CHW,s3_c&a,7,3.0,Commitment and intergration
+CHW,s4_coms,9,6.0,"Community, engagement and communications"
+CHW,s5_mset,5,4.0,Measuring and setting emissions targets
+CHW,s6_cb,4,2.0,Co-benefits
+CHW,s7_dsi,5,2.0,Diversity and inclusion
+CHW,s8_est,5,1.0,"Education, skills and training"
+CHW,s9_ee,4,3.0,Ecological emergency
+CLD,s1_gov,21,2.0,"Governance, development and funding"
+CLD,s2_m&a,18,9.0,Mitigation and adaptation
+CLD,s3_c&a,7,3.0,Commitment and intergration
+CLD,s4_coms,9,4.0,"Community, engagement and communications"
+CLD,s5_mset,5,2.0,Measuring and setting emissions targets
+CLD,s6_cb,4,1.0,Co-benefits
+CLD,s7_dsi,5,0.0,Diversity and inclusion
+CLD,s8_est,5,1.0,"Education, skills and training"
+CLD,s9_ee,4,1.0,Ecological emergency
+CLK,s1_gov,21,0.0,"Governance, development and funding"
+CLK,s2_m&a,18,0.0,Mitigation and adaptation
+CLK,s3_c&a,7,0.0,Commitment and intergration
+CLK,s4_coms,9,0.0,"Community, engagement and communications"
+CLK,s5_mset,5,0.0,Measuring and setting emissions targets
+CLK,s6_cb,4,0.0,Co-benefits
+CLK,s7_dsi,5,0.0,Diversity and inclusion
+CLK,s8_est,5,0.0,"Education, skills and training"
+CLK,s9_ee,4,0.0,Ecological emergency
+CMA,s1_gov,21,1.0,"Governance, development and funding"
+CMA,s2_m&a,18,0.0,Mitigation and adaptation
+CMA,s3_c&a,5,3.0,Commitment and intergration
+CMA,s4_coms,9,2.0,"Community, engagement and communications"
+CMA,s5_mset,5,0.0,Measuring and setting emissions targets
+CMA,s6_cb,4,2.0,Co-benefits
+CMA,s7_dsi,5,0.0,Diversity and inclusion
+CMA,s8_est,5,0.0,"Education, skills and training"
+CMA,s9_ee,4,0.0,Ecological emergency
+CMD,s1_gov,21,14.0,"Governance, development and funding"
+CMD,s2_m&a,18,6.0,Mitigation and adaptation
+CMD,s3_c&a,7,6.0,Commitment and intergration
+CMD,s4_coms,9,6.0,"Community, engagement and communications"
+CMD,s5_mset,5,4.0,Measuring and setting emissions targets
+CMD,s6_cb,4,4.0,Co-benefits
+CMD,s7_dsi,5,1.0,Diversity and inclusion
+CMD,s8_est,5,3.0,"Education, skills and training"
+CMD,s9_ee,4,2.0,Ecological emergency
+CMN,s1_gov,21,10.0,"Governance, development and funding"
+CMN,s2_m&a,18,2.0,Mitigation and adaptation
+CMN,s3_c&a,7,5.0,Commitment and intergration
+CMN,s4_coms,9,3.0,"Community, engagement and communications"
+CMN,s5_mset,5,2.0,Measuring and setting emissions targets
+CMN,s6_cb,4,1.0,Co-benefits
+CMN,s7_dsi,5,0.0,Diversity and inclusion
+CMN,s8_est,5,1.0,"Education, skills and training"
+CMN,s9_ee,4,0.0,Ecological emergency
+COL,s1_gov,21,10.0,"Governance, development and funding"
+COL,s2_m&a,18,5.0,Mitigation and adaptation
+COL,s3_c&a,7,6.0,Commitment and intergration
+COL,s4_coms,9,6.0,"Community, engagement and communications"
+COL,s5_mset,5,3.0,Measuring and setting emissions targets
+COL,s6_cb,4,4.0,Co-benefits
+COL,s7_dsi,5,0.0,Diversity and inclusion
+COL,s8_est,5,2.0,"Education, skills and training"
+COL,s9_ee,4,2.0,Ecological emergency
+CON,s1_gov,21,15.0,"Governance, development and funding"
+CON,s2_m&a,18,17.0,Mitigation and adaptation
+CON,s3_c&a,7,5.0,Commitment and intergration
+CON,s4_coms,9,7.0,"Community, engagement and communications"
+CON,s5_mset,5,3.0,Measuring and setting emissions targets
+CON,s6_cb,4,3.0,Co-benefits
+CON,s7_dsi,5,1.0,Diversity and inclusion
+CON,s8_est,5,3.0,"Education, skills and training"
+CON,s9_ee,4,3.0,Ecological emergency
+COP,s1_gov,21,8.0,"Governance, development and funding"
+COP,s2_m&a,18,1.0,Mitigation and adaptation
+COP,s3_c&a,7,2.0,Commitment and intergration
+COP,s4_coms,9,3.0,"Community, engagement and communications"
+COP,s5_mset,5,1.0,Measuring and setting emissions targets
+COP,s6_cb,4,2.0,Co-benefits
+COP,s7_dsi,5,0.0,Diversity and inclusion
+COP,s8_est,5,1.0,"Education, skills and training"
+COP,s9_ee,4,2.0,Ecological emergency
+COT,s1_gov,21,7.0,"Governance, development and funding"
+COT,s2_m&a,18,3.0,Mitigation and adaptation
+COT,s3_c&a,7,3.0,Commitment and intergration
+COT,s4_coms,9,5.0,"Community, engagement and communications"
+COT,s5_mset,5,3.0,Measuring and setting emissions targets
+COT,s6_cb,4,3.0,Co-benefits
+COT,s7_dsi,5,0.0,Diversity and inclusion
+COT,s8_est,5,2.0,"Education, skills and training"
+COT,s9_ee,4,3.0,Ecological emergency
+COV,s1_gov,21,0.0,"Governance, development and funding"
+COV,s2_m&a,18,0.0,Mitigation and adaptation
+COV,s3_c&a,7,0.0,Commitment and intergration
+COV,s4_coms,9,0.0,"Community, engagement and communications"
+COV,s5_mset,5,0.0,Measuring and setting emissions targets
+COV,s6_cb,4,0.0,Co-benefits
+COV,s7_dsi,5,0.0,Diversity and inclusion
+COV,s8_est,5,0.0,"Education, skills and training"
+COV,s9_ee,4,0.0,Ecological emergency
+CPCA,s1_gov,21,0.0,"Governance, development and funding"
+CPCA,s2_m&a,18,0.0,Mitigation and adaptation
+CPCA,s3_c&a,5,0.0,Commitment and intergration
+CPCA,s4_coms,9,0.0,"Community, engagement and communications"
+CPCA,s5_mset,5,0.0,Measuring and setting emissions targets
+CPCA,s6_cb,4,0.0,Co-benefits
+CPCA,s7_dsi,5,0.0,Diversity and inclusion
+CPCA,s8_est,5,0.0,"Education, skills and training"
+CPCA,s9_ee,4,0.0,Ecological emergency
+CRA,s1_gov,21,8.0,"Governance, development and funding"
+CRA,s2_m&a,18,6.0,Mitigation and adaptation
+CRA,s3_c&a,7,1.0,Commitment and intergration
+CRA,s4_coms,9,3.0,"Community, engagement and communications"
+CRA,s5_mset,5,3.0,Measuring and setting emissions targets
+CRA,s6_cb,4,3.0,Co-benefits
+CRA,s7_dsi,5,2.0,Diversity and inclusion
+CRA,s8_est,5,0.0,"Education, skills and training"
+CRA,s9_ee,4,1.0,Ecological emergency
+CRF,s1_gov,21,14.0,"Governance, development and funding"
+CRF,s2_m&a,18,16.0,Mitigation and adaptation
+CRF,s3_c&a,7,6.0,Commitment and intergration
+CRF,s4_coms,9,8.0,"Community, engagement and communications"
+CRF,s5_mset,5,3.0,Measuring and setting emissions targets
+CRF,s6_cb,4,4.0,Co-benefits
+CRF,s7_dsi,5,0.0,Diversity and inclusion
+CRF,s8_est,5,2.0,"Education, skills and training"
+CRF,s9_ee,4,4.0,Ecological emergency
+CRW,s1_gov,21,0.0,"Governance, development and funding"
+CRW,s2_m&a,18,0.0,Mitigation and adaptation
+CRW,s3_c&a,7,0.0,Commitment and intergration
+CRW,s4_coms,9,0.0,"Community, engagement and communications"
+CRW,s5_mset,5,0.0,Measuring and setting emissions targets
+CRW,s6_cb,4,0.0,Co-benefits
+CRW,s7_dsi,5,0.0,Diversity and inclusion
+CRW,s8_est,5,0.0,"Education, skills and training"
+CRW,s9_ee,4,0.0,Ecological emergency
+CRY,s1_gov,21,11.0,"Governance, development and funding"
+CRY,s2_m&a,18,8.0,Mitigation and adaptation
+CRY,s3_c&a,7,5.0,Commitment and intergration
+CRY,s4_coms,9,5.0,"Community, engagement and communications"
+CRY,s5_mset,5,3.0,Measuring and setting emissions targets
+CRY,s6_cb,4,4.0,Co-benefits
+CRY,s7_dsi,5,3.0,Diversity and inclusion
+CRY,s8_est,5,3.0,"Education, skills and training"
+CRY,s9_ee,4,3.0,Ecological emergency
+CWY,s1_gov,21,1.0,"Governance, development and funding"
+CWY,s2_m&a,18,0.0,Mitigation and adaptation
+CWY,s3_c&a,7,0.0,Commitment and intergration
+CWY,s4_coms,9,2.0,"Community, engagement and communications"
+CWY,s5_mset,5,1.0,Measuring and setting emissions targets
+CWY,s6_cb,4,0.0,Co-benefits
+CWY,s7_dsi,5,0.0,Diversity and inclusion
+CWY,s8_est,5,0.0,"Education, skills and training"
+CWY,s9_ee,4,0.0,Ecological emergency
+DAC,s1_gov,21,6.0,"Governance, development and funding"
+DAC,s2_m&a,18,5.0,Mitigation and adaptation
+DAC,s3_c&a,7,5.0,Commitment and intergration
+DAC,s4_coms,9,5.0,"Community, engagement and communications"
+DAC,s5_mset,5,4.0,Measuring and setting emissions targets
+DAC,s6_cb,4,1.0,Co-benefits
+DAC,s7_dsi,5,0.0,Diversity and inclusion
+DAC,s8_est,5,2.0,"Education, skills and training"
+DAC,s9_ee,4,3.0,Ecological emergency
+DAL,s1_gov,21,15.0,"Governance, development and funding"
+DAL,s2_m&a,18,11.0,Mitigation and adaptation
+DAL,s3_c&a,7,6.0,Commitment and intergration
+DAL,s4_coms,9,5.0,"Community, engagement and communications"
+DAL,s5_mset,5,2.0,Measuring and setting emissions targets
+DAL,s6_cb,4,3.0,Co-benefits
+DAL,s7_dsi,5,2.0,Diversity and inclusion
+DAL,s8_est,5,2.0,"Education, skills and training"
+DAL,s9_ee,4,3.0,Ecological emergency
+DAR,s1_gov,21,0.0,"Governance, development and funding"
+DAR,s2_m&a,18,0.0,Mitigation and adaptation
+DAR,s3_c&a,7,0.0,Commitment and intergration
+DAR,s4_coms,9,0.0,"Community, engagement and communications"
+DAR,s5_mset,5,0.0,Measuring and setting emissions targets
+DAR,s6_cb,4,0.0,Co-benefits
+DAR,s7_dsi,5,0.0,Diversity and inclusion
+DAR,s8_est,5,0.0,"Education, skills and training"
+DAR,s9_ee,4,0.0,Ecological emergency
+DBY,s1_gov,21,8.0,"Governance, development and funding"
+DBY,s2_m&a,18,4.0,Mitigation and adaptation
+DBY,s3_c&a,5,2.0,Commitment and intergration
+DBY,s4_coms,9,4.0,"Community, engagement and communications"
+DBY,s5_mset,5,3.0,Measuring and setting emissions targets
+DBY,s6_cb,4,2.0,Co-benefits
+DBY,s7_dsi,5,1.0,Diversity and inclusion
+DBY,s8_est,5,3.0,"Education, skills and training"
+DBY,s9_ee,4,0.0,Ecological emergency
+DEB,s1_gov,21,13.0,"Governance, development and funding"
+DEB,s2_m&a,18,9.0,Mitigation and adaptation
+DEB,s3_c&a,7,4.0,Commitment and intergration
+DEB,s4_coms,9,4.0,"Community, engagement and communications"
+DEB,s5_mset,5,5.0,Measuring and setting emissions targets
+DEB,s6_cb,4,1.0,Co-benefits
+DEB,s7_dsi,5,1.0,Diversity and inclusion
+DEB,s8_est,5,1.0,"Education, skills and training"
+DEB,s9_ee,4,3.0,Ecological emergency
+DEN,s1_gov,21,9.0,"Governance, development and funding"
+DEN,s2_m&a,18,3.0,Mitigation and adaptation
+DEN,s3_c&a,7,6.0,Commitment and intergration
+DEN,s4_coms,9,7.0,"Community, engagement and communications"
+DEN,s5_mset,5,2.0,Measuring and setting emissions targets
+DEN,s6_cb,4,0.0,Co-benefits
+DEN,s7_dsi,5,0.0,Diversity and inclusion
+DEN,s8_est,5,3.0,"Education, skills and training"
+DEN,s9_ee,4,3.0,Ecological emergency
+DER,s1_gov,21,0.0,"Governance, development and funding"
+DER,s2_m&a,18,0.0,Mitigation and adaptation
+DER,s3_c&a,7,0.0,Commitment and intergration
+DER,s4_coms,9,0.0,"Community, engagement and communications"
+DER,s5_mset,5,0.0,Measuring and setting emissions targets
+DER,s6_cb,4,0.0,Co-benefits
+DER,s7_dsi,5,0.0,Diversity and inclusion
+DER,s8_est,5,0.0,"Education, skills and training"
+DER,s9_ee,4,0.0,Ecological emergency
+DEV,s1_gov,21,8.0,"Governance, development and funding"
+DEV,s2_m&a,18,9.0,Mitigation and adaptation
+DEV,s3_c&a,5,2.0,Commitment and intergration
+DEV,s4_coms,9,8.0,"Community, engagement and communications"
+DEV,s5_mset,5,2.0,Measuring and setting emissions targets
+DEV,s6_cb,4,2.0,Co-benefits
+DEV,s7_dsi,5,0.0,Diversity and inclusion
+DEV,s8_est,5,2.0,"Education, skills and training"
+DEV,s9_ee,4,3.0,Ecological emergency
+DGY,s1_gov,21,14.0,"Governance, development and funding"
+DGY,s2_m&a,18,0.0,Mitigation and adaptation
+DGY,s3_c&a,7,1.0,Commitment and intergration
+DGY,s4_coms,9,1.0,"Community, engagement and communications"
+DGY,s5_mset,5,2.0,Measuring and setting emissions targets
+DGY,s6_cb,4,0.0,Co-benefits
+DGY,s7_dsi,5,0.0,Diversity and inclusion
+DGY,s8_est,5,1.0,"Education, skills and training"
+DGY,s9_ee,4,0.0,Ecological emergency
+DNC,s1_gov,21,7.0,"Governance, development and funding"
+DNC,s2_m&a,18,7.0,Mitigation and adaptation
+DNC,s3_c&a,7,2.0,Commitment and intergration
+DNC,s4_coms,9,5.0,"Community, engagement and communications"
+DNC,s5_mset,5,1.0,Measuring and setting emissions targets
+DNC,s6_cb,4,3.0,Co-benefits
+DNC,s7_dsi,5,1.0,Diversity and inclusion
+DNC,s8_est,5,1.0,"Education, skills and training"
+DNC,s9_ee,4,3.0,Ecological emergency
+DND,s1_gov,21,11.0,"Governance, development and funding"
+DND,s2_m&a,18,14.0,Mitigation and adaptation
+DND,s3_c&a,7,4.0,Commitment and intergration
+DND,s4_coms,9,5.0,"Community, engagement and communications"
+DND,s5_mset,5,4.0,Measuring and setting emissions targets
+DND,s6_cb,4,4.0,Co-benefits
+DND,s7_dsi,5,3.0,Diversity and inclusion
+DND,s8_est,5,2.0,"Education, skills and training"
+DND,s9_ee,4,3.0,Ecological emergency
+DOV,s1_gov,21,13.0,"Governance, development and funding"
+DOV,s2_m&a,18,9.0,Mitigation and adaptation
+DOV,s3_c&a,7,5.0,Commitment and intergration
+DOV,s4_coms,9,7.0,"Community, engagement and communications"
+DOV,s5_mset,5,1.0,Measuring and setting emissions targets
+DOV,s6_cb,4,4.0,Co-benefits
+DOV,s7_dsi,5,1.0,Diversity and inclusion
+DOV,s8_est,5,0.0,"Education, skills and training"
+DOV,s9_ee,4,2.0,Ecological emergency
+DRS,s1_gov,21,9.0,"Governance, development and funding"
+DRS,s2_m&a,18,5.0,Mitigation and adaptation
+DRS,s3_c&a,7,2.0,Commitment and intergration
+DRS,s4_coms,9,3.0,"Community, engagement and communications"
+DRS,s5_mset,5,0.0,Measuring and setting emissions targets
+DRS,s6_cb,4,2.0,Co-benefits
+DRS,s7_dsi,5,0.0,Diversity and inclusion
+DRS,s8_est,5,0.0,"Education, skills and training"
+DRS,s9_ee,4,2.0,Ecological emergency
+DST,s1_gov,21,12.0,"Governance, development and funding"
+DST,s2_m&a,18,16.0,Mitigation and adaptation
+DST,s3_c&a,7,6.0,Commitment and intergration
+DST,s4_coms,9,8.0,"Community, engagement and communications"
+DST,s5_mset,5,1.0,Measuring and setting emissions targets
+DST,s6_cb,4,4.0,Co-benefits
+DST,s7_dsi,5,0.0,Diversity and inclusion
+DST,s8_est,5,4.0,"Education, skills and training"
+DST,s9_ee,4,4.0,Ecological emergency
+DUD,s1_gov,21,0.0,"Governance, development and funding"
+DUD,s2_m&a,18,0.0,Mitigation and adaptation
+DUD,s3_c&a,7,0.0,Commitment and intergration
+DUD,s4_coms,9,0.0,"Community, engagement and communications"
+DUD,s5_mset,5,0.0,Measuring and setting emissions targets
+DUD,s6_cb,4,0.0,Co-benefits
+DUD,s7_dsi,5,0.0,Diversity and inclusion
+DUD,s8_est,5,0.0,"Education, skills and training"
+DUD,s9_ee,4,0.0,Ecological emergency
+DUR,s1_gov,21,16.0,"Governance, development and funding"
+DUR,s2_m&a,18,10.0,Mitigation and adaptation
+DUR,s3_c&a,7,6.0,Commitment and intergration
+DUR,s4_coms,9,4.0,"Community, engagement and communications"
+DUR,s5_mset,5,4.0,Measuring and setting emissions targets
+DUR,s6_cb,4,4.0,Co-benefits
+DUR,s7_dsi,5,0.0,Diversity and inclusion
+DUR,s8_est,5,2.0,"Education, skills and training"
+DUR,s9_ee,4,1.0,Ecological emergency
+EAL,s1_gov,21,12.0,"Governance, development and funding"
+EAL,s2_m&a,18,10.0,Mitigation and adaptation
+EAL,s3_c&a,7,7.0,Commitment and intergration
+EAL,s4_coms,9,9.0,"Community, engagement and communications"
+EAL,s5_mset,5,4.0,Measuring and setting emissions targets
+EAL,s6_cb,4,2.0,Co-benefits
+EAL,s7_dsi,5,2.0,Diversity and inclusion
+EAL,s8_est,5,4.0,"Education, skills and training"
+EAL,s9_ee,4,3.0,Ecological emergency
+EAS,s1_gov,21,9.0,"Governance, development and funding"
+EAS,s2_m&a,18,8.0,Mitigation and adaptation
+EAS,s3_c&a,7,6.0,Commitment and intergration
+EAS,s4_coms,9,4.0,"Community, engagement and communications"
+EAS,s5_mset,5,5.0,Measuring and setting emissions targets
+EAS,s6_cb,4,2.0,Co-benefits
+EAS,s7_dsi,5,0.0,Diversity and inclusion
+EAS,s8_est,5,1.0,"Education, skills and training"
+EAS,s9_ee,4,2.0,Ecological emergency
+EAT,s1_gov,21,5.0,"Governance, development and funding"
+EAT,s2_m&a,18,5.0,Mitigation and adaptation
+EAT,s3_c&a,7,5.0,Commitment and intergration
+EAT,s4_coms,9,8.0,"Community, engagement and communications"
+EAT,s5_mset,5,2.0,Measuring and setting emissions targets
+EAT,s6_cb,4,3.0,Co-benefits
+EAT,s7_dsi,5,0.0,Diversity and inclusion
+EAT,s8_est,5,2.0,"Education, skills and training"
+EAT,s9_ee,4,3.0,Ecological emergency
+EAY,s1_gov,21,4.0,"Governance, development and funding"
+EAY,s2_m&a,18,5.0,Mitigation and adaptation
+EAY,s3_c&a,7,1.0,Commitment and intergration
+EAY,s4_coms,9,5.0,"Community, engagement and communications"
+EAY,s5_mset,5,4.0,Measuring and setting emissions targets
+EAY,s6_cb,4,1.0,Co-benefits
+EAY,s7_dsi,5,0.0,Diversity and inclusion
+EAY,s8_est,5,3.0,"Education, skills and training"
+EAY,s9_ee,4,2.0,Ecological emergency
+ECA,s1_gov,21,9.0,"Governance, development and funding"
+ECA,s2_m&a,18,2.0,Mitigation and adaptation
+ECA,s3_c&a,7,2.0,Commitment and intergration
+ECA,s4_coms,9,7.0,"Community, engagement and communications"
+ECA,s5_mset,5,4.0,Measuring and setting emissions targets
+ECA,s6_cb,4,2.0,Co-benefits
+ECA,s7_dsi,5,0.0,Diversity and inclusion
+ECA,s8_est,5,2.0,"Education, skills and training"
+ECA,s9_ee,4,3.0,Ecological emergency
+EDE,s1_gov,21,12.0,"Governance, development and funding"
+EDE,s2_m&a,18,18.0,Mitigation and adaptation
+EDE,s3_c&a,7,5.0,Commitment and intergration
+EDE,s4_coms,9,8.0,"Community, engagement and communications"
+EDE,s5_mset,5,4.0,Measuring and setting emissions targets
+EDE,s6_cb,4,4.0,Co-benefits
+EDE,s7_dsi,5,2.0,Diversity and inclusion
+EDE,s8_est,5,4.0,"Education, skills and training"
+EDE,s9_ee,4,4.0,Ecological emergency
+EDH,s1_gov,21,20.0,"Governance, development and funding"
+EDH,s2_m&a,18,16.0,Mitigation and adaptation
+EDH,s3_c&a,7,7.0,Commitment and intergration
+EDH,s4_coms,9,6.0,"Community, engagement and communications"
+EDH,s5_mset,5,4.0,Measuring and setting emissions targets
+EDH,s6_cb,4,3.0,Co-benefits
+EDH,s7_dsi,5,2.0,Diversity and inclusion
+EDH,s8_est,5,5.0,"Education, skills and training"
+EDH,s9_ee,4,3.0,Ecological emergency
+EDN,s1_gov,21,0.0,"Governance, development and funding"
+EDN,s2_m&a,18,0.0,Mitigation and adaptation
+EDN,s3_c&a,7,0.0,Commitment and intergration
+EDN,s4_coms,9,0.0,"Community, engagement and communications"
+EDN,s5_mset,5,0.0,Measuring and setting emissions targets
+EDN,s6_cb,4,0.0,Co-benefits
+EDN,s7_dsi,5,0.0,Diversity and inclusion
+EDN,s8_est,5,0.0,"Education, skills and training"
+EDN,s9_ee,4,0.0,Ecological emergency
+EDU,s1_gov,21,8.0,"Governance, development and funding"
+EDU,s2_m&a,18,10.0,Mitigation and adaptation
+EDU,s3_c&a,7,6.0,Commitment and intergration
+EDU,s4_coms,9,4.0,"Community, engagement and communications"
+EDU,s5_mset,5,1.0,Measuring and setting emissions targets
+EDU,s6_cb,4,3.0,Co-benefits
+EDU,s7_dsi,5,3.0,Diversity and inclusion
+EDU,s8_est,5,4.0,"Education, skills and training"
+EDU,s9_ee,4,3.0,Ecological emergency
+EHA,s1_gov,21,5.0,"Governance, development and funding"
+EHA,s2_m&a,18,5.0,Mitigation and adaptation
+EHA,s3_c&a,7,1.0,Commitment and intergration
+EHA,s4_coms,9,4.0,"Community, engagement and communications"
+EHA,s5_mset,5,1.0,Measuring and setting emissions targets
+EHA,s6_cb,4,0.0,Co-benefits
+EHA,s7_dsi,5,1.0,Diversity and inclusion
+EHA,s8_est,5,0.0,"Education, skills and training"
+EHA,s9_ee,4,3.0,Ecological emergency
+EHE,s1_gov,21,6.0,"Governance, development and funding"
+EHE,s2_m&a,18,5.0,Mitigation and adaptation
+EHE,s3_c&a,7,4.0,Commitment and intergration
+EHE,s4_coms,9,4.0,"Community, engagement and communications"
+EHE,s5_mset,5,1.0,Measuring and setting emissions targets
+EHE,s6_cb,4,0.0,Co-benefits
+EHE,s7_dsi,5,0.0,Diversity and inclusion
+EHE,s8_est,5,2.0,"Education, skills and training"
+EHE,s9_ee,4,1.0,Ecological emergency
+ELI,s1_gov,21,10.0,"Governance, development and funding"
+ELI,s2_m&a,18,1.0,Mitigation and adaptation
+ELI,s3_c&a,7,3.0,Commitment and intergration
+ELI,s4_coms,9,3.0,"Community, engagement and communications"
+ELI,s5_mset,5,2.0,Measuring and setting emissions targets
+ELI,s6_cb,4,1.0,Co-benefits
+ELI,s7_dsi,5,0.0,Diversity and inclusion
+ELI,s8_est,5,0.0,"Education, skills and training"
+ELI,s9_ee,4,0.0,Ecological emergency
+ELM,s1_gov,21,10.0,"Governance, development and funding"
+ELM,s2_m&a,18,17.0,Mitigation and adaptation
+ELM,s3_c&a,7,6.0,Commitment and intergration
+ELM,s4_coms,9,4.0,"Community, engagement and communications"
+ELM,s5_mset,5,4.0,Measuring and setting emissions targets
+ELM,s6_cb,4,2.0,Co-benefits
+ELM,s7_dsi,5,0.0,Diversity and inclusion
+ELM,s8_est,5,3.0,"Education, skills and training"
+ELM,s9_ee,4,1.0,Ecological emergency
+ELN,s1_gov,21,12.0,"Governance, development and funding"
+ELN,s2_m&a,18,18.0,Mitigation and adaptation
+ELN,s3_c&a,7,7.0,Commitment and intergration
+ELN,s4_coms,9,7.0,"Community, engagement and communications"
+ELN,s5_mset,5,2.0,Measuring and setting emissions targets
+ELN,s6_cb,4,3.0,Co-benefits
+ELN,s7_dsi,5,0.0,Diversity and inclusion
+ELN,s8_est,5,4.0,"Education, skills and training"
+ELN,s9_ee,4,3.0,Ecological emergency
+ELS,s1_gov,21,9.0,"Governance, development and funding"
+ELS,s2_m&a,18,0.0,Mitigation and adaptation
+ELS,s3_c&a,7,2.0,Commitment and intergration
+ELS,s4_coms,9,2.0,"Community, engagement and communications"
+ELS,s5_mset,5,2.0,Measuring and setting emissions targets
+ELS,s6_cb,4,0.0,Co-benefits
+ELS,s7_dsi,5,0.0,Diversity and inclusion
+ELS,s8_est,5,0.0,"Education, skills and training"
+ELS,s9_ee,4,1.0,Ecological emergency
+ENF,s1_gov,21,12.0,"Governance, development and funding"
+ENF,s2_m&a,18,8.0,Mitigation and adaptation
+ENF,s3_c&a,7,5.0,Commitment and intergration
+ENF,s4_coms,9,6.0,"Community, engagement and communications"
+ENF,s5_mset,5,3.0,Measuring and setting emissions targets
+ENF,s6_cb,4,1.0,Co-benefits
+ENF,s7_dsi,5,0.0,Diversity and inclusion
+ENF,s8_est,5,0.0,"Education, skills and training"
+ENF,s9_ee,4,2.0,Ecological emergency
+EPP,s1_gov,21,11.0,"Governance, development and funding"
+EPP,s2_m&a,18,11.0,Mitigation and adaptation
+EPP,s3_c&a,7,4.0,Commitment and intergration
+EPP,s4_coms,9,6.0,"Community, engagement and communications"
+EPP,s5_mset,5,3.0,Measuring and setting emissions targets
+EPP,s6_cb,4,4.0,Co-benefits
+EPP,s7_dsi,5,3.0,Diversity and inclusion
+EPP,s8_est,5,2.0,"Education, skills and training"
+EPP,s9_ee,4,2.0,Ecological emergency
+EPS,s1_gov,21,10.0,"Governance, development and funding"
+EPS,s2_m&a,18,14.0,Mitigation and adaptation
+EPS,s3_c&a,7,6.0,Commitment and intergration
+EPS,s4_coms,9,4.0,"Community, engagement and communications"
+EPS,s5_mset,5,2.0,Measuring and setting emissions targets
+EPS,s6_cb,4,2.0,Co-benefits
+EPS,s7_dsi,5,0.0,Diversity and inclusion
+EPS,s8_est,5,3.0,"Education, skills and training"
+EPS,s9_ee,4,3.0,Ecological emergency
+ERE,s1_gov,21,0.0,"Governance, development and funding"
+ERE,s2_m&a,18,0.0,Mitigation and adaptation
+ERE,s3_c&a,7,0.0,Commitment and intergration
+ERE,s4_coms,9,0.0,"Community, engagement and communications"
+ERE,s5_mset,5,0.0,Measuring and setting emissions targets
+ERE,s6_cb,4,0.0,Co-benefits
+ERE,s7_dsi,5,0.0,Diversity and inclusion
+ERE,s8_est,5,0.0,"Education, skills and training"
+ERE,s9_ee,4,0.0,Ecological emergency
+ERW,s1_gov,21,0.0,"Governance, development and funding"
+ERW,s2_m&a,18,0.0,Mitigation and adaptation
+ERW,s3_c&a,7,0.0,Commitment and intergration
+ERW,s4_coms,9,0.0,"Community, engagement and communications"
+ERW,s5_mset,5,0.0,Measuring and setting emissions targets
+ERW,s6_cb,4,0.0,Co-benefits
+ERW,s7_dsi,5,0.0,Diversity and inclusion
+ERW,s8_est,5,0.0,"Education, skills and training"
+ERW,s9_ee,4,0.0,Ecological emergency
+ERY,s1_gov,21,0.0,"Governance, development and funding"
+ERY,s2_m&a,18,0.0,Mitigation and adaptation
+ERY,s3_c&a,7,0.0,Commitment and intergration
+ERY,s4_coms,9,0.0,"Community, engagement and communications"
+ERY,s5_mset,5,0.0,Measuring and setting emissions targets
+ERY,s6_cb,4,0.0,Co-benefits
+ERY,s7_dsi,5,0.0,Diversity and inclusion
+ERY,s8_est,5,0.0,"Education, skills and training"
+ERY,s9_ee,4,0.0,Ecological emergency
+ESK,s1_gov,21,0.0,"Governance, development and funding"
+ESK,s2_m&a,18,0.0,Mitigation and adaptation
+ESK,s3_c&a,7,0.0,Commitment and intergration
+ESK,s4_coms,9,0.0,"Community, engagement and communications"
+ESK,s5_mset,5,0.0,Measuring and setting emissions targets
+ESK,s6_cb,4,0.0,Co-benefits
+ESK,s7_dsi,5,0.0,Diversity and inclusion
+ESK,s8_est,5,0.0,"Education, skills and training"
+ESK,s9_ee,4,0.0,Ecological emergency
+ESS,s1_gov,21,0.0,"Governance, development and funding"
+ESS,s2_m&a,18,0.0,Mitigation and adaptation
+ESS,s3_c&a,5,0.0,Commitment and intergration
+ESS,s4_coms,9,0.0,"Community, engagement and communications"
+ESS,s5_mset,5,0.0,Measuring and setting emissions targets
+ESS,s6_cb,4,0.0,Co-benefits
+ESS,s7_dsi,5,0.0,Diversity and inclusion
+ESS,s8_est,5,0.0,"Education, skills and training"
+ESS,s9_ee,4,0.0,Ecological emergency
+EST,s1_gov,21,6.0,"Governance, development and funding"
+EST,s2_m&a,18,5.0,Mitigation and adaptation
+EST,s3_c&a,7,1.0,Commitment and intergration
+EST,s4_coms,9,4.0,"Community, engagement and communications"
+EST,s5_mset,5,1.0,Measuring and setting emissions targets
+EST,s6_cb,4,1.0,Co-benefits
+EST,s7_dsi,5,0.0,Diversity and inclusion
+EST,s8_est,5,1.0,"Education, skills and training"
+EST,s9_ee,4,1.0,Ecological emergency
+ESX,s1_gov,21,9.0,"Governance, development and funding"
+ESX,s2_m&a,18,2.0,Mitigation and adaptation
+ESX,s3_c&a,5,3.0,Commitment and intergration
+ESX,s4_coms,9,3.0,"Community, engagement and communications"
+ESX,s5_mset,5,4.0,Measuring and setting emissions targets
+ESX,s6_cb,4,3.0,Co-benefits
+ESX,s7_dsi,5,0.0,Diversity and inclusion
+ESX,s8_est,5,0.0,"Education, skills and training"
+ESX,s9_ee,4,3.0,Ecological emergency
+EXE,s1_gov,21,10.0,"Governance, development and funding"
+EXE,s2_m&a,18,9.0,Mitigation and adaptation
+EXE,s3_c&a,7,6.0,Commitment and intergration
+EXE,s4_coms,9,6.0,"Community, engagement and communications"
+EXE,s5_mset,5,3.0,Measuring and setting emissions targets
+EXE,s6_cb,4,3.0,Co-benefits
+EXE,s7_dsi,5,2.0,Diversity and inclusion
+EXE,s8_est,5,3.0,"Education, skills and training"
+EXE,s9_ee,4,3.0,Ecological emergency
+FAL,s1_gov,21,6.0,"Governance, development and funding"
+FAL,s2_m&a,18,0.0,Mitigation and adaptation
+FAL,s3_c&a,7,1.0,Commitment and intergration
+FAL,s4_coms,9,2.0,"Community, engagement and communications"
+FAL,s5_mset,5,2.0,Measuring and setting emissions targets
+FAL,s6_cb,4,0.0,Co-benefits
+FAL,s7_dsi,5,0.0,Diversity and inclusion
+FAL,s8_est,5,0.0,"Education, skills and training"
+FAL,s9_ee,4,0.0,Ecological emergency
+FAR,s1_gov,21,8.0,"Governance, development and funding"
+FAR,s2_m&a,18,16.0,Mitigation and adaptation
+FAR,s3_c&a,7,3.0,Commitment and intergration
+FAR,s4_coms,9,7.0,"Community, engagement and communications"
+FAR,s5_mset,5,5.0,Measuring and setting emissions targets
+FAR,s6_cb,4,2.0,Co-benefits
+FAR,s7_dsi,5,2.0,Diversity and inclusion
+FAR,s8_est,5,2.0,"Education, skills and training"
+FAR,s9_ee,4,3.0,Ecological emergency
+FEN,s1_gov,21,0.0,"Governance, development and funding"
+FEN,s2_m&a,18,0.0,Mitigation and adaptation
+FEN,s3_c&a,7,0.0,Commitment and intergration
+FEN,s4_coms,9,0.0,"Community, engagement and communications"
+FEN,s5_mset,5,0.0,Measuring and setting emissions targets
+FEN,s6_cb,4,0.0,Co-benefits
+FEN,s7_dsi,5,0.0,Diversity and inclusion
+FEN,s8_est,5,0.0,"Education, skills and training"
+FEN,s9_ee,4,0.0,Ecological emergency
+FIF,s1_gov,21,15.0,"Governance, development and funding"
+FIF,s2_m&a,18,15.0,Mitigation and adaptation
+FIF,s3_c&a,7,4.0,Commitment and intergration
+FIF,s4_coms,9,6.0,"Community, engagement and communications"
+FIF,s5_mset,5,4.0,Measuring and setting emissions targets
+FIF,s6_cb,4,4.0,Co-benefits
+FIF,s7_dsi,5,2.0,Diversity and inclusion
+FIF,s8_est,5,5.0,"Education, skills and training"
+FIF,s9_ee,4,1.0,Ecological emergency
+FLN,s1_gov,21,0.0,"Governance, development and funding"
+FLN,s2_m&a,18,0.0,Mitigation and adaptation
+FLN,s3_c&a,7,0.0,Commitment and intergration
+FLN,s4_coms,9,0.0,"Community, engagement and communications"
+FLN,s5_mset,5,0.0,Measuring and setting emissions targets
+FLN,s6_cb,4,0.0,Co-benefits
+FLN,s7_dsi,5,0.0,Diversity and inclusion
+FLN,s8_est,5,0.0,"Education, skills and training"
+FLN,s9_ee,4,0.0,Ecological emergency
+FMO,s1_gov,21,4.0,"Governance, development and funding"
+FMO,s2_m&a,18,7.0,Mitigation and adaptation
+FMO,s3_c&a,7,4.0,Commitment and intergration
+FMO,s4_coms,9,3.0,"Community, engagement and communications"
+FMO,s5_mset,5,1.0,Measuring and setting emissions targets
+FMO,s6_cb,4,1.0,Co-benefits
+FMO,s7_dsi,5,0.0,Diversity and inclusion
+FMO,s8_est,5,1.0,"Education, skills and training"
+FMO,s9_ee,4,0.0,Ecological emergency
+FOE,s1_gov,21,10.0,"Governance, development and funding"
+FOE,s2_m&a,18,9.0,Mitigation and adaptation
+FOE,s3_c&a,7,3.0,Commitment and intergration
+FOE,s4_coms,9,7.0,"Community, engagement and communications"
+FOE,s5_mset,5,2.0,Measuring and setting emissions targets
+FOE,s6_cb,4,2.0,Co-benefits
+FOE,s7_dsi,5,0.0,Diversity and inclusion
+FOE,s8_est,5,1.0,"Education, skills and training"
+FOE,s9_ee,4,3.0,Ecological emergency
+FYL,s1_gov,21,0.0,"Governance, development and funding"
+FYL,s2_m&a,18,0.0,Mitigation and adaptation
+FYL,s3_c&a,7,0.0,Commitment and intergration
+FYL,s4_coms,9,0.0,"Community, engagement and communications"
+FYL,s5_mset,5,0.0,Measuring and setting emissions targets
+FYL,s6_cb,4,0.0,Co-benefits
+FYL,s7_dsi,5,0.0,Diversity and inclusion
+FYL,s8_est,5,0.0,"Education, skills and training"
+FYL,s9_ee,4,0.0,Ecological emergency
+GAT,s1_gov,21,3.0,"Governance, development and funding"
+GAT,s2_m&a,18,0.0,Mitigation and adaptation
+GAT,s3_c&a,7,0.0,Commitment and intergration
+GAT,s4_coms,9,5.0,"Community, engagement and communications"
+GAT,s5_mset,5,1.0,Measuring and setting emissions targets
+GAT,s6_cb,4,2.0,Co-benefits
+GAT,s7_dsi,5,0.0,Diversity and inclusion
+GAT,s8_est,5,0.0,"Education, skills and training"
+GAT,s9_ee,4,1.0,Ecological emergency
+GED,s1_gov,21,11.0,"Governance, development and funding"
+GED,s2_m&a,18,14.0,Mitigation and adaptation
+GED,s3_c&a,7,3.0,Commitment and intergration
+GED,s4_coms,9,4.0,"Community, engagement and communications"
+GED,s5_mset,5,3.0,Measuring and setting emissions targets
+GED,s6_cb,4,1.0,Co-benefits
+GED,s7_dsi,5,0.0,Diversity and inclusion
+GED,s8_est,5,2.0,"Education, skills and training"
+GED,s9_ee,4,2.0,Ecological emergency
+GLA,s1_gov,21,10.0,"Governance, development and funding"
+GLA,s2_m&a,18,12.0,Mitigation and adaptation
+GLA,s3_c&a,7,4.0,Commitment and intergration
+GLA,s4_coms,9,8.0,"Community, engagement and communications"
+GLA,s5_mset,5,4.0,Measuring and setting emissions targets
+GLA,s6_cb,4,4.0,Co-benefits
+GLA,s7_dsi,5,3.0,Diversity and inclusion
+GLA,s8_est,5,2.0,"Education, skills and training"
+GLA,s9_ee,4,3.0,Ecological emergency
+GLG,s1_gov,21,16.0,"Governance, development and funding"
+GLG,s2_m&a,18,11.0,Mitigation and adaptation
+GLG,s3_c&a,7,6.0,Commitment and intergration
+GLG,s4_coms,9,7.0,"Community, engagement and communications"
+GLG,s5_mset,5,3.0,Measuring and setting emissions targets
+GLG,s6_cb,4,4.0,Co-benefits
+GLG,s7_dsi,5,2.0,Diversity and inclusion
+GLG,s8_est,5,5.0,"Education, skills and training"
+GLG,s9_ee,4,4.0,Ecological emergency
+GLO,s1_gov,21,0.0,"Governance, development and funding"
+GLO,s2_m&a,18,0.0,Mitigation and adaptation
+GLO,s3_c&a,7,0.0,Commitment and intergration
+GLO,s4_coms,9,0.0,"Community, engagement and communications"
+GLO,s5_mset,5,0.0,Measuring and setting emissions targets
+GLO,s6_cb,4,0.0,Co-benefits
+GLO,s7_dsi,5,0.0,Diversity and inclusion
+GLO,s8_est,5,0.0,"Education, skills and training"
+GLO,s9_ee,4,0.0,Ecological emergency
+GLS,s1_gov,21,8.0,"Governance, development and funding"
+GLS,s2_m&a,18,7.0,Mitigation and adaptation
+GLS,s3_c&a,5,3.0,Commitment and intergration
+GLS,s4_coms,9,5.0,"Community, engagement and communications"
+GLS,s5_mset,5,2.0,Measuring and setting emissions targets
+GLS,s6_cb,4,0.0,Co-benefits
+GLS,s7_dsi,5,0.0,Diversity and inclusion
+GLS,s8_est,5,0.0,"Education, skills and training"
+GLS,s9_ee,4,0.0,Ecological emergency
+GMCA,s1_gov,21,6.0,"Governance, development and funding"
+GMCA,s2_m&a,18,15.0,Mitigation and adaptation
+GMCA,s3_c&a,5,2.0,Commitment and intergration
+GMCA,s4_coms,9,6.0,"Community, engagement and communications"
+GMCA,s5_mset,5,4.0,Measuring and setting emissions targets
+GMCA,s6_cb,4,4.0,Co-benefits
+GMCA,s7_dsi,5,1.0,Diversity and inclusion
+GMCA,s8_est,5,3.0,"Education, skills and training"
+GMCA,s9_ee,4,3.0,Ecological emergency
+GOS,s1_gov,21,8.0,"Governance, development and funding"
+GOS,s2_m&a,18,9.0,Mitigation and adaptation
+GOS,s3_c&a,7,5.0,Commitment and intergration
+GOS,s4_coms,9,4.0,"Community, engagement and communications"
+GOS,s5_mset,5,3.0,Measuring and setting emissions targets
+GOS,s6_cb,4,1.0,Co-benefits
+GOS,s7_dsi,5,0.0,Diversity and inclusion
+GOS,s8_est,5,1.0,"Education, skills and training"
+GOS,s9_ee,4,2.0,Ecological emergency
+GRA,s1_gov,21,12.0,"Governance, development and funding"
+GRA,s2_m&a,18,11.0,Mitigation and adaptation
+GRA,s3_c&a,7,5.0,Commitment and intergration
+GRA,s4_coms,9,5.0,"Community, engagement and communications"
+GRA,s5_mset,5,2.0,Measuring and setting emissions targets
+GRA,s6_cb,4,4.0,Co-benefits
+GRA,s7_dsi,5,1.0,Diversity and inclusion
+GRA,s8_est,5,2.0,"Education, skills and training"
+GRA,s9_ee,4,2.0,Ecological emergency
+GRE,s1_gov,21,16.0,"Governance, development and funding"
+GRE,s2_m&a,18,11.0,Mitigation and adaptation
+GRE,s3_c&a,7,5.0,Commitment and intergration
+GRE,s4_coms,9,5.0,"Community, engagement and communications"
+GRE,s5_mset,5,4.0,Measuring and setting emissions targets
+GRE,s6_cb,4,3.0,Co-benefits
+GRE,s7_dsi,5,1.0,Diversity and inclusion
+GRE,s8_est,5,4.0,"Education, skills and training"
+GRE,s9_ee,4,2.0,Ecological emergency
+GRT,s1_gov,21,7.0,"Governance, development and funding"
+GRT,s2_m&a,18,17.0,Mitigation and adaptation
+GRT,s3_c&a,7,3.0,Commitment and intergration
+GRT,s4_coms,9,1.0,"Community, engagement and communications"
+GRT,s5_mset,5,1.0,Measuring and setting emissions targets
+GRT,s6_cb,4,2.0,Co-benefits
+GRT,s7_dsi,5,0.0,Diversity and inclusion
+GRT,s8_est,5,3.0,"Education, skills and training"
+GRT,s9_ee,4,1.0,Ecological emergency
+GRY,s1_gov,21,0.0,"Governance, development and funding"
+GRY,s2_m&a,18,0.0,Mitigation and adaptation
+GRY,s3_c&a,7,0.0,Commitment and intergration
+GRY,s4_coms,9,0.0,"Community, engagement and communications"
+GRY,s5_mset,5,0.0,Measuring and setting emissions targets
+GRY,s6_cb,4,0.0,Co-benefits
+GRY,s7_dsi,5,0.0,Diversity and inclusion
+GRY,s8_est,5,0.0,"Education, skills and training"
+GRY,s9_ee,4,0.0,Ecological emergency
+GWN,s1_gov,21,0.0,"Governance, development and funding"
+GWN,s2_m&a,18,0.0,Mitigation and adaptation
+GWN,s3_c&a,7,0.0,Commitment and intergration
+GWN,s4_coms,9,0.0,"Community, engagement and communications"
+GWN,s5_mset,5,0.0,Measuring and setting emissions targets
+GWN,s6_cb,4,0.0,Co-benefits
+GWN,s7_dsi,5,0.0,Diversity and inclusion
+GWN,s8_est,5,0.0,"Education, skills and training"
+GWN,s9_ee,4,0.0,Ecological emergency
+HAA,s1_gov,21,7.0,"Governance, development and funding"
+HAA,s2_m&a,18,10.0,Mitigation and adaptation
+HAA,s3_c&a,7,5.0,Commitment and intergration
+HAA,s4_coms,9,5.0,"Community, engagement and communications"
+HAA,s5_mset,5,1.0,Measuring and setting emissions targets
+HAA,s6_cb,4,3.0,Co-benefits
+HAA,s7_dsi,5,0.0,Diversity and inclusion
+HAA,s8_est,5,1.0,"Education, skills and training"
+HAA,s9_ee,4,3.0,Ecological emergency
+HAE,s1_gov,21,4.0,"Governance, development and funding"
+HAE,s2_m&a,18,3.0,Mitigation and adaptation
+HAE,s3_c&a,7,3.0,Commitment and intergration
+HAE,s4_coms,9,3.0,"Community, engagement and communications"
+HAE,s5_mset,5,1.0,Measuring and setting emissions targets
+HAE,s6_cb,4,0.0,Co-benefits
+HAE,s7_dsi,5,0.0,Diversity and inclusion
+HAE,s8_est,5,1.0,"Education, skills and training"
+HAE,s9_ee,4,1.0,Ecological emergency
+HAG,s1_gov,21,4.0,"Governance, development and funding"
+HAG,s2_m&a,18,2.0,Mitigation and adaptation
+HAG,s3_c&a,7,2.0,Commitment and intergration
+HAG,s4_coms,9,3.0,"Community, engagement and communications"
+HAG,s5_mset,5,1.0,Measuring and setting emissions targets
+HAG,s6_cb,4,1.0,Co-benefits
+HAG,s7_dsi,5,1.0,Diversity and inclusion
+HAG,s8_est,5,0.0,"Education, skills and training"
+HAG,s9_ee,4,0.0,Ecological emergency
+HAL,s1_gov,21,0.0,"Governance, development and funding"
+HAL,s2_m&a,18,0.0,Mitigation and adaptation
+HAL,s3_c&a,7,0.0,Commitment and intergration
+HAL,s4_coms,9,0.0,"Community, engagement and communications"
+HAL,s5_mset,5,0.0,Measuring and setting emissions targets
+HAL,s6_cb,4,0.0,Co-benefits
+HAL,s7_dsi,5,0.0,Diversity and inclusion
+HAL,s8_est,5,0.0,"Education, skills and training"
+HAL,s9_ee,4,0.0,Ecological emergency
+HAM,s1_gov,21,10.0,"Governance, development and funding"
+HAM,s2_m&a,18,15.0,Mitigation and adaptation
+HAM,s3_c&a,5,3.0,Commitment and intergration
+HAM,s4_coms,9,6.0,"Community, engagement and communications"
+HAM,s5_mset,5,3.0,Measuring and setting emissions targets
+HAM,s6_cb,4,3.0,Co-benefits
+HAM,s7_dsi,5,0.0,Diversity and inclusion
+HAM,s8_est,5,1.0,"Education, skills and training"
+HAM,s9_ee,4,2.0,Ecological emergency
+HAO,s1_gov,21,4.0,"Governance, development and funding"
+HAO,s2_m&a,18,13.0,Mitigation and adaptation
+HAO,s3_c&a,7,4.0,Commitment and intergration
+HAO,s4_coms,9,4.0,"Community, engagement and communications"
+HAO,s5_mset,5,1.0,Measuring and setting emissions targets
+HAO,s6_cb,4,4.0,Co-benefits
+HAO,s7_dsi,5,0.0,Diversity and inclusion
+HAO,s8_est,5,1.0,"Education, skills and training"
+HAO,s9_ee,4,3.0,Ecological emergency
+HAR,s1_gov,21,2.0,"Governance, development and funding"
+HAR,s2_m&a,18,0.0,Mitigation and adaptation
+HAR,s3_c&a,7,2.0,Commitment and intergration
+HAR,s4_coms,9,0.0,"Community, engagement and communications"
+HAR,s5_mset,5,0.0,Measuring and setting emissions targets
+HAR,s6_cb,4,0.0,Co-benefits
+HAR,s7_dsi,5,0.0,Diversity and inclusion
+HAR,s8_est,5,0.0,"Education, skills and training"
+HAR,s9_ee,4,0.0,Ecological emergency
+HAS,s1_gov,21,8.0,"Governance, development and funding"
+HAS,s2_m&a,18,5.0,Mitigation and adaptation
+HAS,s3_c&a,7,4.0,Commitment and intergration
+HAS,s4_coms,9,5.0,"Community, engagement and communications"
+HAS,s5_mset,5,4.0,Measuring and setting emissions targets
+HAS,s6_cb,4,3.0,Co-benefits
+HAS,s7_dsi,5,0.0,Diversity and inclusion
+HAS,s8_est,5,0.0,"Education, skills and training"
+HAS,s9_ee,4,3.0,Ecological emergency
+HAT,s1_gov,21,8.0,"Governance, development and funding"
+HAT,s2_m&a,18,3.0,Mitigation and adaptation
+HAT,s3_c&a,7,3.0,Commitment and intergration
+HAT,s4_coms,9,4.0,"Community, engagement and communications"
+HAT,s5_mset,5,1.0,Measuring and setting emissions targets
+HAT,s6_cb,4,0.0,Co-benefits
+HAT,s7_dsi,5,0.0,Diversity and inclusion
+HAT,s8_est,5,0.0,"Education, skills and training"
+HAT,s9_ee,4,0.0,Ecological emergency
+HAV,s1_gov,21,0.0,"Governance, development and funding"
+HAV,s2_m&a,18,0.0,Mitigation and adaptation
+HAV,s3_c&a,7,0.0,Commitment and intergration
+HAV,s4_coms,9,0.0,"Community, engagement and communications"
+HAV,s5_mset,5,0.0,Measuring and setting emissions targets
+HAV,s6_cb,4,0.0,Co-benefits
+HAV,s7_dsi,5,0.0,Diversity and inclusion
+HAV,s8_est,5,0.0,"Education, skills and training"
+HAV,s9_ee,4,0.0,Ecological emergency
+HCK,s1_gov,21,0.0,"Governance, development and funding"
+HCK,s2_m&a,18,0.0,Mitigation and adaptation
+HCK,s3_c&a,7,0.0,Commitment and intergration
+HCK,s4_coms,9,0.0,"Community, engagement and communications"
+HCK,s5_mset,5,0.0,Measuring and setting emissions targets
+HCK,s6_cb,4,0.0,Co-benefits
+HCK,s7_dsi,5,0.0,Diversity and inclusion
+HCK,s8_est,5,0.0,"Education, skills and training"
+HCK,s9_ee,4,0.0,Ecological emergency
+HEF,s1_gov,21,10.0,"Governance, development and funding"
+HEF,s2_m&a,18,11.0,Mitigation and adaptation
+HEF,s3_c&a,7,6.0,Commitment and intergration
+HEF,s4_coms,9,8.0,"Community, engagement and communications"
+HEF,s5_mset,5,5.0,Measuring and setting emissions targets
+HEF,s6_cb,4,0.0,Co-benefits
+HEF,s7_dsi,5,0.0,Diversity and inclusion
+HEF,s8_est,5,1.0,"Education, skills and training"
+HEF,s9_ee,4,3.0,Ecological emergency
+HER,s1_gov,21,3.0,"Governance, development and funding"
+HER,s2_m&a,18,14.0,Mitigation and adaptation
+HER,s3_c&a,7,5.0,Commitment and intergration
+HER,s4_coms,9,5.0,"Community, engagement and communications"
+HER,s5_mset,5,2.0,Measuring and setting emissions targets
+HER,s6_cb,4,0.0,Co-benefits
+HER,s7_dsi,5,0.0,Diversity and inclusion
+HER,s8_est,5,1.0,"Education, skills and training"
+HER,s9_ee,4,2.0,Ecological emergency
+HIG,s1_gov,21,10.0,"Governance, development and funding"
+HIG,s2_m&a,18,0.0,Mitigation and adaptation
+HIG,s3_c&a,7,4.0,Commitment and intergration
+HIG,s4_coms,9,4.0,"Community, engagement and communications"
+HIG,s5_mset,5,5.0,Measuring and setting emissions targets
+HIG,s6_cb,4,0.0,Co-benefits
+HIG,s7_dsi,5,1.0,Diversity and inclusion
+HIG,s8_est,5,1.0,"Education, skills and training"
+HIG,s9_ee,4,2.0,Ecological emergency
+HIL,s1_gov,21,7.0,"Governance, development and funding"
+HIL,s2_m&a,18,5.0,Mitigation and adaptation
+HIL,s3_c&a,7,2.0,Commitment and intergration
+HIL,s4_coms,9,8.0,"Community, engagement and communications"
+HIL,s5_mset,5,3.0,Measuring and setting emissions targets
+HIL,s6_cb,4,1.0,Co-benefits
+HIL,s7_dsi,5,0.0,Diversity and inclusion
+HIL,s8_est,5,2.0,"Education, skills and training"
+HIL,s9_ee,4,3.0,Ecological emergency
+HIN,s1_gov,21,3.0,"Governance, development and funding"
+HIN,s2_m&a,18,1.0,Mitigation and adaptation
+HIN,s3_c&a,7,1.0,Commitment and intergration
+HIN,s4_coms,9,5.0,"Community, engagement and communications"
+HIN,s5_mset,5,0.0,Measuring and setting emissions targets
+HIN,s6_cb,4,0.0,Co-benefits
+HIN,s7_dsi,5,0.0,Diversity and inclusion
+HIN,s8_est,5,1.0,"Education, skills and training"
+HIN,s9_ee,4,0.0,Ecological emergency
+HLD,s1_gov,21,0.0,"Governance, development and funding"
+HLD,s2_m&a,18,0.0,Mitigation and adaptation
+HLD,s3_c&a,7,0.0,Commitment and intergration
+HLD,s4_coms,9,0.0,"Community, engagement and communications"
+HLD,s5_mset,5,0.0,Measuring and setting emissions targets
+HLD,s6_cb,4,0.0,Co-benefits
+HLD,s7_dsi,5,0.0,Diversity and inclusion
+HLD,s8_est,5,0.0,"Education, skills and training"
+HLD,s9_ee,4,0.0,Ecological emergency
+HMF,s1_gov,21,17.0,"Governance, development and funding"
+HMF,s2_m&a,18,18.0,Mitigation and adaptation
+HMF,s3_c&a,7,5.0,Commitment and intergration
+HMF,s4_coms,9,7.0,"Community, engagement and communications"
+HMF,s5_mset,5,5.0,Measuring and setting emissions targets
+HMF,s6_cb,4,4.0,Co-benefits
+HMF,s7_dsi,5,1.0,Diversity and inclusion
+HMF,s8_est,5,5.0,"Education, skills and training"
+HMF,s9_ee,4,3.0,Ecological emergency
+HNS,s1_gov,21,15.0,"Governance, development and funding"
+HNS,s2_m&a,18,10.0,Mitigation and adaptation
+HNS,s3_c&a,7,6.0,Commitment and intergration
+HNS,s4_coms,9,7.0,"Community, engagement and communications"
+HNS,s5_mset,5,2.0,Measuring and setting emissions targets
+HNS,s6_cb,4,3.0,Co-benefits
+HNS,s7_dsi,5,2.0,Diversity and inclusion
+HNS,s8_est,5,4.0,"Education, skills and training"
+HNS,s9_ee,4,1.0,Ecological emergency
+HOR,s1_gov,21,10.0,"Governance, development and funding"
+HOR,s2_m&a,18,2.0,Mitigation and adaptation
+HOR,s3_c&a,7,3.0,Commitment and intergration
+HOR,s4_coms,9,3.0,"Community, engagement and communications"
+HOR,s5_mset,5,2.0,Measuring and setting emissions targets
+HOR,s6_cb,4,3.0,Co-benefits
+HOR,s7_dsi,5,0.0,Diversity and inclusion
+HOR,s8_est,5,1.0,"Education, skills and training"
+HOR,s9_ee,4,0.0,Ecological emergency
+HPL,s1_gov,21,0.0,"Governance, development and funding"
+HPL,s2_m&a,18,0.0,Mitigation and adaptation
+HPL,s3_c&a,7,0.0,Commitment and intergration
+HPL,s4_coms,9,0.0,"Community, engagement and communications"
+HPL,s5_mset,5,0.0,Measuring and setting emissions targets
+HPL,s6_cb,4,0.0,Co-benefits
+HPL,s7_dsi,5,0.0,Diversity and inclusion
+HPL,s8_est,5,0.0,"Education, skills and training"
+HPL,s9_ee,4,0.0,Ecological emergency
+HRT,s1_gov,21,6.0,"Governance, development and funding"
+HRT,s2_m&a,18,11.0,Mitigation and adaptation
+HRT,s3_c&a,5,4.0,Commitment and intergration
+HRT,s4_coms,9,6.0,"Community, engagement and communications"
+HRT,s5_mset,5,2.0,Measuring and setting emissions targets
+HRT,s6_cb,4,4.0,Co-benefits
+HRT,s7_dsi,5,0.0,Diversity and inclusion
+HRT,s8_est,5,2.0,"Education, skills and training"
+HRT,s9_ee,4,1.0,Ecological emergency
+HRW,s1_gov,21,13.0,"Governance, development and funding"
+HRW,s2_m&a,18,13.0,Mitigation and adaptation
+HRW,s3_c&a,7,5.0,Commitment and intergration
+HRW,s4_coms,9,3.0,"Community, engagement and communications"
+HRW,s5_mset,5,4.0,Measuring and setting emissions targets
+HRW,s6_cb,4,2.0,Co-benefits
+HRW,s7_dsi,5,2.0,Diversity and inclusion
+HRW,s8_est,5,4.0,"Education, skills and training"
+HRW,s9_ee,4,3.0,Ecological emergency
+HRY,s1_gov,21,15.0,"Governance, development and funding"
+HRY,s2_m&a,18,11.0,Mitigation and adaptation
+HRY,s3_c&a,7,6.0,Commitment and intergration
+HRY,s4_coms,9,6.0,"Community, engagement and communications"
+HRY,s5_mset,5,5.0,Measuring and setting emissions targets
+HRY,s6_cb,4,2.0,Co-benefits
+HRY,s7_dsi,5,2.0,Diversity and inclusion
+HRY,s8_est,5,3.0,"Education, skills and training"
+HRY,s9_ee,4,3.0,Ecological emergency
+HUN,s1_gov,21,0.0,"Governance, development and funding"
+HUN,s2_m&a,18,0.0,Mitigation and adaptation
+HUN,s3_c&a,7,0.0,Commitment and intergration
+HUN,s4_coms,9,0.0,"Community, engagement and communications"
+HUN,s5_mset,5,0.0,Measuring and setting emissions targets
+HUN,s6_cb,4,0.0,Co-benefits
+HUN,s7_dsi,5,0.0,Diversity and inclusion
+HUN,s8_est,5,0.0,"Education, skills and training"
+HUN,s9_ee,4,0.0,Ecological emergency
+HYN,s1_gov,21,0.0,"Governance, development and funding"
+HYN,s2_m&a,18,0.0,Mitigation and adaptation
+HYN,s3_c&a,7,0.0,Commitment and intergration
+HYN,s4_coms,9,0.0,"Community, engagement and communications"
+HYN,s5_mset,5,0.0,Measuring and setting emissions targets
+HYN,s6_cb,4,0.0,Co-benefits
+HYN,s7_dsi,5,0.0,Diversity and inclusion
+HYN,s8_est,5,0.0,"Education, skills and training"
+HYN,s9_ee,4,0.0,Ecological emergency
+IOS,s1_gov,21,0.0,"Governance, development and funding"
+IOS,s2_m&a,18,0.0,Mitigation and adaptation
+IOS,s3_c&a,7,0.0,Commitment and intergration
+IOS,s4_coms,9,0.0,"Community, engagement and communications"
+IOS,s5_mset,5,0.0,Measuring and setting emissions targets
+IOS,s6_cb,4,0.0,Co-benefits
+IOS,s7_dsi,5,0.0,Diversity and inclusion
+IOS,s8_est,5,0.0,"Education, skills and training"
+IOS,s9_ee,4,0.0,Ecological emergency
+IOW,s1_gov,21,12.0,"Governance, development and funding"
+IOW,s2_m&a,18,17.0,Mitigation and adaptation
+IOW,s3_c&a,7,5.0,Commitment and intergration
+IOW,s4_coms,9,7.0,"Community, engagement and communications"
+IOW,s5_mset,5,4.0,Measuring and setting emissions targets
+IOW,s6_cb,4,4.0,Co-benefits
+IOW,s7_dsi,5,3.0,Diversity and inclusion
+IOW,s8_est,5,4.0,"Education, skills and training"
+IOW,s9_ee,4,4.0,Ecological emergency
+IPS,s1_gov,21,13.0,"Governance, development and funding"
+IPS,s2_m&a,18,6.0,Mitigation and adaptation
+IPS,s3_c&a,7,4.0,Commitment and intergration
+IPS,s4_coms,9,8.0,"Community, engagement and communications"
+IPS,s5_mset,5,3.0,Measuring and setting emissions targets
+IPS,s6_cb,4,2.0,Co-benefits
+IPS,s7_dsi,5,0.0,Diversity and inclusion
+IPS,s8_est,5,2.0,"Education, skills and training"
+IPS,s9_ee,4,2.0,Ecological emergency
+ISL,s1_gov,21,15.0,"Governance, development and funding"
+ISL,s2_m&a,18,8.0,Mitigation and adaptation
+ISL,s3_c&a,7,5.0,Commitment and intergration
+ISL,s4_coms,9,8.0,"Community, engagement and communications"
+ISL,s5_mset,5,4.0,Measuring and setting emissions targets
+ISL,s6_cb,4,2.0,Co-benefits
+ISL,s7_dsi,5,1.0,Diversity and inclusion
+ISL,s8_est,5,2.0,"Education, skills and training"
+ISL,s9_ee,4,3.0,Ecological emergency
+IVC,s1_gov,21,5.0,"Governance, development and funding"
+IVC,s2_m&a,18,2.0,Mitigation and adaptation
+IVC,s3_c&a,7,2.0,Commitment and intergration
+IVC,s4_coms,9,1.0,"Community, engagement and communications"
+IVC,s5_mset,5,2.0,Measuring and setting emissions targets
+IVC,s6_cb,4,0.0,Co-benefits
+IVC,s7_dsi,5,0.0,Diversity and inclusion
+IVC,s8_est,5,2.0,"Education, skills and training"
+IVC,s9_ee,4,1.0,Ecological emergency
+KEC,s1_gov,21,9.0,"Governance, development and funding"
+KEC,s2_m&a,18,13.0,Mitigation and adaptation
+KEC,s3_c&a,7,5.0,Commitment and intergration
+KEC,s4_coms,9,4.0,"Community, engagement and communications"
+KEC,s5_mset,5,3.0,Measuring and setting emissions targets
+KEC,s6_cb,4,4.0,Co-benefits
+KEC,s7_dsi,5,3.0,Diversity and inclusion
+KEC,s8_est,5,4.0,"Education, skills and training"
+KEC,s9_ee,4,2.0,Ecological emergency
+KEN,s1_gov,21,10.0,"Governance, development and funding"
+KEN,s2_m&a,18,10.0,Mitigation and adaptation
+KEN,s3_c&a,5,4.0,Commitment and intergration
+KEN,s4_coms,9,6.0,"Community, engagement and communications"
+KEN,s5_mset,5,3.0,Measuring and setting emissions targets
+KEN,s6_cb,4,4.0,Co-benefits
+KEN,s7_dsi,5,1.0,Diversity and inclusion
+KEN,s8_est,5,0.0,"Education, skills and training"
+KEN,s9_ee,4,2.0,Ecological emergency
+KHL,s1_gov,21,7.0,"Governance, development and funding"
+KHL,s2_m&a,18,10.0,Mitigation and adaptation
+KHL,s3_c&a,7,3.0,Commitment and intergration
+KHL,s4_coms,9,6.0,"Community, engagement and communications"
+KHL,s5_mset,5,5.0,Measuring and setting emissions targets
+KHL,s6_cb,4,2.0,Co-benefits
+KHL,s7_dsi,5,1.0,Diversity and inclusion
+KHL,s8_est,5,2.0,"Education, skills and training"
+KHL,s9_ee,4,1.0,Ecological emergency
+KIN,s1_gov,21,8.0,"Governance, development and funding"
+KIN,s2_m&a,18,2.0,Mitigation and adaptation
+KIN,s3_c&a,7,1.0,Commitment and intergration
+KIN,s4_coms,9,5.0,"Community, engagement and communications"
+KIN,s5_mset,5,3.0,Measuring and setting emissions targets
+KIN,s6_cb,4,0.0,Co-benefits
+KIN,s7_dsi,5,0.0,Diversity and inclusion
+KIN,s8_est,5,1.0,"Education, skills and training"
+KIN,s9_ee,4,0.0,Ecological emergency
+KIR,s1_gov,21,0.0,"Governance, development and funding"
+KIR,s2_m&a,18,0.0,Mitigation and adaptation
+KIR,s3_c&a,7,0.0,Commitment and intergration
+KIR,s4_coms,9,0.0,"Community, engagement and communications"
+KIR,s5_mset,5,0.0,Measuring and setting emissions targets
+KIR,s6_cb,4,0.0,Co-benefits
+KIR,s7_dsi,5,0.0,Diversity and inclusion
+KIR,s8_est,5,0.0,"Education, skills and training"
+KIR,s9_ee,4,0.0,Ecological emergency
+KTT,s1_gov,21,7.0,"Governance, development and funding"
+KTT,s2_m&a,18,17.0,Mitigation and adaptation
+KTT,s3_c&a,7,3.0,Commitment and intergration
+KTT,s4_coms,9,8.0,"Community, engagement and communications"
+KTT,s5_mset,5,2.0,Measuring and setting emissions targets
+KTT,s6_cb,4,2.0,Co-benefits
+KTT,s7_dsi,5,1.0,Diversity and inclusion
+KTT,s8_est,5,2.0,"Education, skills and training"
+KTT,s9_ee,4,2.0,Ecological emergency
+KWL,s1_gov,21,9.0,"Governance, development and funding"
+KWL,s2_m&a,18,0.0,Mitigation and adaptation
+KWL,s3_c&a,7,4.0,Commitment and intergration
+KWL,s4_coms,9,2.0,"Community, engagement and communications"
+KWL,s5_mset,5,2.0,Measuring and setting emissions targets
+KWL,s6_cb,4,0.0,Co-benefits
+KWL,s7_dsi,5,0.0,Diversity and inclusion
+KWL,s8_est,5,1.0,"Education, skills and training"
+KWL,s9_ee,4,0.0,Ecological emergency
+LAC,s1_gov,21,6.0,"Governance, development and funding"
+LAC,s2_m&a,18,4.0,Mitigation and adaptation
+LAC,s3_c&a,7,1.0,Commitment and intergration
+LAC,s4_coms,9,0.0,"Community, engagement and communications"
+LAC,s5_mset,5,0.0,Measuring and setting emissions targets
+LAC,s6_cb,4,0.0,Co-benefits
+LAC,s7_dsi,5,0.0,Diversity and inclusion
+LAC,s8_est,5,1.0,"Education, skills and training"
+LAC,s9_ee,4,0.0,Ecological emergency
+LAN,s1_gov,21,0.0,"Governance, development and funding"
+LAN,s2_m&a,18,0.0,Mitigation and adaptation
+LAN,s3_c&a,5,0.0,Commitment and intergration
+LAN,s4_coms,9,0.0,"Community, engagement and communications"
+LAN,s5_mset,5,0.0,Measuring and setting emissions targets
+LAN,s6_cb,4,0.0,Co-benefits
+LAN,s7_dsi,5,0.0,Diversity and inclusion
+LAN,s8_est,5,0.0,"Education, skills and training"
+LAN,s9_ee,4,0.0,Ecological emergency
+LBC,s1_gov,21,0.0,"Governance, development and funding"
+LBC,s2_m&a,18,0.0,Mitigation and adaptation
+LBC,s3_c&a,7,0.0,Commitment and intergration
+LBC,s4_coms,9,0.0,"Community, engagement and communications"
+LBC,s5_mset,5,0.0,Measuring and setting emissions targets
+LBC,s6_cb,4,0.0,Co-benefits
+LBC,s7_dsi,5,0.0,Diversity and inclusion
+LBC,s8_est,5,0.0,"Education, skills and training"
+LBC,s9_ee,4,0.0,Ecological emergency
+LBH,s1_gov,21,7.0,"Governance, development and funding"
+LBH,s2_m&a,18,3.0,Mitigation and adaptation
+LBH,s3_c&a,7,4.0,Commitment and intergration
+LBH,s4_coms,9,4.0,"Community, engagement and communications"
+LBH,s5_mset,5,4.0,Measuring and setting emissions targets
+LBH,s6_cb,4,2.0,Co-benefits
+LBH,s7_dsi,5,0.0,Diversity and inclusion
+LBH,s8_est,5,0.0,"Education, skills and training"
+LBH,s9_ee,4,3.0,Ecological emergency
+LCE,s1_gov,21,19.0,"Governance, development and funding"
+LCE,s2_m&a,18,15.0,Mitigation and adaptation
+LCE,s3_c&a,7,6.0,Commitment and intergration
+LCE,s4_coms,9,9.0,"Community, engagement and communications"
+LCE,s5_mset,5,4.0,Measuring and setting emissions targets
+LCE,s6_cb,4,3.0,Co-benefits
+LCE,s7_dsi,5,0.0,Diversity and inclusion
+LCE,s8_est,5,1.0,"Education, skills and training"
+LCE,s9_ee,4,3.0,Ecological emergency
+LCR,s1_gov,21,9.0,"Governance, development and funding"
+LCR,s2_m&a,18,15.0,Mitigation and adaptation
+LCR,s3_c&a,5,1.0,Commitment and intergration
+LCR,s4_coms,9,3.0,"Community, engagement and communications"
+LCR,s5_mset,5,3.0,Measuring and setting emissions targets
+LCR,s6_cb,4,1.0,Co-benefits
+LCR,s7_dsi,5,0.0,Diversity and inclusion
+LCR,s8_est,5,5.0,"Education, skills and training"
+LCR,s9_ee,4,2.0,Ecological emergency
+LDS,s1_gov,21,14.0,"Governance, development and funding"
+LDS,s2_m&a,18,11.0,Mitigation and adaptation
+LDS,s3_c&a,7,5.0,Commitment and intergration
+LDS,s4_coms,9,6.0,"Community, engagement and communications"
+LDS,s5_mset,5,4.0,Measuring and setting emissions targets
+LDS,s6_cb,4,4.0,Co-benefits
+LDS,s7_dsi,5,3.0,Diversity and inclusion
+LDS,s8_est,5,4.0,"Education, skills and training"
+LDS,s9_ee,4,3.0,Ecological emergency
+LEC,s1_gov,21,9.0,"Governance, development and funding"
+LEC,s2_m&a,18,6.0,Mitigation and adaptation
+LEC,s3_c&a,5,4.0,Commitment and intergration
+LEC,s4_coms,9,4.0,"Community, engagement and communications"
+LEC,s5_mset,5,4.0,Measuring and setting emissions targets
+LEC,s6_cb,4,3.0,Co-benefits
+LEC,s7_dsi,5,0.0,Diversity and inclusion
+LEC,s8_est,5,2.0,"Education, skills and training"
+LEC,s9_ee,4,2.0,Ecological emergency
+LEE,s1_gov,21,17.0,"Governance, development and funding"
+LEE,s2_m&a,18,9.0,Mitigation and adaptation
+LEE,s3_c&a,7,5.0,Commitment and intergration
+LEE,s4_coms,9,5.0,"Community, engagement and communications"
+LEE,s5_mset,5,5.0,Measuring and setting emissions targets
+LEE,s6_cb,4,0.0,Co-benefits
+LEE,s7_dsi,5,1.0,Diversity and inclusion
+LEE,s8_est,5,2.0,"Education, skills and training"
+LEE,s9_ee,4,2.0,Ecological emergency
+LEW,s1_gov,21,15.0,"Governance, development and funding"
+LEW,s2_m&a,18,11.0,Mitigation and adaptation
+LEW,s3_c&a,7,7.0,Commitment and intergration
+LEW,s4_coms,9,7.0,"Community, engagement and communications"
+LEW,s5_mset,5,3.0,Measuring and setting emissions targets
+LEW,s6_cb,4,4.0,Co-benefits
+LEW,s7_dsi,5,4.0,Diversity and inclusion
+LEW,s8_est,5,4.0,"Education, skills and training"
+LEW,s9_ee,4,3.0,Ecological emergency
+LIC,s1_gov,21,7.0,"Governance, development and funding"
+LIC,s2_m&a,18,1.0,Mitigation and adaptation
+LIC,s3_c&a,7,1.0,Commitment and intergration
+LIC,s4_coms,9,4.0,"Community, engagement and communications"
+LIC,s5_mset,5,2.0,Measuring and setting emissions targets
+LIC,s6_cb,4,0.0,Co-benefits
+LIC,s7_dsi,5,0.0,Diversity and inclusion
+LIC,s8_est,5,0.0,"Education, skills and training"
+LIC,s9_ee,4,0.0,Ecological emergency
+LIF,s1_gov,21,0.0,"Governance, development and funding"
+LIF,s2_m&a,18,0.0,Mitigation and adaptation
+LIF,s3_c&a,7,0.0,Commitment and intergration
+LIF,s4_coms,9,0.0,"Community, engagement and communications"
+LIF,s5_mset,5,0.0,Measuring and setting emissions targets
+LIF,s6_cb,4,0.0,Co-benefits
+LIF,s7_dsi,5,0.0,Diversity and inclusion
+LIF,s8_est,5,0.0,"Education, skills and training"
+LIF,s9_ee,4,0.0,Ecological emergency
+LIN,s1_gov,21,10.0,"Governance, development and funding"
+LIN,s2_m&a,18,1.0,Mitigation and adaptation
+LIN,s3_c&a,5,1.0,Commitment and intergration
+LIN,s4_coms,9,3.0,"Community, engagement and communications"
+LIN,s5_mset,5,1.0,Measuring and setting emissions targets
+LIN,s6_cb,4,1.0,Co-benefits
+LIN,s7_dsi,5,0.0,Diversity and inclusion
+LIN,s8_est,5,0.0,"Education, skills and training"
+LIN,s9_ee,4,0.0,Ecological emergency
+LIV,s1_gov,21,8.0,"Governance, development and funding"
+LIV,s2_m&a,18,4.0,Mitigation and adaptation
+LIV,s3_c&a,7,1.0,Commitment and intergration
+LIV,s4_coms,9,1.0,"Community, engagement and communications"
+LIV,s5_mset,5,2.0,Measuring and setting emissions targets
+LIV,s6_cb,4,1.0,Co-benefits
+LIV,s7_dsi,5,0.0,Diversity and inclusion
+LIV,s8_est,5,1.0,"Education, skills and training"
+LIV,s9_ee,4,2.0,Ecological emergency
+LND,s1_gov,21,5.0,"Governance, development and funding"
+LND,s2_m&a,18,8.0,Mitigation and adaptation
+LND,s3_c&a,7,3.0,Commitment and intergration
+LND,s4_coms,9,3.0,"Community, engagement and communications"
+LND,s5_mset,5,4.0,Measuring and setting emissions targets
+LND,s6_cb,4,3.0,Co-benefits
+LND,s7_dsi,5,0.0,Diversity and inclusion
+LND,s8_est,5,0.0,"Education, skills and training"
+LND,s9_ee,4,2.0,Ecological emergency
+LUT,s1_gov,21,3.0,"Governance, development and funding"
+LUT,s2_m&a,18,0.0,Mitigation and adaptation
+LUT,s3_c&a,7,4.0,Commitment and intergration
+LUT,s4_coms,9,3.0,"Community, engagement and communications"
+LUT,s5_mset,5,0.0,Measuring and setting emissions targets
+LUT,s6_cb,4,0.0,Co-benefits
+LUT,s7_dsi,5,0.0,Diversity and inclusion
+LUT,s8_est,5,2.0,"Education, skills and training"
+LUT,s9_ee,4,0.0,Ecological emergency
+MAI,s1_gov,21,20.0,"Governance, development and funding"
+MAI,s2_m&a,18,15.0,Mitigation and adaptation
+MAI,s3_c&a,7,7.0,Commitment and intergration
+MAI,s4_coms,9,8.0,"Community, engagement and communications"
+MAI,s5_mset,5,2.0,Measuring and setting emissions targets
+MAI,s6_cb,4,4.0,Co-benefits
+MAI,s7_dsi,5,1.0,Diversity and inclusion
+MAI,s8_est,5,1.0,"Education, skills and training"
+MAI,s9_ee,4,3.0,Ecological emergency
+MAL,s1_gov,21,0.0,"Governance, development and funding"
+MAL,s2_m&a,18,0.0,Mitigation and adaptation
+MAL,s3_c&a,7,0.0,Commitment and intergration
+MAL,s4_coms,9,0.0,"Community, engagement and communications"
+MAL,s5_mset,5,0.0,Measuring and setting emissions targets
+MAL,s6_cb,4,0.0,Co-benefits
+MAL,s7_dsi,5,0.0,Diversity and inclusion
+MAL,s8_est,5,0.0,"Education, skills and training"
+MAL,s9_ee,4,0.0,Ecological emergency
+MAN,s1_gov,21,19.0,"Governance, development and funding"
+MAN,s2_m&a,18,18.0,Mitigation and adaptation
+MAN,s3_c&a,7,6.0,Commitment and intergration
+MAN,s4_coms,9,7.0,"Community, engagement and communications"
+MAN,s5_mset,5,3.0,Measuring and setting emissions targets
+MAN,s6_cb,4,4.0,Co-benefits
+MAN,s7_dsi,5,4.0,Diversity and inclusion
+MAN,s8_est,5,5.0,"Education, skills and training"
+MAN,s9_ee,4,4.0,Ecological emergency
+MAS,s1_gov,21,9.0,"Governance, development and funding"
+MAS,s2_m&a,18,3.0,Mitigation and adaptation
+MAS,s3_c&a,7,2.0,Commitment and intergration
+MAS,s4_coms,9,6.0,"Community, engagement and communications"
+MAS,s5_mset,5,5.0,Measuring and setting emissions targets
+MAS,s6_cb,4,2.0,Co-benefits
+MAS,s7_dsi,5,0.0,Diversity and inclusion
+MAS,s8_est,5,3.0,"Education, skills and training"
+MAS,s9_ee,4,0.0,Ecological emergency
+MAV,s1_gov,21,11.0,"Governance, development and funding"
+MAV,s2_m&a,18,9.0,Mitigation and adaptation
+MAV,s3_c&a,7,3.0,Commitment and intergration
+MAV,s4_coms,9,3.0,"Community, engagement and communications"
+MAV,s5_mset,5,2.0,Measuring and setting emissions targets
+MAV,s6_cb,4,1.0,Co-benefits
+MAV,s7_dsi,5,0.0,Diversity and inclusion
+MAV,s8_est,5,1.0,"Education, skills and training"
+MAV,s9_ee,4,2.0,Ecological emergency
+MDB,s1_gov,21,6.0,"Governance, development and funding"
+MDB,s2_m&a,18,4.0,Mitigation and adaptation
+MDB,s3_c&a,7,1.0,Commitment and intergration
+MDB,s4_coms,9,3.0,"Community, engagement and communications"
+MDB,s5_mset,5,1.0,Measuring and setting emissions targets
+MDB,s6_cb,4,3.0,Co-benefits
+MDB,s7_dsi,5,0.0,Diversity and inclusion
+MDB,s8_est,5,1.0,"Education, skills and training"
+MDB,s9_ee,4,2.0,Ecological emergency
+MDE,s1_gov,21,9.0,"Governance, development and funding"
+MDE,s2_m&a,18,10.0,Mitigation and adaptation
+MDE,s3_c&a,7,5.0,Commitment and intergration
+MDE,s4_coms,9,5.0,"Community, engagement and communications"
+MDE,s5_mset,5,4.0,Measuring and setting emissions targets
+MDE,s6_cb,4,3.0,Co-benefits
+MDE,s7_dsi,5,1.0,Diversity and inclusion
+MDE,s8_est,5,3.0,"Education, skills and training"
+MDE,s9_ee,4,3.0,Ecological emergency
+MDW,s1_gov,21,14.0,"Governance, development and funding"
+MDW,s2_m&a,18,13.0,Mitigation and adaptation
+MDW,s3_c&a,7,5.0,Commitment and intergration
+MDW,s4_coms,9,7.0,"Community, engagement and communications"
+MDW,s5_mset,5,5.0,Measuring and setting emissions targets
+MDW,s6_cb,4,4.0,Co-benefits
+MDW,s7_dsi,5,0.0,Diversity and inclusion
+MDW,s8_est,5,5.0,"Education, skills and training"
+MDW,s9_ee,4,2.0,Ecological emergency
+MEA,s1_gov,21,0.0,"Governance, development and funding"
+MEA,s2_m&a,18,0.0,Mitigation and adaptation
+MEA,s3_c&a,7,0.0,Commitment and intergration
+MEA,s4_coms,9,0.0,"Community, engagement and communications"
+MEA,s5_mset,5,0.0,Measuring and setting emissions targets
+MEA,s6_cb,4,0.0,Co-benefits
+MEA,s7_dsi,5,0.0,Diversity and inclusion
+MEA,s8_est,5,0.0,"Education, skills and training"
+MEA,s9_ee,4,0.0,Ecological emergency
+MEL,s1_gov,21,0.0,"Governance, development and funding"
+MEL,s2_m&a,18,0.0,Mitigation and adaptation
+MEL,s3_c&a,7,0.0,Commitment and intergration
+MEL,s4_coms,9,0.0,"Community, engagement and communications"
+MEL,s5_mset,5,0.0,Measuring and setting emissions targets
+MEL,s6_cb,4,0.0,Co-benefits
+MEL,s7_dsi,5,0.0,Diversity and inclusion
+MEL,s8_est,5,0.0,"Education, skills and training"
+MEL,s9_ee,4,0.0,Ecological emergency
+MEN,s1_gov,21,16.0,"Governance, development and funding"
+MEN,s2_m&a,18,18.0,Mitigation and adaptation
+MEN,s3_c&a,7,3.0,Commitment and intergration
+MEN,s4_coms,9,7.0,"Community, engagement and communications"
+MEN,s5_mset,5,4.0,Measuring and setting emissions targets
+MEN,s6_cb,4,4.0,Co-benefits
+MEN,s7_dsi,5,2.0,Diversity and inclusion
+MEN,s8_est,5,2.0,"Education, skills and training"
+MEN,s9_ee,4,4.0,Ecological emergency
+MIK,s1_gov,21,10.0,"Governance, development and funding"
+MIK,s2_m&a,18,10.0,Mitigation and adaptation
+MIK,s3_c&a,7,5.0,Commitment and intergration
+MIK,s4_coms,9,3.0,"Community, engagement and communications"
+MIK,s5_mset,5,2.0,Measuring and setting emissions targets
+MIK,s6_cb,4,3.0,Co-benefits
+MIK,s7_dsi,5,1.0,Diversity and inclusion
+MIK,s8_est,5,2.0,"Education, skills and training"
+MIK,s9_ee,4,3.0,Ecological emergency
+MLN,s1_gov,21,13.0,"Governance, development and funding"
+MLN,s2_m&a,18,10.0,Mitigation and adaptation
+MLN,s3_c&a,7,5.0,Commitment and intergration
+MLN,s4_coms,9,5.0,"Community, engagement and communications"
+MLN,s5_mset,5,4.0,Measuring and setting emissions targets
+MLN,s6_cb,4,0.0,Co-benefits
+MLN,s7_dsi,5,0.0,Diversity and inclusion
+MLN,s8_est,5,1.0,"Education, skills and training"
+MLN,s9_ee,4,2.0,Ecological emergency
+MOL,s1_gov,21,14.0,"Governance, development and funding"
+MOL,s2_m&a,18,17.0,Mitigation and adaptation
+MOL,s3_c&a,7,6.0,Commitment and intergration
+MOL,s4_coms,9,5.0,"Community, engagement and communications"
+MOL,s5_mset,5,3.0,Measuring and setting emissions targets
+MOL,s6_cb,4,3.0,Co-benefits
+MOL,s7_dsi,5,0.0,Diversity and inclusion
+MOL,s8_est,5,3.0,"Education, skills and training"
+MOL,s9_ee,4,2.0,Ecological emergency
+MON,s1_gov,21,9.0,"Governance, development and funding"
+MON,s2_m&a,18,10.0,Mitigation and adaptation
+MON,s3_c&a,7,4.0,Commitment and intergration
+MON,s4_coms,9,3.0,"Community, engagement and communications"
+MON,s5_mset,5,3.0,Measuring and setting emissions targets
+MON,s6_cb,4,1.0,Co-benefits
+MON,s7_dsi,5,0.0,Diversity and inclusion
+MON,s8_est,5,2.0,"Education, skills and training"
+MON,s9_ee,4,2.0,Ecological emergency
+MRT,s1_gov,21,14.0,"Governance, development and funding"
+MRT,s2_m&a,18,7.0,Mitigation and adaptation
+MRT,s3_c&a,7,6.0,Commitment and intergration
+MRT,s4_coms,9,6.0,"Community, engagement and communications"
+MRT,s5_mset,5,4.0,Measuring and setting emissions targets
+MRT,s6_cb,4,1.0,Co-benefits
+MRT,s7_dsi,5,0.0,Diversity and inclusion
+MRT,s8_est,5,1.0,"Education, skills and training"
+MRT,s9_ee,4,2.0,Ecological emergency
+MRY,s1_gov,21,9.0,"Governance, development and funding"
+MRY,s2_m&a,18,4.0,Mitigation and adaptation
+MRY,s3_c&a,7,5.0,Commitment and intergration
+MRY,s4_coms,9,5.0,"Community, engagement and communications"
+MRY,s5_mset,5,2.0,Measuring and setting emissions targets
+MRY,s6_cb,4,1.0,Co-benefits
+MRY,s7_dsi,5,0.0,Diversity and inclusion
+MRY,s8_est,5,2.0,"Education, skills and training"
+MRY,s9_ee,4,0.0,Ecological emergency
+MSS,s1_gov,21,6.0,"Governance, development and funding"
+MSS,s2_m&a,18,10.0,Mitigation and adaptation
+MSS,s3_c&a,7,1.0,Commitment and intergration
+MSS,s4_coms,9,2.0,"Community, engagement and communications"
+MSS,s5_mset,5,1.0,Measuring and setting emissions targets
+MSS,s6_cb,4,0.0,Co-benefits
+MSS,s7_dsi,5,0.0,Diversity and inclusion
+MSS,s8_est,5,0.0,"Education, skills and training"
+MSS,s9_ee,4,0.0,Ecological emergency
+MSU,s1_gov,21,14.0,"Governance, development and funding"
+MSU,s2_m&a,18,13.0,Mitigation and adaptation
+MSU,s3_c&a,7,5.0,Commitment and intergration
+MSU,s4_coms,9,6.0,"Community, engagement and communications"
+MSU,s5_mset,5,2.0,Measuring and setting emissions targets
+MSU,s6_cb,4,2.0,Co-benefits
+MSU,s7_dsi,5,0.0,Diversity and inclusion
+MSU,s8_est,5,3.0,"Education, skills and training"
+MSU,s9_ee,4,3.0,Ecological emergency
+MTY,s1_gov,21,2.0,"Governance, development and funding"
+MTY,s2_m&a,18,0.0,Mitigation and adaptation
+MTY,s3_c&a,7,1.0,Commitment and intergration
+MTY,s4_coms,9,2.0,"Community, engagement and communications"
+MTY,s5_mset,5,1.0,Measuring and setting emissions targets
+MTY,s6_cb,4,0.0,Co-benefits
+MTY,s7_dsi,5,0.0,Diversity and inclusion
+MTY,s8_est,5,0.0,"Education, skills and training"
+MTY,s9_ee,4,0.0,Ecological emergency
+MUL,s1_gov,21,0.0,"Governance, development and funding"
+MUL,s2_m&a,18,0.0,Mitigation and adaptation
+MUL,s3_c&a,7,0.0,Commitment and intergration
+MUL,s4_coms,9,0.0,"Community, engagement and communications"
+MUL,s5_mset,5,0.0,Measuring and setting emissions targets
+MUL,s6_cb,4,0.0,Co-benefits
+MUL,s7_dsi,5,0.0,Diversity and inclusion
+MUL,s8_est,5,0.0,"Education, skills and training"
+MUL,s9_ee,4,0.0,Ecological emergency
+NAY,s1_gov,21,9.0,"Governance, development and funding"
+NAY,s2_m&a,18,6.0,Mitigation and adaptation
+NAY,s3_c&a,7,3.0,Commitment and intergration
+NAY,s4_coms,9,3.0,"Community, engagement and communications"
+NAY,s5_mset,5,3.0,Measuring and setting emissions targets
+NAY,s6_cb,4,0.0,Co-benefits
+NAY,s7_dsi,5,0.0,Diversity and inclusion
+NAY,s8_est,5,3.0,"Education, skills and training"
+NAY,s9_ee,4,2.0,Ecological emergency
+NBL,s1_gov,21,17.0,"Governance, development and funding"
+NBL,s2_m&a,18,10.0,Mitigation and adaptation
+NBL,s3_c&a,7,6.0,Commitment and intergration
+NBL,s4_coms,9,8.0,"Community, engagement and communications"
+NBL,s5_mset,5,4.0,Measuring and setting emissions targets
+NBL,s6_cb,4,2.0,Co-benefits
+NBL,s7_dsi,5,1.0,Diversity and inclusion
+NBL,s8_est,5,4.0,"Education, skills and training"
+NBL,s9_ee,4,4.0,Ecological emergency
+NDE,s1_gov,21,0.0,"Governance, development and funding"
+NDE,s2_m&a,18,0.0,Mitigation and adaptation
+NDE,s3_c&a,7,0.0,Commitment and intergration
+NDE,s4_coms,9,0.0,"Community, engagement and communications"
+NDE,s5_mset,5,0.0,Measuring and setting emissions targets
+NDE,s6_cb,4,0.0,Co-benefits
+NDE,s7_dsi,5,0.0,Diversity and inclusion
+NDE,s8_est,5,0.0,"Education, skills and training"
+NDE,s9_ee,4,0.0,Ecological emergency
+NEA,s1_gov,21,12.0,"Governance, development and funding"
+NEA,s2_m&a,18,10.0,Mitigation and adaptation
+NEA,s3_c&a,7,4.0,Commitment and intergration
+NEA,s4_coms,9,3.0,"Community, engagement and communications"
+NEA,s5_mset,5,2.0,Measuring and setting emissions targets
+NEA,s6_cb,4,0.0,Co-benefits
+NEA,s7_dsi,5,1.0,Diversity and inclusion
+NEA,s8_est,5,1.0,"Education, skills and training"
+NEA,s9_ee,4,2.0,Ecological emergency
+NEC,s1_gov,21,8.0,"Governance, development and funding"
+NEC,s2_m&a,18,3.0,Mitigation and adaptation
+NEC,s3_c&a,7,2.0,Commitment and intergration
+NEC,s4_coms,9,3.0,"Community, engagement and communications"
+NEC,s5_mset,5,3.0,Measuring and setting emissions targets
+NEC,s6_cb,4,2.0,Co-benefits
+NEC,s7_dsi,5,0.0,Diversity and inclusion
+NEC,s8_est,5,0.0,"Education, skills and training"
+NEC,s9_ee,4,3.0,Ecological emergency
+NECA,s1_gov,21,0.0,"Governance, development and funding"
+NECA,s2_m&a,18,0.0,Mitigation and adaptation
+NECA,s3_c&a,5,0.0,Commitment and intergration
+NECA,s4_coms,9,0.0,"Community, engagement and communications"
+NECA,s5_mset,5,0.0,Measuring and setting emissions targets
+NECA,s6_cb,4,0.0,Co-benefits
+NECA,s7_dsi,5,0.0,Diversity and inclusion
+NECA,s8_est,5,0.0,"Education, skills and training"
+NECA,s9_ee,4,0.0,Ecological emergency
+NED,s1_gov,21,7.0,"Governance, development and funding"
+NED,s2_m&a,18,13.0,Mitigation and adaptation
+NED,s3_c&a,7,3.0,Commitment and intergration
+NED,s4_coms,9,3.0,"Community, engagement and communications"
+NED,s5_mset,5,1.0,Measuring and setting emissions targets
+NED,s6_cb,4,2.0,Co-benefits
+NED,s7_dsi,5,0.0,Diversity and inclusion
+NED,s8_est,5,1.0,"Education, skills and training"
+NED,s9_ee,4,0.0,Ecological emergency
+NEL,s1_gov,21,0.0,"Governance, development and funding"
+NEL,s2_m&a,18,0.0,Mitigation and adaptation
+NEL,s3_c&a,7,0.0,Commitment and intergration
+NEL,s4_coms,9,0.0,"Community, engagement and communications"
+NEL,s5_mset,5,0.0,Measuring and setting emissions targets
+NEL,s6_cb,4,0.0,Co-benefits
+NEL,s7_dsi,5,0.0,Diversity and inclusion
+NEL,s8_est,5,0.0,"Education, skills and training"
+NEL,s9_ee,4,0.0,Ecological emergency
+NET,s1_gov,21,16.0,"Governance, development and funding"
+NET,s2_m&a,18,16.0,Mitigation and adaptation
+NET,s3_c&a,7,6.0,Commitment and intergration
+NET,s4_coms,9,8.0,"Community, engagement and communications"
+NET,s5_mset,5,4.0,Measuring and setting emissions targets
+NET,s6_cb,4,4.0,Co-benefits
+NET,s7_dsi,5,4.0,Diversity and inclusion
+NET,s8_est,5,3.0,"Education, skills and training"
+NET,s9_ee,4,3.0,Ecological emergency
+NEW,s1_gov,21,0.0,"Governance, development and funding"
+NEW,s2_m&a,18,0.0,Mitigation and adaptation
+NEW,s3_c&a,7,0.0,Commitment and intergration
+NEW,s4_coms,9,0.0,"Community, engagement and communications"
+NEW,s5_mset,5,0.0,Measuring and setting emissions targets
+NEW,s6_cb,4,0.0,Co-benefits
+NEW,s7_dsi,5,0.0,Diversity and inclusion
+NEW,s8_est,5,0.0,"Education, skills and training"
+NEW,s9_ee,4,0.0,Ecological emergency
+NFK,s1_gov,21,0.0,"Governance, development and funding"
+NFK,s2_m&a,18,0.0,Mitigation and adaptation
+NFK,s3_c&a,5,0.0,Commitment and intergration
+NFK,s4_coms,9,0.0,"Community, engagement and communications"
+NFK,s5_mset,5,0.0,Measuring and setting emissions targets
+NFK,s6_cb,4,0.0,Co-benefits
+NFK,s7_dsi,5,0.0,Diversity and inclusion
+NFK,s8_est,5,0.0,"Education, skills and training"
+NFK,s9_ee,4,0.0,Ecological emergency
+NGM,s1_gov,21,14.0,"Governance, development and funding"
+NGM,s2_m&a,18,15.0,Mitigation and adaptation
+NGM,s3_c&a,7,6.0,Commitment and intergration
+NGM,s4_coms,9,5.0,"Community, engagement and communications"
+NGM,s5_mset,5,5.0,Measuring and setting emissions targets
+NGM,s6_cb,4,4.0,Co-benefits
+NGM,s7_dsi,5,2.0,Diversity and inclusion
+NGM,s8_est,5,5.0,"Education, skills and training"
+NGM,s9_ee,4,3.0,Ecological emergency
+NHE,s1_gov,21,11.0,"Governance, development and funding"
+NHE,s2_m&a,18,8.0,Mitigation and adaptation
+NHE,s3_c&a,7,1.0,Commitment and intergration
+NHE,s4_coms,9,3.0,"Community, engagement and communications"
+NHE,s5_mset,5,2.0,Measuring and setting emissions targets
+NHE,s6_cb,4,0.0,Co-benefits
+NHE,s7_dsi,5,0.0,Diversity and inclusion
+NHE,s8_est,5,1.0,"Education, skills and training"
+NHE,s9_ee,4,3.0,Ecological emergency
+NKE,s1_gov,21,15.0,"Governance, development and funding"
+NKE,s2_m&a,18,18.0,Mitigation and adaptation
+NKE,s3_c&a,7,5.0,Commitment and intergration
+NKE,s4_coms,9,6.0,"Community, engagement and communications"
+NKE,s5_mset,5,5.0,Measuring and setting emissions targets
+NKE,s6_cb,4,3.0,Co-benefits
+NKE,s7_dsi,5,2.0,Diversity and inclusion
+NKE,s8_est,5,1.0,"Education, skills and training"
+NKE,s9_ee,4,2.0,Ecological emergency
+NLK,s1_gov,21,14.0,"Governance, development and funding"
+NLK,s2_m&a,18,12.0,Mitigation and adaptation
+NLK,s3_c&a,7,3.0,Commitment and intergration
+NLK,s4_coms,9,3.0,"Community, engagement and communications"
+NLK,s5_mset,5,3.0,Measuring and setting emissions targets
+NLK,s6_cb,4,1.0,Co-benefits
+NLK,s7_dsi,5,3.0,Diversity and inclusion
+NLK,s8_est,5,2.0,"Education, skills and training"
+NLK,s9_ee,4,3.0,Ecological emergency
+NLN,s1_gov,21,4.0,"Governance, development and funding"
+NLN,s2_m&a,18,1.0,Mitigation and adaptation
+NLN,s3_c&a,7,2.0,Commitment and intergration
+NLN,s4_coms,9,3.0,"Community, engagement and communications"
+NLN,s5_mset,5,1.0,Measuring and setting emissions targets
+NLN,s6_cb,4,0.0,Co-benefits
+NLN,s7_dsi,5,0.0,Diversity and inclusion
+NLN,s8_est,5,0.0,"Education, skills and training"
+NLN,s9_ee,4,0.0,Ecological emergency
+NMD,s1_gov,21,0.0,"Governance, development and funding"
+NMD,s2_m&a,18,0.0,Mitigation and adaptation
+NMD,s3_c&a,7,0.0,Commitment and intergration
+NMD,s4_coms,9,0.0,"Community, engagement and communications"
+NMD,s5_mset,5,0.0,Measuring and setting emissions targets
+NMD,s6_cb,4,0.0,Co-benefits
+NMD,s7_dsi,5,0.0,Diversity and inclusion
+NMD,s8_est,5,0.0,"Education, skills and training"
+NMD,s9_ee,4,0.0,Ecological emergency
+NNO,s1_gov,21,3.0,"Governance, development and funding"
+NNO,s2_m&a,18,1.0,Mitigation and adaptation
+NNO,s3_c&a,7,1.0,Commitment and intergration
+NNO,s4_coms,9,5.0,"Community, engagement and communications"
+NNO,s5_mset,5,0.0,Measuring and setting emissions targets
+NNO,s6_cb,4,0.0,Co-benefits
+NNO,s7_dsi,5,0.0,Diversity and inclusion
+NNO,s8_est,5,0.0,"Education, skills and training"
+NNO,s9_ee,4,2.0,Ecological emergency
+NNT,s1_gov,21,7.0,"Governance, development and funding"
+NNT,s2_m&a,18,1.0,Mitigation and adaptation
+NNT,s3_c&a,7,6.0,Commitment and intergration
+NNT,s4_coms,9,4.0,"Community, engagement and communications"
+NNT,s5_mset,5,3.0,Measuring and setting emissions targets
+NNT,s6_cb,4,3.0,Co-benefits
+NNT,s7_dsi,5,0.0,Diversity and inclusion
+NNT,s8_est,5,3.0,"Education, skills and training"
+NNT,s9_ee,4,1.0,Ecological emergency
+NOW,s1_gov,21,9.0,"Governance, development and funding"
+NOW,s2_m&a,18,9.0,Mitigation and adaptation
+NOW,s3_c&a,7,2.0,Commitment and intergration
+NOW,s4_coms,9,5.0,"Community, engagement and communications"
+NOW,s5_mset,5,3.0,Measuring and setting emissions targets
+NOW,s6_cb,4,0.0,Co-benefits
+NOW,s7_dsi,5,0.0,Diversity and inclusion
+NOW,s8_est,5,0.0,"Education, skills and training"
+NOW,s9_ee,4,0.0,Ecological emergency
+NSM,s1_gov,21,8.0,"Governance, development and funding"
+NSM,s2_m&a,18,6.0,Mitigation and adaptation
+NSM,s3_c&a,7,1.0,Commitment and intergration
+NSM,s4_coms,9,3.0,"Community, engagement and communications"
+NSM,s5_mset,5,4.0,Measuring and setting emissions targets
+NSM,s6_cb,4,1.0,Co-benefits
+NSM,s7_dsi,5,0.0,Diversity and inclusion
+NSM,s8_est,5,1.0,"Education, skills and training"
+NSM,s9_ee,4,3.0,Ecological emergency
+NTCA,s1_gov,21,8.0,"Governance, development and funding"
+NTCA,s2_m&a,18,3.0,Mitigation and adaptation
+NTCA,s3_c&a,5,1.0,Commitment and intergration
+NTCA,s4_coms,9,3.0,"Community, engagement and communications"
+NTCA,s5_mset,5,2.0,Measuring and setting emissions targets
+NTCA,s6_cb,4,2.0,Co-benefits
+NTCA,s7_dsi,5,1.0,Diversity and inclusion
+NTCA,s8_est,5,4.0,"Education, skills and training"
+NTCA,s9_ee,4,0.0,Ecological emergency
+NTL,s1_gov,21,4.0,"Governance, development and funding"
+NTL,s2_m&a,18,6.0,Mitigation and adaptation
+NTL,s3_c&a,7,5.0,Commitment and intergration
+NTL,s4_coms,9,3.0,"Community, engagement and communications"
+NTL,s5_mset,5,2.0,Measuring and setting emissions targets
+NTL,s6_cb,4,1.0,Co-benefits
+NTL,s7_dsi,5,0.0,Diversity and inclusion
+NTL,s8_est,5,0.0,"Education, skills and training"
+NTL,s9_ee,4,3.0,Ecological emergency
+NTT,s1_gov,21,4.0,"Governance, development and funding"
+NTT,s2_m&a,18,1.0,Mitigation and adaptation
+NTT,s3_c&a,5,2.0,Commitment and intergration
+NTT,s4_coms,9,2.0,"Community, engagement and communications"
+NTT,s5_mset,5,1.0,Measuring and setting emissions targets
+NTT,s6_cb,4,1.0,Co-benefits
+NTT,s7_dsi,5,0.0,Diversity and inclusion
+NTT,s8_est,5,1.0,"Education, skills and training"
+NTT,s9_ee,4,1.0,Ecological emergency
+NTY,s1_gov,21,12.0,"Governance, development and funding"
+NTY,s2_m&a,18,9.0,Mitigation and adaptation
+NTY,s3_c&a,7,3.0,Commitment and intergration
+NTY,s4_coms,9,6.0,"Community, engagement and communications"
+NTY,s5_mset,5,4.0,Measuring and setting emissions targets
+NTY,s6_cb,4,2.0,Co-benefits
+NTY,s7_dsi,5,0.0,Diversity and inclusion
+NTY,s8_est,5,4.0,"Education, skills and training"
+NTY,s9_ee,4,3.0,Ecological emergency
+NUN,s1_gov,21,0.0,"Governance, development and funding"
+NUN,s2_m&a,18,0.0,Mitigation and adaptation
+NUN,s3_c&a,7,0.0,Commitment and intergration
+NUN,s4_coms,9,0.0,"Community, engagement and communications"
+NUN,s5_mset,5,0.0,Measuring and setting emissions targets
+NUN,s6_cb,4,0.0,Co-benefits
+NUN,s7_dsi,5,0.0,Diversity and inclusion
+NUN,s8_est,5,0.0,"Education, skills and training"
+NUN,s9_ee,4,0.0,Ecological emergency
+NWA,s1_gov,21,0.0,"Governance, development and funding"
+NWA,s2_m&a,18,0.0,Mitigation and adaptation
+NWA,s3_c&a,7,0.0,Commitment and intergration
+NWA,s4_coms,9,0.0,"Community, engagement and communications"
+NWA,s5_mset,5,0.0,Measuring and setting emissions targets
+NWA,s6_cb,4,0.0,Co-benefits
+NWA,s7_dsi,5,0.0,Diversity and inclusion
+NWA,s8_est,5,0.0,"Education, skills and training"
+NWA,s9_ee,4,0.0,Ecological emergency
+NWL,s1_gov,21,7.0,"Governance, development and funding"
+NWL,s2_m&a,18,10.0,Mitigation and adaptation
+NWL,s3_c&a,7,3.0,Commitment and intergration
+NWL,s4_coms,9,4.0,"Community, engagement and communications"
+NWL,s5_mset,5,4.0,Measuring and setting emissions targets
+NWL,s6_cb,4,1.0,Co-benefits
+NWL,s7_dsi,5,0.0,Diversity and inclusion
+NWL,s8_est,5,3.0,"Education, skills and training"
+NWL,s9_ee,4,1.0,Ecological emergency
+NWM,s1_gov,21,7.0,"Governance, development and funding"
+NWM,s2_m&a,18,7.0,Mitigation and adaptation
+NWM,s3_c&a,7,5.0,Commitment and intergration
+NWM,s4_coms,9,8.0,"Community, engagement and communications"
+NWM,s5_mset,5,2.0,Measuring and setting emissions targets
+NWM,s6_cb,4,3.0,Co-benefits
+NWM,s7_dsi,5,2.0,Diversity and inclusion
+NWM,s8_est,5,2.0,"Education, skills and training"
+NWM,s9_ee,4,1.0,Ecological emergency
+NWP,s1_gov,21,10.0,"Governance, development and funding"
+NWP,s2_m&a,18,1.0,Mitigation and adaptation
+NWP,s3_c&a,7,1.0,Commitment and intergration
+NWP,s4_coms,9,1.0,"Community, engagement and communications"
+NWP,s5_mset,5,0.0,Measuring and setting emissions targets
+NWP,s6_cb,4,1.0,Co-benefits
+NWP,s7_dsi,5,0.0,Diversity and inclusion
+NWP,s8_est,5,0.0,"Education, skills and training"
+NWP,s9_ee,4,0.0,Ecological emergency
+NYK,s1_gov,21,11.0,"Governance, development and funding"
+NYK,s2_m&a,18,1.0,Mitigation and adaptation
+NYK,s3_c&a,5,4.0,Commitment and intergration
+NYK,s4_coms,9,6.0,"Community, engagement and communications"
+NYK,s5_mset,5,2.0,Measuring and setting emissions targets
+NYK,s6_cb,4,1.0,Co-benefits
+NYK,s7_dsi,5,1.0,Diversity and inclusion
+NYK,s8_est,5,4.0,"Education, skills and training"
+NYK,s9_ee,4,2.0,Ecological emergency
+OAD,s1_gov,21,5.0,"Governance, development and funding"
+OAD,s2_m&a,18,4.0,Mitigation and adaptation
+OAD,s3_c&a,7,4.0,Commitment and intergration
+OAD,s4_coms,9,4.0,"Community, engagement and communications"
+OAD,s5_mset,5,1.0,Measuring and setting emissions targets
+OAD,s6_cb,4,2.0,Co-benefits
+OAD,s7_dsi,5,0.0,Diversity and inclusion
+OAD,s8_est,5,2.0,"Education, skills and training"
+OAD,s9_ee,4,0.0,Ecological emergency
+OLD,s1_gov,21,3.0,"Governance, development and funding"
+OLD,s2_m&a,18,2.0,Mitigation and adaptation
+OLD,s3_c&a,7,2.0,Commitment and intergration
+OLD,s4_coms,9,6.0,"Community, engagement and communications"
+OLD,s5_mset,5,1.0,Measuring and setting emissions targets
+OLD,s6_cb,4,2.0,Co-benefits
+OLD,s7_dsi,5,1.0,Diversity and inclusion
+OLD,s8_est,5,4.0,"Education, skills and training"
+OLD,s9_ee,4,1.0,Ecological emergency
+ORK,s1_gov,21,7.0,"Governance, development and funding"
+ORK,s2_m&a,18,1.0,Mitigation and adaptation
+ORK,s3_c&a,7,0.0,Commitment and intergration
+ORK,s4_coms,9,2.0,"Community, engagement and communications"
+ORK,s5_mset,5,1.0,Measuring and setting emissions targets
+ORK,s6_cb,4,0.0,Co-benefits
+ORK,s7_dsi,5,0.0,Diversity and inclusion
+ORK,s8_est,5,0.0,"Education, skills and training"
+ORK,s9_ee,4,0.0,Ecological emergency
+OXF,s1_gov,21,10.0,"Governance, development and funding"
+OXF,s2_m&a,18,8.0,Mitigation and adaptation
+OXF,s3_c&a,5,2.0,Commitment and intergration
+OXF,s4_coms,9,5.0,"Community, engagement and communications"
+OXF,s5_mset,5,2.0,Measuring and setting emissions targets
+OXF,s6_cb,4,1.0,Co-benefits
+OXF,s7_dsi,5,0.0,Diversity and inclusion
+OXF,s8_est,5,4.0,"Education, skills and training"
+OXF,s9_ee,4,1.0,Ecological emergency
+OXO,s1_gov,21,11.0,"Governance, development and funding"
+OXO,s2_m&a,18,9.0,Mitigation and adaptation
+OXO,s3_c&a,7,6.0,Commitment and intergration
+OXO,s4_coms,9,4.0,"Community, engagement and communications"
+OXO,s5_mset,5,4.0,Measuring and setting emissions targets
+OXO,s6_cb,4,1.0,Co-benefits
+OXO,s7_dsi,5,1.0,Diversity and inclusion
+OXO,s8_est,5,1.0,"Education, skills and training"
+OXO,s9_ee,4,0.0,Ecological emergency
+PEM,s1_gov,21,10.0,"Governance, development and funding"
+PEM,s2_m&a,18,15.0,Mitigation and adaptation
+PEM,s3_c&a,7,0.0,Commitment and intergration
+PEM,s4_coms,9,2.0,"Community, engagement and communications"
+PEM,s5_mset,5,1.0,Measuring and setting emissions targets
+PEM,s6_cb,4,1.0,Co-benefits
+PEM,s7_dsi,5,0.0,Diversity and inclusion
+PEM,s8_est,5,3.0,"Education, skills and training"
+PEM,s9_ee,4,3.0,Ecological emergency
+PEN,s1_gov,21,9.0,"Governance, development and funding"
+PEN,s2_m&a,18,5.0,Mitigation and adaptation
+PEN,s3_c&a,7,5.0,Commitment and intergration
+PEN,s4_coms,9,3.0,"Community, engagement and communications"
+PEN,s5_mset,5,1.0,Measuring and setting emissions targets
+PEN,s6_cb,4,0.0,Co-benefits
+PEN,s7_dsi,5,0.0,Diversity and inclusion
+PEN,s8_est,5,1.0,"Education, skills and training"
+PEN,s9_ee,4,0.0,Ecological emergency
+PKN,s1_gov,21,13.0,"Governance, development and funding"
+PKN,s2_m&a,18,14.0,Mitigation and adaptation
+PKN,s3_c&a,7,5.0,Commitment and intergration
+PKN,s4_coms,9,7.0,"Community, engagement and communications"
+PKN,s5_mset,5,4.0,Measuring and setting emissions targets
+PKN,s6_cb,4,4.0,Co-benefits
+PKN,s7_dsi,5,1.0,Diversity and inclusion
+PKN,s8_est,5,2.0,"Education, skills and training"
+PKN,s9_ee,4,3.0,Ecological emergency
+PLY,s1_gov,21,15.0,"Governance, development and funding"
+PLY,s2_m&a,18,8.0,Mitigation and adaptation
+PLY,s3_c&a,7,6.0,Commitment and intergration
+PLY,s4_coms,9,6.0,"Community, engagement and communications"
+PLY,s5_mset,5,4.0,Measuring and setting emissions targets
+PLY,s6_cb,4,2.0,Co-benefits
+PLY,s7_dsi,5,1.0,Diversity and inclusion
+PLY,s8_est,5,5.0,"Education, skills and training"
+PLY,s9_ee,4,3.0,Ecological emergency
+POR,s1_gov,21,9.0,"Governance, development and funding"
+POR,s2_m&a,18,5.0,Mitigation and adaptation
+POR,s3_c&a,7,4.0,Commitment and intergration
+POR,s4_coms,9,4.0,"Community, engagement and communications"
+POR,s5_mset,5,3.0,Measuring and setting emissions targets
+POR,s6_cb,4,2.0,Co-benefits
+POR,s7_dsi,5,0.0,Diversity and inclusion
+POR,s8_est,5,1.0,"Education, skills and training"
+POR,s9_ee,4,1.0,Ecological emergency
+POW,s1_gov,21,0.0,"Governance, development and funding"
+POW,s2_m&a,18,0.0,Mitigation and adaptation
+POW,s3_c&a,7,0.0,Commitment and intergration
+POW,s4_coms,9,0.0,"Community, engagement and communications"
+POW,s5_mset,5,0.0,Measuring and setting emissions targets
+POW,s6_cb,4,0.0,Co-benefits
+POW,s7_dsi,5,0.0,Diversity and inclusion
+POW,s8_est,5,0.0,"Education, skills and training"
+POW,s9_ee,4,0.0,Ecological emergency
+PRE,s1_gov,21,0.0,"Governance, development and funding"
+PRE,s2_m&a,18,0.0,Mitigation and adaptation
+PRE,s3_c&a,7,0.0,Commitment and intergration
+PRE,s4_coms,9,0.0,"Community, engagement and communications"
+PRE,s5_mset,5,0.0,Measuring and setting emissions targets
+PRE,s6_cb,4,0.0,Co-benefits
+PRE,s7_dsi,5,0.0,Diversity and inclusion
+PRE,s8_est,5,0.0,"Education, skills and training"
+PRE,s9_ee,4,0.0,Ecological emergency
+PTE,s1_gov,21,13.0,"Governance, development and funding"
+PTE,s2_m&a,18,0.0,Mitigation and adaptation
+PTE,s3_c&a,7,2.0,Commitment and intergration
+PTE,s4_coms,9,5.0,"Community, engagement and communications"
+PTE,s5_mset,5,2.0,Measuring and setting emissions targets
+PTE,s6_cb,4,1.0,Co-benefits
+PTE,s7_dsi,5,0.0,Diversity and inclusion
+PTE,s8_est,5,2.0,"Education, skills and training"
+PTE,s9_ee,4,0.0,Ecological emergency
+RCC,s1_gov,21,13.0,"Governance, development and funding"
+RCC,s2_m&a,18,7.0,Mitigation and adaptation
+RCC,s3_c&a,7,4.0,Commitment and intergration
+RCC,s4_coms,9,3.0,"Community, engagement and communications"
+RCC,s5_mset,5,3.0,Measuring and setting emissions targets
+RCC,s6_cb,4,1.0,Co-benefits
+RCC,s7_dsi,5,1.0,Diversity and inclusion
+RCC,s8_est,5,1.0,"Education, skills and training"
+RCC,s9_ee,4,0.0,Ecological emergency
+RCH,s1_gov,21,2.0,"Governance, development and funding"
+RCH,s2_m&a,18,1.0,Mitigation and adaptation
+RCH,s3_c&a,7,0.0,Commitment and intergration
+RCH,s4_coms,9,2.0,"Community, engagement and communications"
+RCH,s5_mset,5,1.0,Measuring and setting emissions targets
+RCH,s6_cb,4,2.0,Co-benefits
+RCH,s7_dsi,5,0.0,Diversity and inclusion
+RCH,s8_est,5,0.0,"Education, skills and training"
+RCH,s9_ee,4,1.0,Ecological emergency
+RCT,s1_gov,21,6.0,"Governance, development and funding"
+RCT,s2_m&a,18,12.0,Mitigation and adaptation
+RCT,s3_c&a,7,4.0,Commitment and intergration
+RCT,s4_coms,9,4.0,"Community, engagement and communications"
+RCT,s5_mset,5,2.0,Measuring and setting emissions targets
+RCT,s6_cb,4,1.0,Co-benefits
+RCT,s7_dsi,5,0.0,Diversity and inclusion
+RCT,s8_est,5,2.0,"Education, skills and training"
+RCT,s9_ee,4,3.0,Ecological emergency
+RDB,s1_gov,21,11.0,"Governance, development and funding"
+RDB,s2_m&a,18,6.0,Mitigation and adaptation
+RDB,s3_c&a,7,5.0,Commitment and intergration
+RDB,s4_coms,9,5.0,"Community, engagement and communications"
+RDB,s5_mset,5,2.0,Measuring and setting emissions targets
+RDB,s6_cb,4,4.0,Co-benefits
+RDB,s7_dsi,5,1.0,Diversity and inclusion
+RDB,s8_est,5,3.0,"Education, skills and training"
+RDB,s9_ee,4,3.0,Ecological emergency
+RDG,s1_gov,21,14.0,"Governance, development and funding"
+RDG,s2_m&a,18,16.0,Mitigation and adaptation
+RDG,s3_c&a,7,4.0,Commitment and intergration
+RDG,s4_coms,9,7.0,"Community, engagement and communications"
+RDG,s5_mset,5,4.0,Measuring and setting emissions targets
+RDG,s6_cb,4,4.0,Co-benefits
+RDG,s7_dsi,5,3.0,Diversity and inclusion
+RDG,s8_est,5,4.0,"Education, skills and training"
+RDG,s9_ee,4,3.0,Ecological emergency
+RED,s1_gov,21,0.0,"Governance, development and funding"
+RED,s2_m&a,18,0.0,Mitigation and adaptation
+RED,s3_c&a,7,0.0,Commitment and intergration
+RED,s4_coms,9,0.0,"Community, engagement and communications"
+RED,s5_mset,5,0.0,Measuring and setting emissions targets
+RED,s6_cb,4,0.0,Co-benefits
+RED,s7_dsi,5,0.0,Diversity and inclusion
+RED,s8_est,5,0.0,"Education, skills and training"
+RED,s9_ee,4,0.0,Ecological emergency
+REI,s1_gov,21,10.0,"Governance, development and funding"
+REI,s2_m&a,18,17.0,Mitigation and adaptation
+REI,s3_c&a,7,6.0,Commitment and intergration
+REI,s4_coms,9,7.0,"Community, engagement and communications"
+REI,s5_mset,5,3.0,Measuring and setting emissions targets
+REI,s6_cb,4,2.0,Co-benefits
+REI,s7_dsi,5,0.0,Diversity and inclusion
+REI,s8_est,5,3.0,"Education, skills and training"
+REI,s9_ee,4,3.0,Ecological emergency
+RFW,s1_gov,21,0.0,"Governance, development and funding"
+RFW,s2_m&a,18,0.0,Mitigation and adaptation
+RFW,s3_c&a,7,0.0,Commitment and intergration
+RFW,s4_coms,9,0.0,"Community, engagement and communications"
+RFW,s5_mset,5,0.0,Measuring and setting emissions targets
+RFW,s6_cb,4,0.0,Co-benefits
+RFW,s7_dsi,5,0.0,Diversity and inclusion
+RFW,s8_est,5,0.0,"Education, skills and training"
+RFW,s9_ee,4,0.0,Ecological emergency
+RIB,s1_gov,21,0.0,"Governance, development and funding"
+RIB,s2_m&a,18,0.0,Mitigation and adaptation
+RIB,s3_c&a,7,0.0,Commitment and intergration
+RIB,s4_coms,9,0.0,"Community, engagement and communications"
+RIB,s5_mset,5,0.0,Measuring and setting emissions targets
+RIB,s6_cb,4,0.0,Co-benefits
+RIB,s7_dsi,5,0.0,Diversity and inclusion
+RIB,s8_est,5,0.0,"Education, skills and training"
+RIB,s9_ee,4,0.0,Ecological emergency
+RIC,s1_gov,21,15.0,"Governance, development and funding"
+RIC,s2_m&a,18,13.0,Mitigation and adaptation
+RIC,s3_c&a,7,5.0,Commitment and intergration
+RIC,s4_coms,9,9.0,"Community, engagement and communications"
+RIC,s5_mset,5,4.0,Measuring and setting emissions targets
+RIC,s6_cb,4,4.0,Co-benefits
+RIC,s7_dsi,5,4.0,Diversity and inclusion
+RIC,s8_est,5,3.0,"Education, skills and training"
+RIC,s9_ee,4,3.0,Ecological emergency
+RIH,s1_gov,21,17.0,"Governance, development and funding"
+RIH,s2_m&a,18,1.0,Mitigation and adaptation
+RIH,s3_c&a,7,6.0,Commitment and intergration
+RIH,s4_coms,9,3.0,"Community, engagement and communications"
+RIH,s5_mset,5,1.0,Measuring and setting emissions targets
+RIH,s6_cb,4,1.0,Co-benefits
+RIH,s7_dsi,5,0.0,Diversity and inclusion
+RIH,s8_est,5,1.0,"Education, skills and training"
+RIH,s9_ee,4,0.0,Ecological emergency
+ROC,s1_gov,21,1.0,"Governance, development and funding"
+ROC,s2_m&a,18,0.0,Mitigation and adaptation
+ROC,s3_c&a,7,1.0,Commitment and intergration
+ROC,s4_coms,9,0.0,"Community, engagement and communications"
+ROC,s5_mset,5,0.0,Measuring and setting emissions targets
+ROC,s6_cb,4,0.0,Co-benefits
+ROC,s7_dsi,5,0.0,Diversity and inclusion
+ROC,s8_est,5,0.0,"Education, skills and training"
+ROC,s9_ee,4,0.0,Ecological emergency
+ROH,s1_gov,21,5.0,"Governance, development and funding"
+ROH,s2_m&a,18,4.0,Mitigation and adaptation
+ROH,s3_c&a,7,2.0,Commitment and intergration
+ROH,s4_coms,9,4.0,"Community, engagement and communications"
+ROH,s5_mset,5,1.0,Measuring and setting emissions targets
+ROH,s6_cb,4,0.0,Co-benefits
+ROH,s7_dsi,5,0.0,Diversity and inclusion
+ROH,s8_est,5,1.0,"Education, skills and training"
+ROH,s9_ee,4,0.0,Ecological emergency
+ROS,s1_gov,21,5.0,"Governance, development and funding"
+ROS,s2_m&a,18,3.0,Mitigation and adaptation
+ROS,s3_c&a,7,1.0,Commitment and intergration
+ROS,s4_coms,9,3.0,"Community, engagement and communications"
+ROS,s5_mset,5,1.0,Measuring and setting emissions targets
+ROS,s6_cb,4,0.0,Co-benefits
+ROS,s7_dsi,5,0.0,Diversity and inclusion
+ROS,s8_est,5,0.0,"Education, skills and training"
+ROS,s9_ee,4,1.0,Ecological emergency
+ROT,s1_gov,21,12.0,"Governance, development and funding"
+ROT,s2_m&a,18,7.0,Mitigation and adaptation
+ROT,s3_c&a,7,6.0,Commitment and intergration
+ROT,s4_coms,9,5.0,"Community, engagement and communications"
+ROT,s5_mset,5,2.0,Measuring and setting emissions targets
+ROT,s6_cb,4,2.0,Co-benefits
+ROT,s7_dsi,5,3.0,Diversity and inclusion
+ROT,s8_est,5,1.0,"Education, skills and training"
+ROT,s9_ee,4,1.0,Ecological emergency
+RUG,s1_gov,21,0.0,"Governance, development and funding"
+RUG,s2_m&a,18,0.0,Mitigation and adaptation
+RUG,s3_c&a,7,0.0,Commitment and intergration
+RUG,s4_coms,9,0.0,"Community, engagement and communications"
+RUG,s5_mset,5,0.0,Measuring and setting emissions targets
+RUG,s6_cb,4,0.0,Co-benefits
+RUG,s7_dsi,5,0.0,Diversity and inclusion
+RUG,s8_est,5,0.0,"Education, skills and training"
+RUG,s9_ee,4,0.0,Ecological emergency
+RUH,s1_gov,21,8.0,"Governance, development and funding"
+RUH,s2_m&a,18,9.0,Mitigation and adaptation
+RUH,s3_c&a,7,6.0,Commitment and intergration
+RUH,s4_coms,9,2.0,"Community, engagement and communications"
+RUH,s5_mset,5,1.0,Measuring and setting emissions targets
+RUH,s6_cb,4,4.0,Co-benefits
+RUH,s7_dsi,5,0.0,Diversity and inclusion
+RUH,s8_est,5,3.0,"Education, skills and training"
+RUH,s9_ee,4,3.0,Ecological emergency
+RUN,s1_gov,21,0.0,"Governance, development and funding"
+RUN,s2_m&a,18,0.0,Mitigation and adaptation
+RUN,s3_c&a,7,0.0,Commitment and intergration
+RUN,s4_coms,9,0.0,"Community, engagement and communications"
+RUN,s5_mset,5,0.0,Measuring and setting emissions targets
+RUN,s6_cb,4,0.0,Co-benefits
+RUN,s7_dsi,5,0.0,Diversity and inclusion
+RUN,s8_est,5,0.0,"Education, skills and training"
+RUN,s9_ee,4,0.0,Ecological emergency
+RUS,s1_gov,21,8.0,"Governance, development and funding"
+RUS,s2_m&a,18,14.0,Mitigation and adaptation
+RUS,s3_c&a,7,4.0,Commitment and intergration
+RUS,s4_coms,9,4.0,"Community, engagement and communications"
+RUS,s5_mset,5,3.0,Measuring and setting emissions targets
+RUS,s6_cb,4,2.0,Co-benefits
+RUS,s7_dsi,5,0.0,Diversity and inclusion
+RUS,s8_est,5,0.0,"Education, skills and training"
+RUS,s9_ee,4,4.0,Ecological emergency
+RUT,s1_gov,21,0.0,"Governance, development and funding"
+RUT,s2_m&a,18,0.0,Mitigation and adaptation
+RUT,s3_c&a,7,0.0,Commitment and intergration
+RUT,s4_coms,9,0.0,"Community, engagement and communications"
+RUT,s5_mset,5,0.0,Measuring and setting emissions targets
+RUT,s6_cb,4,0.0,Co-benefits
+RUT,s7_dsi,5,0.0,Diversity and inclusion
+RUT,s8_est,5,0.0,"Education, skills and training"
+RUT,s9_ee,4,0.0,Ecological emergency
+RYE,s1_gov,21,7.0,"Governance, development and funding"
+RYE,s2_m&a,18,2.0,Mitigation and adaptation
+RYE,s3_c&a,7,6.0,Commitment and intergration
+RYE,s4_coms,9,1.0,"Community, engagement and communications"
+RYE,s5_mset,5,0.0,Measuring and setting emissions targets
+RYE,s6_cb,4,0.0,Co-benefits
+RYE,s7_dsi,5,0.0,Diversity and inclusion
+RYE,s8_est,5,0.0,"Education, skills and training"
+RYE,s9_ee,4,0.0,Ecological emergency
+SAL,s1_gov,21,12.0,"Governance, development and funding"
+SAL,s2_m&a,18,12.0,Mitigation and adaptation
+SAL,s3_c&a,7,3.0,Commitment and intergration
+SAL,s4_coms,9,7.0,"Community, engagement and communications"
+SAL,s5_mset,5,3.0,Measuring and setting emissions targets
+SAL,s6_cb,4,2.0,Co-benefits
+SAL,s7_dsi,5,0.0,Diversity and inclusion
+SAL,s8_est,5,2.0,"Education, skills and training"
+SAL,s9_ee,4,3.0,Ecological emergency
+SAW,s1_gov,21,16.0,"Governance, development and funding"
+SAW,s2_m&a,18,13.0,Mitigation and adaptation
+SAW,s3_c&a,7,3.0,Commitment and intergration
+SAW,s4_coms,9,6.0,"Community, engagement and communications"
+SAW,s5_mset,5,2.0,Measuring and setting emissions targets
+SAW,s6_cb,4,4.0,Co-benefits
+SAW,s7_dsi,5,0.0,Diversity and inclusion
+SAW,s8_est,5,5.0,"Education, skills and training"
+SAW,s9_ee,4,3.0,Ecological emergency
+SAY,s1_gov,21,10.0,"Governance, development and funding"
+SAY,s2_m&a,18,8.0,Mitigation and adaptation
+SAY,s3_c&a,7,6.0,Commitment and intergration
+SAY,s4_coms,9,2.0,"Community, engagement and communications"
+SAY,s5_mset,5,1.0,Measuring and setting emissions targets
+SAY,s6_cb,4,3.0,Co-benefits
+SAY,s7_dsi,5,0.0,Diversity and inclusion
+SAY,s8_est,5,3.0,"Education, skills and training"
+SAY,s9_ee,4,0.0,Ecological emergency
+SCA,s1_gov,21,8.0,"Governance, development and funding"
+SCA,s2_m&a,18,7.0,Mitigation and adaptation
+SCA,s3_c&a,7,6.0,Commitment and intergration
+SCA,s4_coms,9,5.0,"Community, engagement and communications"
+SCA,s5_mset,5,2.0,Measuring and setting emissions targets
+SCA,s6_cb,4,1.0,Co-benefits
+SCA,s7_dsi,5,0.0,Diversity and inclusion
+SCA,s8_est,5,0.0,"Education, skills and training"
+SCA,s9_ee,4,1.0,Ecological emergency
+SCB,s1_gov,21,10.0,"Governance, development and funding"
+SCB,s2_m&a,18,14.0,Mitigation and adaptation
+SCB,s3_c&a,7,4.0,Commitment and intergration
+SCB,s4_coms,9,5.0,"Community, engagement and communications"
+SCB,s5_mset,5,3.0,Measuring and setting emissions targets
+SCB,s6_cb,4,3.0,Co-benefits
+SCB,s7_dsi,5,2.0,Diversity and inclusion
+SCB,s8_est,5,3.0,"Education, skills and training"
+SCB,s9_ee,4,3.0,Ecological emergency
+SCE,s1_gov,21,6.0,"Governance, development and funding"
+SCE,s2_m&a,18,7.0,Mitigation and adaptation
+SCE,s3_c&a,7,6.0,Commitment and intergration
+SCE,s4_coms,9,2.0,"Community, engagement and communications"
+SCE,s5_mset,5,4.0,Measuring and setting emissions targets
+SCE,s6_cb,4,1.0,Co-benefits
+SCE,s7_dsi,5,0.0,Diversity and inclusion
+SCE,s8_est,5,3.0,"Education, skills and training"
+SCE,s9_ee,4,2.0,Ecological emergency
+SCR,s1_gov,21,6.0,"Governance, development and funding"
+SCR,s2_m&a,18,1.0,Mitigation and adaptation
+SCR,s3_c&a,5,1.0,Commitment and intergration
+SCR,s4_coms,9,5.0,"Community, engagement and communications"
+SCR,s5_mset,5,2.0,Measuring and setting emissions targets
+SCR,s6_cb,4,3.0,Co-benefits
+SCR,s7_dsi,5,0.0,Diversity and inclusion
+SCR,s8_est,5,1.0,"Education, skills and training"
+SCR,s9_ee,4,0.0,Ecological emergency
+SDE,s1_gov,21,20.0,"Governance, development and funding"
+SDE,s2_m&a,18,9.0,Mitigation and adaptation
+SDE,s3_c&a,7,6.0,Commitment and intergration
+SDE,s4_coms,9,8.0,"Community, engagement and communications"
+SDE,s5_mset,5,5.0,Measuring and setting emissions targets
+SDE,s6_cb,4,1.0,Co-benefits
+SDE,s7_dsi,5,2.0,Diversity and inclusion
+SDE,s8_est,5,2.0,"Education, skills and training"
+SDE,s9_ee,4,2.0,Ecological emergency
+SEG,s1_gov,21,13.0,"Governance, development and funding"
+SEG,s2_m&a,18,18.0,Mitigation and adaptation
+SEG,s3_c&a,7,4.0,Commitment and intergration
+SEG,s4_coms,9,6.0,"Community, engagement and communications"
+SEG,s5_mset,5,3.0,Measuring and setting emissions targets
+SEG,s6_cb,4,4.0,Co-benefits
+SEG,s7_dsi,5,1.0,Diversity and inclusion
+SEG,s8_est,5,5.0,"Education, skills and training"
+SEG,s9_ee,4,4.0,Ecological emergency
+SEL,s1_gov,21,0.0,"Governance, development and funding"
+SEL,s2_m&a,18,0.0,Mitigation and adaptation
+SEL,s3_c&a,7,0.0,Commitment and intergration
+SEL,s4_coms,9,0.0,"Community, engagement and communications"
+SEL,s5_mset,5,0.0,Measuring and setting emissions targets
+SEL,s6_cb,4,0.0,Co-benefits
+SEL,s7_dsi,5,0.0,Diversity and inclusion
+SEL,s8_est,5,0.0,"Education, skills and training"
+SEL,s9_ee,4,0.0,Ecological emergency
+SEV,s1_gov,21,10.0,"Governance, development and funding"
+SEV,s2_m&a,18,14.0,Mitigation and adaptation
+SEV,s3_c&a,7,5.0,Commitment and intergration
+SEV,s4_coms,9,6.0,"Community, engagement and communications"
+SEV,s5_mset,5,2.0,Measuring and setting emissions targets
+SEV,s6_cb,4,4.0,Co-benefits
+SEV,s7_dsi,5,1.0,Diversity and inclusion
+SEV,s8_est,5,0.0,"Education, skills and training"
+SEV,s9_ee,4,3.0,Ecological emergency
+SFK,s1_gov,21,13.0,"Governance, development and funding"
+SFK,s2_m&a,18,6.0,Mitigation and adaptation
+SFK,s3_c&a,5,4.0,Commitment and intergration
+SFK,s4_coms,9,6.0,"Community, engagement and communications"
+SFK,s5_mset,5,4.0,Measuring and setting emissions targets
+SFK,s6_cb,4,2.0,Co-benefits
+SFK,s7_dsi,5,0.0,Diversity and inclusion
+SFK,s8_est,5,2.0,"Education, skills and training"
+SFK,s9_ee,4,2.0,Ecological emergency
+SFT,s1_gov,21,6.0,"Governance, development and funding"
+SFT,s2_m&a,18,4.0,Mitigation and adaptation
+SFT,s3_c&a,7,3.0,Commitment and intergration
+SFT,s4_coms,9,3.0,"Community, engagement and communications"
+SFT,s5_mset,5,1.0,Measuring and setting emissions targets
+SFT,s6_cb,4,3.0,Co-benefits
+SFT,s7_dsi,5,1.0,Diversity and inclusion
+SFT,s8_est,5,2.0,"Education, skills and training"
+SFT,s9_ee,4,1.0,Ecological emergency
+SGC,s1_gov,21,12.0,"Governance, development and funding"
+SGC,s2_m&a,18,15.0,Mitigation and adaptation
+SGC,s3_c&a,7,5.0,Commitment and intergration
+SGC,s4_coms,9,8.0,"Community, engagement and communications"
+SGC,s5_mset,5,5.0,Measuring and setting emissions targets
+SGC,s6_cb,4,4.0,Co-benefits
+SGC,s7_dsi,5,4.0,Diversity and inclusion
+SGC,s8_est,5,4.0,"Education, skills and training"
+SGC,s9_ee,4,3.0,Ecological emergency
+SHA,s1_gov,21,15.0,"Governance, development and funding"
+SHA,s2_m&a,18,10.0,Mitigation and adaptation
+SHA,s3_c&a,7,4.0,Commitment and intergration
+SHA,s4_coms,9,8.0,"Community, engagement and communications"
+SHA,s5_mset,5,5.0,Measuring and setting emissions targets
+SHA,s6_cb,4,4.0,Co-benefits
+SHA,s7_dsi,5,0.0,Diversity and inclusion
+SHA,s8_est,5,3.0,"Education, skills and training"
+SHA,s9_ee,4,3.0,Ecological emergency
+SHE,s1_gov,21,15.0,"Governance, development and funding"
+SHE,s2_m&a,18,10.0,Mitigation and adaptation
+SHE,s3_c&a,7,6.0,Commitment and intergration
+SHE,s4_coms,9,5.0,"Community, engagement and communications"
+SHE,s5_mset,5,3.0,Measuring and setting emissions targets
+SHE,s6_cb,4,4.0,Co-benefits
+SHE,s7_dsi,5,1.0,Diversity and inclusion
+SHE,s8_est,5,1.0,"Education, skills and training"
+SHE,s9_ee,4,3.0,Ecological emergency
+SHF,s1_gov,21,0.0,"Governance, development and funding"
+SHF,s2_m&a,18,0.0,Mitigation and adaptation
+SHF,s3_c&a,7,0.0,Commitment and intergration
+SHF,s4_coms,9,0.0,"Community, engagement and communications"
+SHF,s5_mset,5,0.0,Measuring and setting emissions targets
+SHF,s6_cb,4,0.0,Co-benefits
+SHF,s7_dsi,5,0.0,Diversity and inclusion
+SHF,s8_est,5,0.0,"Education, skills and training"
+SHF,s9_ee,4,0.0,Ecological emergency
+SHN,s1_gov,21,0.0,"Governance, development and funding"
+SHN,s2_m&a,18,0.0,Mitigation and adaptation
+SHN,s3_c&a,7,0.0,Commitment and intergration
+SHN,s4_coms,9,0.0,"Community, engagement and communications"
+SHN,s5_mset,5,0.0,Measuring and setting emissions targets
+SHN,s6_cb,4,0.0,Co-benefits
+SHN,s7_dsi,5,0.0,Diversity and inclusion
+SHN,s8_est,5,0.0,"Education, skills and training"
+SHN,s9_ee,4,0.0,Ecological emergency
+SHO,s1_gov,21,0.0,"Governance, development and funding"
+SHO,s2_m&a,18,0.0,Mitigation and adaptation
+SHO,s3_c&a,7,0.0,Commitment and intergration
+SHO,s4_coms,9,0.0,"Community, engagement and communications"
+SHO,s5_mset,5,0.0,Measuring and setting emissions targets
+SHO,s6_cb,4,0.0,Co-benefits
+SHO,s7_dsi,5,0.0,Diversity and inclusion
+SHO,s8_est,5,0.0,"Education, skills and training"
+SHO,s9_ee,4,0.0,Ecological emergency
+SHR,s1_gov,21,12.0,"Governance, development and funding"
+SHR,s2_m&a,18,9.0,Mitigation and adaptation
+SHR,s3_c&a,7,5.0,Commitment and intergration
+SHR,s4_coms,9,6.0,"Community, engagement and communications"
+SHR,s5_mset,5,3.0,Measuring and setting emissions targets
+SHR,s6_cb,4,3.0,Co-benefits
+SHR,s7_dsi,5,0.0,Diversity and inclusion
+SHR,s8_est,5,3.0,"Education, skills and training"
+SHR,s9_ee,4,0.0,Ecological emergency
+SKE,s1_gov,21,6.0,"Governance, development and funding"
+SKE,s2_m&a,18,0.0,Mitigation and adaptation
+SKE,s3_c&a,7,2.0,Commitment and intergration
+SKE,s4_coms,9,1.0,"Community, engagement and communications"
+SKE,s5_mset,5,2.0,Measuring and setting emissions targets
+SKE,s6_cb,4,0.0,Co-benefits
+SKE,s7_dsi,5,0.0,Diversity and inclusion
+SKE,s8_est,5,0.0,"Education, skills and training"
+SKE,s9_ee,4,0.0,Ecological emergency
+SKP,s1_gov,21,8.0,"Governance, development and funding"
+SKP,s2_m&a,18,6.0,Mitigation and adaptation
+SKP,s3_c&a,7,3.0,Commitment and intergration
+SKP,s4_coms,9,2.0,"Community, engagement and communications"
+SKP,s5_mset,5,2.0,Measuring and setting emissions targets
+SKP,s6_cb,4,1.0,Co-benefits
+SKP,s7_dsi,5,0.0,Diversity and inclusion
+SKP,s8_est,5,2.0,"Education, skills and training"
+SKP,s9_ee,4,1.0,Ecological emergency
+SLA,s1_gov,21,10.0,"Governance, development and funding"
+SLA,s2_m&a,18,6.0,Mitigation and adaptation
+SLA,s3_c&a,7,2.0,Commitment and intergration
+SLA,s4_coms,9,4.0,"Community, engagement and communications"
+SLA,s5_mset,5,3.0,Measuring and setting emissions targets
+SLA,s6_cb,4,4.0,Co-benefits
+SLA,s7_dsi,5,1.0,Diversity and inclusion
+SLA,s8_est,5,1.0,"Education, skills and training"
+SLA,s9_ee,4,1.0,Ecological emergency
+SLF,s1_gov,21,6.0,"Governance, development and funding"
+SLF,s2_m&a,18,15.0,Mitigation and adaptation
+SLF,s3_c&a,7,4.0,Commitment and intergration
+SLF,s4_coms,9,6.0,"Community, engagement and communications"
+SLF,s5_mset,5,4.0,Measuring and setting emissions targets
+SLF,s6_cb,4,4.0,Co-benefits
+SLF,s7_dsi,5,1.0,Diversity and inclusion
+SLF,s8_est,5,3.0,"Education, skills and training"
+SLF,s9_ee,4,3.0,Ecological emergency
+SLG,s1_gov,21,13.0,"Governance, development and funding"
+SLG,s2_m&a,18,17.0,Mitigation and adaptation
+SLG,s3_c&a,7,4.0,Commitment and intergration
+SLG,s4_coms,9,6.0,"Community, engagement and communications"
+SLG,s5_mset,5,4.0,Measuring and setting emissions targets
+SLG,s6_cb,4,3.0,Co-benefits
+SLG,s7_dsi,5,1.0,Diversity and inclusion
+SLG,s8_est,5,3.0,"Education, skills and training"
+SLG,s9_ee,4,3.0,Ecological emergency
+SLK,s1_gov,21,7.0,"Governance, development and funding"
+SLK,s2_m&a,18,7.0,Mitigation and adaptation
+SLK,s3_c&a,7,4.0,Commitment and intergration
+SLK,s4_coms,9,6.0,"Community, engagement and communications"
+SLK,s5_mset,5,2.0,Measuring and setting emissions targets
+SLK,s6_cb,4,2.0,Co-benefits
+SLK,s7_dsi,5,0.0,Diversity and inclusion
+SLK,s8_est,5,2.0,"Education, skills and training"
+SLK,s9_ee,4,3.0,Ecological emergency
+SND,s1_gov,21,7.0,"Governance, development and funding"
+SND,s2_m&a,18,16.0,Mitigation and adaptation
+SND,s3_c&a,7,6.0,Commitment and intergration
+SND,s4_coms,9,7.0,"Community, engagement and communications"
+SND,s5_mset,5,3.0,Measuring and setting emissions targets
+SND,s6_cb,4,4.0,Co-benefits
+SND,s7_dsi,5,1.0,Diversity and inclusion
+SND,s8_est,5,2.0,"Education, skills and training"
+SND,s9_ee,4,0.0,Ecological emergency
+SNO,s1_gov,21,4.0,"Governance, development and funding"
+SNO,s2_m&a,18,12.0,Mitigation and adaptation
+SNO,s3_c&a,7,2.0,Commitment and intergration
+SNO,s4_coms,9,4.0,"Community, engagement and communications"
+SNO,s5_mset,5,3.0,Measuring and setting emissions targets
+SNO,s6_cb,4,4.0,Co-benefits
+SNO,s7_dsi,5,1.0,Diversity and inclusion
+SNO,s8_est,5,0.0,"Education, skills and training"
+SNO,s9_ee,4,3.0,Ecological emergency
+SOL,s1_gov,21,16.0,"Governance, development and funding"
+SOL,s2_m&a,18,15.0,Mitigation and adaptation
+SOL,s3_c&a,7,7.0,Commitment and intergration
+SOL,s4_coms,9,9.0,"Community, engagement and communications"
+SOL,s5_mset,5,4.0,Measuring and setting emissions targets
+SOL,s6_cb,4,4.0,Co-benefits
+SOL,s7_dsi,5,2.0,Diversity and inclusion
+SOL,s8_est,5,5.0,"Education, skills and training"
+SOL,s9_ee,4,3.0,Ecological emergency
+SOM,s1_gov,21,10.0,"Governance, development and funding"
+SOM,s2_m&a,18,18.0,Mitigation and adaptation
+SOM,s3_c&a,5,3.0,Commitment and intergration
+SOM,s4_coms,9,7.0,"Community, engagement and communications"
+SOM,s5_mset,5,3.0,Measuring and setting emissions targets
+SOM,s6_cb,4,4.0,Co-benefits
+SOM,s7_dsi,5,0.0,Diversity and inclusion
+SOM,s8_est,5,2.0,"Education, skills and training"
+SOM,s9_ee,4,4.0,Ecological emergency
+SOS,s1_gov,21,12.0,"Governance, development and funding"
+SOS,s2_m&a,18,12.0,Mitigation and adaptation
+SOS,s3_c&a,7,7.0,Commitment and intergration
+SOS,s4_coms,9,3.0,"Community, engagement and communications"
+SOS,s5_mset,5,1.0,Measuring and setting emissions targets
+SOS,s6_cb,4,4.0,Co-benefits
+SOS,s7_dsi,5,1.0,Diversity and inclusion
+SOS,s8_est,5,3.0,"Education, skills and training"
+SOS,s9_ee,4,2.0,Ecological emergency
+SOX,s1_gov,21,0.0,"Governance, development and funding"
+SOX,s2_m&a,18,0.0,Mitigation and adaptation
+SOX,s3_c&a,7,0.0,Commitment and intergration
+SOX,s4_coms,9,0.0,"Community, engagement and communications"
+SOX,s5_mset,5,0.0,Measuring and setting emissions targets
+SOX,s6_cb,4,0.0,Co-benefits
+SOX,s7_dsi,5,0.0,Diversity and inclusion
+SOX,s8_est,5,0.0,"Education, skills and training"
+SOX,s9_ee,4,0.0,Ecological emergency
+SPE,s1_gov,21,0.0,"Governance, development and funding"
+SPE,s2_m&a,18,0.0,Mitigation and adaptation
+SPE,s3_c&a,7,0.0,Commitment and intergration
+SPE,s4_coms,9,0.0,"Community, engagement and communications"
+SPE,s5_mset,5,0.0,Measuring and setting emissions targets
+SPE,s6_cb,4,0.0,Co-benefits
+SPE,s7_dsi,5,0.0,Diversity and inclusion
+SPE,s8_est,5,0.0,"Education, skills and training"
+SPE,s9_ee,4,0.0,Ecological emergency
+SRI,s1_gov,21,9.0,"Governance, development and funding"
+SRI,s2_m&a,18,13.0,Mitigation and adaptation
+SRI,s3_c&a,7,5.0,Commitment and intergration
+SRI,s4_coms,9,6.0,"Community, engagement and communications"
+SRI,s5_mset,5,4.0,Measuring and setting emissions targets
+SRI,s6_cb,4,3.0,Co-benefits
+SRI,s7_dsi,5,0.0,Diversity and inclusion
+SRI,s8_est,5,4.0,"Education, skills and training"
+SRI,s9_ee,4,2.0,Ecological emergency
+SRY,s1_gov,21,7.0,"Governance, development and funding"
+SRY,s2_m&a,18,17.0,Mitigation and adaptation
+SRY,s3_c&a,5,2.0,Commitment and intergration
+SRY,s4_coms,9,4.0,"Community, engagement and communications"
+SRY,s5_mset,5,3.0,Measuring and setting emissions targets
+SRY,s6_cb,4,2.0,Co-benefits
+SRY,s7_dsi,5,0.0,Diversity and inclusion
+SRY,s8_est,5,3.0,"Education, skills and training"
+SRY,s9_ee,4,1.0,Ecological emergency
+SSO,s1_gov,21,11.0,"Governance, development and funding"
+SSO,s2_m&a,18,18.0,Mitigation and adaptation
+SSO,s3_c&a,7,4.0,Commitment and intergration
+SSO,s4_coms,9,5.0,"Community, engagement and communications"
+SSO,s5_mset,5,2.0,Measuring and setting emissions targets
+SSO,s6_cb,4,4.0,Co-benefits
+SSO,s7_dsi,5,0.0,Diversity and inclusion
+SSO,s8_est,5,2.0,"Education, skills and training"
+SSO,s9_ee,4,3.0,Ecological emergency
+SST,s1_gov,21,9.0,"Governance, development and funding"
+SST,s2_m&a,18,13.0,Mitigation and adaptation
+SST,s3_c&a,7,1.0,Commitment and intergration
+SST,s4_coms,9,3.0,"Community, engagement and communications"
+SST,s5_mset,5,2.0,Measuring and setting emissions targets
+SST,s6_cb,4,0.0,Co-benefits
+SST,s7_dsi,5,0.0,Diversity and inclusion
+SST,s8_est,5,1.0,"Education, skills and training"
+SST,s9_ee,4,3.0,Ecological emergency
+STA,s1_gov,21,9.0,"Governance, development and funding"
+STA,s2_m&a,18,2.0,Mitigation and adaptation
+STA,s3_c&a,7,5.0,Commitment and intergration
+STA,s4_coms,9,6.0,"Community, engagement and communications"
+STA,s5_mset,5,0.0,Measuring and setting emissions targets
+STA,s6_cb,4,0.0,Co-benefits
+STA,s7_dsi,5,0.0,Diversity and inclusion
+STA,s8_est,5,2.0,"Education, skills and training"
+STA,s9_ee,4,3.0,Ecological emergency
+STE,s1_gov,21,0.0,"Governance, development and funding"
+STE,s2_m&a,18,0.0,Mitigation and adaptation
+STE,s3_c&a,7,0.0,Commitment and intergration
+STE,s4_coms,9,0.0,"Community, engagement and communications"
+STE,s5_mset,5,0.0,Measuring and setting emissions targets
+STE,s6_cb,4,0.0,Co-benefits
+STE,s7_dsi,5,0.0,Diversity and inclusion
+STE,s8_est,5,0.0,"Education, skills and training"
+STE,s9_ee,4,0.0,Ecological emergency
+STF,s1_gov,21,15.0,"Governance, development and funding"
+STF,s2_m&a,18,11.0,Mitigation and adaptation
+STF,s3_c&a,7,7.0,Commitment and intergration
+STF,s4_coms,9,9.0,"Community, engagement and communications"
+STF,s5_mset,5,4.0,Measuring and setting emissions targets
+STF,s6_cb,4,4.0,Co-benefits
+STF,s7_dsi,5,5.0,Diversity and inclusion
+STF,s8_est,5,5.0,"Education, skills and training"
+STF,s9_ee,4,3.0,Ecological emergency
+STG,s1_gov,21,9.0,"Governance, development and funding"
+STG,s2_m&a,18,10.0,Mitigation and adaptation
+STG,s3_c&a,7,6.0,Commitment and intergration
+STG,s4_coms,9,7.0,"Community, engagement and communications"
+STG,s5_mset,5,5.0,Measuring and setting emissions targets
+STG,s6_cb,4,2.0,Co-benefits
+STG,s7_dsi,5,0.0,Diversity and inclusion
+STG,s8_est,5,4.0,"Education, skills and training"
+STG,s9_ee,4,3.0,Ecological emergency
+STH,s1_gov,21,7.0,"Governance, development and funding"
+STH,s2_m&a,18,6.0,Mitigation and adaptation
+STH,s3_c&a,7,4.0,Commitment and intergration
+STH,s4_coms,9,7.0,"Community, engagement and communications"
+STH,s5_mset,5,2.0,Measuring and setting emissions targets
+STH,s6_cb,4,2.0,Co-benefits
+STH,s7_dsi,5,0.0,Diversity and inclusion
+STH,s8_est,5,0.0,"Education, skills and training"
+STH,s9_ee,4,2.0,Ecological emergency
+STN,s1_gov,21,5.0,"Governance, development and funding"
+STN,s2_m&a,18,13.0,Mitigation and adaptation
+STN,s3_c&a,7,5.0,Commitment and intergration
+STN,s4_coms,9,5.0,"Community, engagement and communications"
+STN,s5_mset,5,2.0,Measuring and setting emissions targets
+STN,s6_cb,4,4.0,Co-benefits
+STN,s7_dsi,5,0.0,Diversity and inclusion
+STN,s8_est,5,1.0,"Education, skills and training"
+STN,s9_ee,4,3.0,Ecological emergency
+STO,s1_gov,21,15.0,"Governance, development and funding"
+STO,s2_m&a,18,15.0,Mitigation and adaptation
+STO,s3_c&a,7,7.0,Commitment and intergration
+STO,s4_coms,9,9.0,"Community, engagement and communications"
+STO,s5_mset,5,4.0,Measuring and setting emissions targets
+STO,s6_cb,4,3.0,Co-benefits
+STO,s7_dsi,5,1.0,Diversity and inclusion
+STO,s8_est,5,3.0,"Education, skills and training"
+STO,s9_ee,4,3.0,Ecological emergency
+STR,s1_gov,21,12.0,"Governance, development and funding"
+STR,s2_m&a,18,6.0,Mitigation and adaptation
+STR,s3_c&a,7,3.0,Commitment and intergration
+STR,s4_coms,9,1.0,"Community, engagement and communications"
+STR,s5_mset,5,3.0,Measuring and setting emissions targets
+STR,s6_cb,4,1.0,Co-benefits
+STR,s7_dsi,5,0.0,Diversity and inclusion
+STR,s8_est,5,1.0,"Education, skills and training"
+STR,s9_ee,4,2.0,Ecological emergency
+STS,s1_gov,21,6.0,"Governance, development and funding"
+STS,s2_m&a,18,0.0,Mitigation and adaptation
+STS,s3_c&a,5,1.0,Commitment and intergration
+STS,s4_coms,9,4.0,"Community, engagement and communications"
+STS,s5_mset,5,1.0,Measuring and setting emissions targets
+STS,s6_cb,4,1.0,Co-benefits
+STS,s7_dsi,5,0.0,Diversity and inclusion
+STS,s8_est,5,3.0,"Education, skills and training"
+STS,s9_ee,4,1.0,Ecological emergency
+STT,s1_gov,21,7.0,"Governance, development and funding"
+STT,s2_m&a,18,15.0,Mitigation and adaptation
+STT,s3_c&a,7,3.0,Commitment and intergration
+STT,s4_coms,9,5.0,"Community, engagement and communications"
+STT,s5_mset,5,3.0,Measuring and setting emissions targets
+STT,s6_cb,4,2.0,Co-benefits
+STT,s7_dsi,5,0.0,Diversity and inclusion
+STT,s8_est,5,1.0,"Education, skills and training"
+STT,s9_ee,4,0.0,Ecological emergency
+STV,s1_gov,21,6.0,"Governance, development and funding"
+STV,s2_m&a,18,7.0,Mitigation and adaptation
+STV,s3_c&a,7,2.0,Commitment and intergration
+STV,s4_coms,9,4.0,"Community, engagement and communications"
+STV,s5_mset,5,2.0,Measuring and setting emissions targets
+STV,s6_cb,4,0.0,Co-benefits
+STV,s7_dsi,5,0.0,Diversity and inclusion
+STV,s8_est,5,4.0,"Education, skills and training"
+STV,s9_ee,4,3.0,Ecological emergency
+STY,s1_gov,21,9.0,"Governance, development and funding"
+STY,s2_m&a,18,6.0,Mitigation and adaptation
+STY,s3_c&a,7,6.0,Commitment and intergration
+STY,s4_coms,9,7.0,"Community, engagement and communications"
+STY,s5_mset,5,2.0,Measuring and setting emissions targets
+STY,s6_cb,4,1.0,Co-benefits
+STY,s7_dsi,5,0.0,Diversity and inclusion
+STY,s8_est,5,2.0,"Education, skills and training"
+STY,s9_ee,4,3.0,Ecological emergency
+SUR,s1_gov,21,12.0,"Governance, development and funding"
+SUR,s2_m&a,18,17.0,Mitigation and adaptation
+SUR,s3_c&a,7,6.0,Commitment and intergration
+SUR,s4_coms,9,6.0,"Community, engagement and communications"
+SUR,s5_mset,5,3.0,Measuring and setting emissions targets
+SUR,s6_cb,4,2.0,Co-benefits
+SUR,s7_dsi,5,0.0,Diversity and inclusion
+SUR,s8_est,5,3.0,"Education, skills and training"
+SUR,s9_ee,4,2.0,Ecological emergency
+SWA,s1_gov,21,3.0,"Governance, development and funding"
+SWA,s2_m&a,18,4.0,Mitigation and adaptation
+SWA,s3_c&a,7,3.0,Commitment and intergration
+SWA,s4_coms,9,2.0,"Community, engagement and communications"
+SWA,s5_mset,5,0.0,Measuring and setting emissions targets
+SWA,s6_cb,4,0.0,Co-benefits
+SWA,s7_dsi,5,0.0,Diversity and inclusion
+SWA,s8_est,5,0.0,"Education, skills and training"
+SWA,s9_ee,4,3.0,Ecological emergency
+SWD,s1_gov,21,13.0,"Governance, development and funding"
+SWD,s2_m&a,18,10.0,Mitigation and adaptation
+SWD,s3_c&a,7,6.0,Commitment and intergration
+SWD,s4_coms,9,8.0,"Community, engagement and communications"
+SWD,s5_mset,5,5.0,Measuring and setting emissions targets
+SWD,s6_cb,4,0.0,Co-benefits
+SWD,s7_dsi,5,0.0,Diversity and inclusion
+SWD,s8_est,5,3.0,"Education, skills and training"
+SWD,s9_ee,4,0.0,Ecological emergency
+SWK,s1_gov,21,16.0,"Governance, development and funding"
+SWK,s2_m&a,18,17.0,Mitigation and adaptation
+SWK,s3_c&a,7,4.0,Commitment and intergration
+SWK,s4_coms,9,8.0,"Community, engagement and communications"
+SWK,s5_mset,5,5.0,Measuring and setting emissions targets
+SWK,s6_cb,4,3.0,Co-benefits
+SWK,s7_dsi,5,3.0,Diversity and inclusion
+SWK,s8_est,5,4.0,"Education, skills and training"
+SWK,s9_ee,4,3.0,Ecological emergency
+SWL,s1_gov,21,13.0,"Governance, development and funding"
+SWL,s2_m&a,18,13.0,Mitigation and adaptation
+SWL,s3_c&a,7,6.0,Commitment and intergration
+SWL,s4_coms,9,6.0,"Community, engagement and communications"
+SWL,s5_mset,5,4.0,Measuring and setting emissions targets
+SWL,s6_cb,4,4.0,Co-benefits
+SWL,s7_dsi,5,2.0,Diversity and inclusion
+SWL,s8_est,5,0.0,"Education, skills and training"
+SWL,s9_ee,4,3.0,Ecological emergency
+SWT,s1_gov,21,17.0,"Governance, development and funding"
+SWT,s2_m&a,18,18.0,Mitigation and adaptation
+SWT,s3_c&a,7,7.0,Commitment and intergration
+SWT,s4_coms,9,8.0,"Community, engagement and communications"
+SWT,s5_mset,5,5.0,Measuring and setting emissions targets
+SWT,s6_cb,4,4.0,Co-benefits
+SWT,s7_dsi,5,3.0,Diversity and inclusion
+SWT,s8_est,5,5.0,"Education, skills and training"
+SWT,s9_ee,4,4.0,Ecological emergency
+TAM,s1_gov,21,0.0,"Governance, development and funding"
+TAM,s2_m&a,18,0.0,Mitigation and adaptation
+TAM,s3_c&a,7,0.0,Commitment and intergration
+TAM,s4_coms,9,0.0,"Community, engagement and communications"
+TAM,s5_mset,5,0.0,Measuring and setting emissions targets
+TAM,s6_cb,4,0.0,Co-benefits
+TAM,s7_dsi,5,0.0,Diversity and inclusion
+TAM,s8_est,5,0.0,"Education, skills and training"
+TAM,s9_ee,4,0.0,Ecological emergency
+TAN,s1_gov,21,4.0,"Governance, development and funding"
+TAN,s2_m&a,18,17.0,Mitigation and adaptation
+TAN,s3_c&a,7,5.0,Commitment and intergration
+TAN,s4_coms,9,2.0,"Community, engagement and communications"
+TAN,s5_mset,5,2.0,Measuring and setting emissions targets
+TAN,s6_cb,4,2.0,Co-benefits
+TAN,s7_dsi,5,0.0,Diversity and inclusion
+TAN,s8_est,5,3.0,"Education, skills and training"
+TAN,s9_ee,4,1.0,Ecological emergency
+TAW,s1_gov,21,0.0,"Governance, development and funding"
+TAW,s2_m&a,18,0.0,Mitigation and adaptation
+TAW,s3_c&a,7,0.0,Commitment and intergration
+TAW,s4_coms,9,0.0,"Community, engagement and communications"
+TAW,s5_mset,5,0.0,Measuring and setting emissions targets
+TAW,s6_cb,4,0.0,Co-benefits
+TAW,s7_dsi,5,0.0,Diversity and inclusion
+TAW,s8_est,5,0.0,"Education, skills and training"
+TAW,s9_ee,4,0.0,Ecological emergency
+TEI,s1_gov,21,8.0,"Governance, development and funding"
+TEI,s2_m&a,18,9.0,Mitigation and adaptation
+TEI,s3_c&a,7,3.0,Commitment and intergration
+TEI,s4_coms,9,5.0,"Community, engagement and communications"
+TEI,s5_mset,5,2.0,Measuring and setting emissions targets
+TEI,s6_cb,4,2.0,Co-benefits
+TEI,s7_dsi,5,0.0,Diversity and inclusion
+TEI,s8_est,5,2.0,"Education, skills and training"
+TEI,s9_ee,4,3.0,Ecological emergency
+TEN,s1_gov,21,7.0,"Governance, development and funding"
+TEN,s2_m&a,18,0.0,Mitigation and adaptation
+TEN,s3_c&a,7,1.0,Commitment and intergration
+TEN,s4_coms,9,3.0,"Community, engagement and communications"
+TEN,s5_mset,5,1.0,Measuring and setting emissions targets
+TEN,s6_cb,4,0.0,Co-benefits
+TEN,s7_dsi,5,0.0,Diversity and inclusion
+TEN,s8_est,5,1.0,"Education, skills and training"
+TEN,s9_ee,4,0.0,Ecological emergency
+TES,s1_gov,21,7.0,"Governance, development and funding"
+TES,s2_m&a,18,1.0,Mitigation and adaptation
+TES,s3_c&a,7,2.0,Commitment and intergration
+TES,s4_coms,9,4.0,"Community, engagement and communications"
+TES,s5_mset,5,2.0,Measuring and setting emissions targets
+TES,s6_cb,4,1.0,Co-benefits
+TES,s7_dsi,5,0.0,Diversity and inclusion
+TES,s8_est,5,0.0,"Education, skills and training"
+TES,s9_ee,4,0.0,Ecological emergency
+TEW,s1_gov,21,3.0,"Governance, development and funding"
+TEW,s2_m&a,18,0.0,Mitigation and adaptation
+TEW,s3_c&a,7,2.0,Commitment and intergration
+TEW,s4_coms,9,0.0,"Community, engagement and communications"
+TEW,s5_mset,5,2.0,Measuring and setting emissions targets
+TEW,s6_cb,4,0.0,Co-benefits
+TEW,s7_dsi,5,0.0,Diversity and inclusion
+TEW,s8_est,5,0.0,"Education, skills and training"
+TEW,s9_ee,4,0.0,Ecological emergency
+TFW,s1_gov,21,16.0,"Governance, development and funding"
+TFW,s2_m&a,18,14.0,Mitigation and adaptation
+TFW,s3_c&a,7,7.0,Commitment and intergration
+TFW,s4_coms,9,6.0,"Community, engagement and communications"
+TFW,s5_mset,5,5.0,Measuring and setting emissions targets
+TFW,s6_cb,4,1.0,Co-benefits
+TFW,s7_dsi,5,2.0,Diversity and inclusion
+TFW,s8_est,5,5.0,"Education, skills and training"
+TFW,s9_ee,4,4.0,Ecological emergency
+THA,s1_gov,21,10.0,"Governance, development and funding"
+THA,s2_m&a,18,12.0,Mitigation and adaptation
+THA,s3_c&a,7,5.0,Commitment and intergration
+THA,s4_coms,9,7.0,"Community, engagement and communications"
+THA,s5_mset,5,1.0,Measuring and setting emissions targets
+THA,s6_cb,4,4.0,Co-benefits
+THA,s7_dsi,5,1.0,Diversity and inclusion
+THA,s8_est,5,3.0,"Education, skills and training"
+THA,s9_ee,4,3.0,Ecological emergency
+THE,s1_gov,21,6.0,"Governance, development and funding"
+THE,s2_m&a,18,14.0,Mitigation and adaptation
+THE,s3_c&a,7,3.0,Commitment and intergration
+THE,s4_coms,9,8.0,"Community, engagement and communications"
+THE,s5_mset,5,5.0,Measuring and setting emissions targets
+THE,s6_cb,4,3.0,Co-benefits
+THE,s7_dsi,5,1.0,Diversity and inclusion
+THE,s8_est,5,0.0,"Education, skills and training"
+THE,s9_ee,4,3.0,Ecological emergency
+THR,s1_gov,21,0.0,"Governance, development and funding"
+THR,s2_m&a,18,0.0,Mitigation and adaptation
+THR,s3_c&a,7,0.0,Commitment and intergration
+THR,s4_coms,9,0.0,"Community, engagement and communications"
+THR,s5_mset,5,0.0,Measuring and setting emissions targets
+THR,s6_cb,4,0.0,Co-benefits
+THR,s7_dsi,5,0.0,Diversity and inclusion
+THR,s8_est,5,0.0,"Education, skills and training"
+THR,s9_ee,4,0.0,Ecological emergency
+TOB,s1_gov,21,6.0,"Governance, development and funding"
+TOB,s2_m&a,18,11.0,Mitigation and adaptation
+TOB,s3_c&a,7,4.0,Commitment and intergration
+TOB,s4_coms,9,4.0,"Community, engagement and communications"
+TOB,s5_mset,5,1.0,Measuring and setting emissions targets
+TOB,s6_cb,4,2.0,Co-benefits
+TOB,s7_dsi,5,0.0,Diversity and inclusion
+TOB,s8_est,5,2.0,"Education, skills and training"
+TOB,s9_ee,4,3.0,Ecological emergency
+TOF,s1_gov,21,0.0,"Governance, development and funding"
+TOF,s2_m&a,18,0.0,Mitigation and adaptation
+TOF,s3_c&a,7,0.0,Commitment and intergration
+TOF,s4_coms,9,0.0,"Community, engagement and communications"
+TOF,s5_mset,5,0.0,Measuring and setting emissions targets
+TOF,s6_cb,4,0.0,Co-benefits
+TOF,s7_dsi,5,0.0,Diversity and inclusion
+TOF,s8_est,5,0.0,"Education, skills and training"
+TOF,s9_ee,4,0.0,Ecological emergency
+TON,s1_gov,21,13.0,"Governance, development and funding"
+TON,s2_m&a,18,13.0,Mitigation and adaptation
+TON,s3_c&a,7,6.0,Commitment and intergration
+TON,s4_coms,9,7.0,"Community, engagement and communications"
+TON,s5_mset,5,4.0,Measuring and setting emissions targets
+TON,s6_cb,4,4.0,Co-benefits
+TON,s7_dsi,5,1.0,Diversity and inclusion
+TON,s8_est,5,1.0,"Education, skills and training"
+TON,s9_ee,4,2.0,Ecological emergency
+TOR,s1_gov,21,13.0,"Governance, development and funding"
+TOR,s2_m&a,18,10.0,Mitigation and adaptation
+TOR,s3_c&a,7,6.0,Commitment and intergration
+TOR,s4_coms,9,8.0,"Community, engagement and communications"
+TOR,s5_mset,5,4.0,Measuring and setting emissions targets
+TOR,s6_cb,4,2.0,Co-benefits
+TOR,s7_dsi,5,0.0,Diversity and inclusion
+TOR,s8_est,5,2.0,"Education, skills and training"
+TOR,s9_ee,4,3.0,Ecological emergency
+TRF,s1_gov,21,13.0,"Governance, development and funding"
+TRF,s2_m&a,18,11.0,Mitigation and adaptation
+TRF,s3_c&a,7,6.0,Commitment and intergration
+TRF,s4_coms,9,6.0,"Community, engagement and communications"
+TRF,s5_mset,5,4.0,Measuring and setting emissions targets
+TRF,s6_cb,4,0.0,Co-benefits
+TRF,s7_dsi,5,1.0,Diversity and inclusion
+TRF,s8_est,5,5.0,"Education, skills and training"
+TRF,s9_ee,4,2.0,Ecological emergency
+TUN,s1_gov,21,10.0,"Governance, development and funding"
+TUN,s2_m&a,18,10.0,Mitigation and adaptation
+TUN,s3_c&a,7,4.0,Commitment and intergration
+TUN,s4_coms,9,5.0,"Community, engagement and communications"
+TUN,s5_mset,5,3.0,Measuring and setting emissions targets
+TUN,s6_cb,4,4.0,Co-benefits
+TUN,s7_dsi,5,1.0,Diversity and inclusion
+TUN,s8_est,5,1.0,"Education, skills and training"
+TUN,s9_ee,4,2.0,Ecological emergency
+TVCA,s1_gov,21,0.0,"Governance, development and funding"
+TVCA,s2_m&a,18,0.0,Mitigation and adaptation
+TVCA,s3_c&a,5,0.0,Commitment and intergration
+TVCA,s4_coms,9,0.0,"Community, engagement and communications"
+TVCA,s5_mset,5,0.0,Measuring and setting emissions targets
+TVCA,s6_cb,4,0.0,Co-benefits
+TVCA,s7_dsi,5,0.0,Diversity and inclusion
+TVCA,s8_est,5,0.0,"Education, skills and training"
+TVCA,s9_ee,4,0.0,Ecological emergency
+TWH,s1_gov,21,11.0,"Governance, development and funding"
+TWH,s2_m&a,18,4.0,Mitigation and adaptation
+TWH,s3_c&a,7,3.0,Commitment and intergration
+TWH,s4_coms,9,3.0,"Community, engagement and communications"
+TWH,s5_mset,5,2.0,Measuring and setting emissions targets
+TWH,s6_cb,4,3.0,Co-benefits
+TWH,s7_dsi,5,0.0,Diversity and inclusion
+TWH,s8_est,5,0.0,"Education, skills and training"
+TWH,s9_ee,4,3.0,Ecological emergency
+UTT,s1_gov,21,8.0,"Governance, development and funding"
+UTT,s2_m&a,18,10.0,Mitigation and adaptation
+UTT,s3_c&a,7,3.0,Commitment and intergration
+UTT,s4_coms,9,6.0,"Community, engagement and communications"
+UTT,s5_mset,5,3.0,Measuring and setting emissions targets
+UTT,s6_cb,4,2.0,Co-benefits
+UTT,s7_dsi,5,0.0,Diversity and inclusion
+UTT,s8_est,5,1.0,"Education, skills and training"
+UTT,s9_ee,4,3.0,Ecological emergency
+VAL,s1_gov,21,0.0,"Governance, development and funding"
+VAL,s2_m&a,18,0.0,Mitigation and adaptation
+VAL,s3_c&a,7,0.0,Commitment and intergration
+VAL,s4_coms,9,0.0,"Community, engagement and communications"
+VAL,s5_mset,5,0.0,Measuring and setting emissions targets
+VAL,s6_cb,4,0.0,Co-benefits
+VAL,s7_dsi,5,0.0,Diversity and inclusion
+VAL,s8_est,5,0.0,"Education, skills and training"
+VAL,s9_ee,4,0.0,Ecological emergency
+VGL,s1_gov,21,10.0,"Governance, development and funding"
+VGL,s2_m&a,18,14.0,Mitigation and adaptation
+VGL,s3_c&a,7,4.0,Commitment and intergration
+VGL,s4_coms,9,4.0,"Community, engagement and communications"
+VGL,s5_mset,5,2.0,Measuring and setting emissions targets
+VGL,s6_cb,4,2.0,Co-benefits
+VGL,s7_dsi,5,0.0,Diversity and inclusion
+VGL,s8_est,5,1.0,"Education, skills and training"
+VGL,s9_ee,4,2.0,Ecological emergency
+WAE,s1_gov,21,18.0,"Governance, development and funding"
+WAE,s2_m&a,18,17.0,Mitigation and adaptation
+WAE,s3_c&a,7,6.0,Commitment and intergration
+WAE,s4_coms,9,8.0,"Community, engagement and communications"
+WAE,s5_mset,5,4.0,Measuring and setting emissions targets
+WAE,s6_cb,4,4.0,Co-benefits
+WAE,s7_dsi,5,0.0,Diversity and inclusion
+WAE,s8_est,5,3.0,"Education, skills and training"
+WAE,s9_ee,4,3.0,Ecological emergency
+WAR,s1_gov,21,7.0,"Governance, development and funding"
+WAR,s2_m&a,18,1.0,Mitigation and adaptation
+WAR,s3_c&a,5,2.0,Commitment and intergration
+WAR,s4_coms,9,6.0,"Community, engagement and communications"
+WAR,s5_mset,5,1.0,Measuring and setting emissions targets
+WAR,s6_cb,4,0.0,Co-benefits
+WAR,s7_dsi,5,0.0,Diversity and inclusion
+WAR,s8_est,5,0.0,"Education, skills and training"
+WAR,s9_ee,4,1.0,Ecological emergency
+WAT,s1_gov,21,10.0,"Governance, development and funding"
+WAT,s2_m&a,18,6.0,Mitigation and adaptation
+WAT,s3_c&a,7,2.0,Commitment and intergration
+WAT,s4_coms,9,5.0,"Community, engagement and communications"
+WAT,s5_mset,5,3.0,Measuring and setting emissions targets
+WAT,s6_cb,4,2.0,Co-benefits
+WAT,s7_dsi,5,0.0,Diversity and inclusion
+WAT,s8_est,5,0.0,"Education, skills and training"
+WAT,s9_ee,4,3.0,Ecological emergency
+WAW,s1_gov,21,19.0,"Governance, development and funding"
+WAW,s2_m&a,18,10.0,Mitigation and adaptation
+WAW,s3_c&a,7,3.0,Commitment and intergration
+WAW,s4_coms,9,6.0,"Community, engagement and communications"
+WAW,s5_mset,5,4.0,Measuring and setting emissions targets
+WAW,s6_cb,4,2.0,Co-benefits
+WAW,s7_dsi,5,0.0,Diversity and inclusion
+WAW,s8_est,5,0.0,"Education, skills and training"
+WAW,s9_ee,4,3.0,Ecological emergency
+WBK,s1_gov,21,13.0,"Governance, development and funding"
+WBK,s2_m&a,18,12.0,Mitigation and adaptation
+WBK,s3_c&a,7,4.0,Commitment and intergration
+WBK,s4_coms,9,7.0,"Community, engagement and communications"
+WBK,s5_mset,5,3.0,Measuring and setting emissions targets
+WBK,s6_cb,4,3.0,Co-benefits
+WBK,s7_dsi,5,0.0,Diversity and inclusion
+WBK,s8_est,5,4.0,"Education, skills and training"
+WBK,s9_ee,4,3.0,Ecological emergency
+WDE,s1_gov,21,16.0,"Governance, development and funding"
+WDE,s2_m&a,18,11.0,Mitigation and adaptation
+WDE,s3_c&a,7,6.0,Commitment and intergration
+WDE,s4_coms,9,8.0,"Community, engagement and communications"
+WDE,s5_mset,5,4.0,Measuring and setting emissions targets
+WDE,s6_cb,4,4.0,Co-benefits
+WDE,s7_dsi,5,2.0,Diversity and inclusion
+WDE,s8_est,5,2.0,"Education, skills and training"
+WDE,s9_ee,4,3.0,Ecological emergency
+WDU,s1_gov,21,11.0,"Governance, development and funding"
+WDU,s2_m&a,18,10.0,Mitigation and adaptation
+WDU,s3_c&a,7,7.0,Commitment and intergration
+WDU,s4_coms,9,7.0,"Community, engagement and communications"
+WDU,s5_mset,5,2.0,Measuring and setting emissions targets
+WDU,s6_cb,4,0.0,Co-benefits
+WDU,s7_dsi,5,0.0,Diversity and inclusion
+WDU,s8_est,5,3.0,"Education, skills and training"
+WDU,s9_ee,4,2.0,Ecological emergency
+WEA,s1_gov,21,8.0,"Governance, development and funding"
+WEA,s2_m&a,18,2.0,Mitigation and adaptation
+WEA,s3_c&a,7,3.0,Commitment and intergration
+WEA,s4_coms,9,5.0,"Community, engagement and communications"
+WEA,s5_mset,5,4.0,Measuring and setting emissions targets
+WEA,s6_cb,4,0.0,Co-benefits
+WEA,s7_dsi,5,0.0,Diversity and inclusion
+WEA,s8_est,5,0.0,"Education, skills and training"
+WEA,s9_ee,4,0.0,Ecological emergency
+WECA,s1_gov,21,10.0,"Governance, development and funding"
+WECA,s2_m&a,18,7.0,Mitigation and adaptation
+WECA,s3_c&a,5,2.0,Commitment and intergration
+WECA,s4_coms,9,3.0,"Community, engagement and communications"
+WECA,s5_mset,5,1.0,Measuring and setting emissions targets
+WECA,s6_cb,4,2.0,Co-benefits
+WECA,s7_dsi,5,0.0,Diversity and inclusion
+WECA,s8_est,5,0.0,"Education, skills and training"
+WECA,s9_ee,4,2.0,Ecological emergency
+WEW,s1_gov,21,9.0,"Governance, development and funding"
+WEW,s2_m&a,18,3.0,Mitigation and adaptation
+WEW,s3_c&a,7,2.0,Commitment and intergration
+WEW,s4_coms,9,2.0,"Community, engagement and communications"
+WEW,s5_mset,5,3.0,Measuring and setting emissions targets
+WEW,s6_cb,4,1.0,Co-benefits
+WEW,s7_dsi,5,0.0,Diversity and inclusion
+WEW,s8_est,5,1.0,"Education, skills and training"
+WEW,s9_ee,4,1.0,Ecological emergency
+WFT,s1_gov,21,0.0,"Governance, development and funding"
+WFT,s2_m&a,18,0.0,Mitigation and adaptation
+WFT,s3_c&a,7,0.0,Commitment and intergration
+WFT,s4_coms,9,0.0,"Community, engagement and communications"
+WFT,s5_mset,5,0.0,Measuring and setting emissions targets
+WFT,s6_cb,4,0.0,Co-benefits
+WFT,s7_dsi,5,0.0,Diversity and inclusion
+WFT,s8_est,5,0.0,"Education, skills and training"
+WFT,s9_ee,4,0.0,Ecological emergency
+WGN,s1_gov,21,10.0,"Governance, development and funding"
+WGN,s2_m&a,18,8.0,Mitigation and adaptation
+WGN,s3_c&a,7,4.0,Commitment and intergration
+WGN,s4_coms,9,5.0,"Community, engagement and communications"
+WGN,s5_mset,5,4.0,Measuring and setting emissions targets
+WGN,s6_cb,4,4.0,Co-benefits
+WGN,s7_dsi,5,1.0,Diversity and inclusion
+WGN,s8_est,5,2.0,"Education, skills and training"
+WGN,s9_ee,4,2.0,Ecological emergency
+WIL,s1_gov,21,13.0,"Governance, development and funding"
+WIL,s2_m&a,18,17.0,Mitigation and adaptation
+WIL,s3_c&a,7,5.0,Commitment and intergration
+WIL,s4_coms,9,9.0,"Community, engagement and communications"
+WIL,s5_mset,5,4.0,Measuring and setting emissions targets
+WIL,s6_cb,4,4.0,Co-benefits
+WIL,s7_dsi,5,4.0,Diversity and inclusion
+WIL,s8_est,5,3.0,"Education, skills and training"
+WIL,s9_ee,4,4.0,Ecological emergency
+WIN,s1_gov,21,15.0,"Governance, development and funding"
+WIN,s2_m&a,18,4.0,Mitigation and adaptation
+WIN,s3_c&a,7,5.0,Commitment and intergration
+WIN,s4_coms,9,8.0,"Community, engagement and communications"
+WIN,s5_mset,5,3.0,Measuring and setting emissions targets
+WIN,s6_cb,4,1.0,Co-benefits
+WIN,s7_dsi,5,0.0,Diversity and inclusion
+WIN,s8_est,5,0.0,"Education, skills and training"
+WIN,s9_ee,4,3.0,Ecological emergency
+WKF,s1_gov,21,15.0,"Governance, development and funding"
+WKF,s2_m&a,18,7.0,Mitigation and adaptation
+WKF,s3_c&a,7,7.0,Commitment and intergration
+WKF,s4_coms,9,6.0,"Community, engagement and communications"
+WKF,s5_mset,5,2.0,Measuring and setting emissions targets
+WKF,s6_cb,4,3.0,Co-benefits
+WKF,s7_dsi,5,1.0,Diversity and inclusion
+WKF,s8_est,5,1.0,"Education, skills and training"
+WKF,s9_ee,4,4.0,Ecological emergency
+WLA,s1_gov,21,13.0,"Governance, development and funding"
+WLA,s2_m&a,18,9.0,Mitigation and adaptation
+WLA,s3_c&a,7,6.0,Commitment and intergration
+WLA,s4_coms,9,5.0,"Community, engagement and communications"
+WLA,s5_mset,5,5.0,Measuring and setting emissions targets
+WLA,s6_cb,4,2.0,Co-benefits
+WLA,s7_dsi,5,0.0,Diversity and inclusion
+WLA,s8_est,5,1.0,"Education, skills and training"
+WLA,s9_ee,4,1.0,Ecological emergency
+WLI,s1_gov,21,14.0,"Governance, development and funding"
+WLI,s2_m&a,18,12.0,Mitigation and adaptation
+WLI,s3_c&a,7,3.0,Commitment and intergration
+WLI,s4_coms,9,7.0,"Community, engagement and communications"
+WLI,s5_mset,5,3.0,Measuring and setting emissions targets
+WLI,s6_cb,4,3.0,Co-benefits
+WLI,s7_dsi,5,0.0,Diversity and inclusion
+WLI,s8_est,5,2.0,"Education, skills and training"
+WLI,s9_ee,4,2.0,Ecological emergency
+WLL,s1_gov,21,10.0,"Governance, development and funding"
+WLL,s2_m&a,18,13.0,Mitigation and adaptation
+WLL,s3_c&a,7,5.0,Commitment and intergration
+WLL,s4_coms,9,4.0,"Community, engagement and communications"
+WLL,s5_mset,5,2.0,Measuring and setting emissions targets
+WLL,s6_cb,4,2.0,Co-benefits
+WLL,s7_dsi,5,1.0,Diversity and inclusion
+WLL,s8_est,5,3.0,"Education, skills and training"
+WLL,s9_ee,4,1.0,Ecological emergency
+WLN,s1_gov,21,5.0,"Governance, development and funding"
+WLN,s2_m&a,18,10.0,Mitigation and adaptation
+WLN,s3_c&a,7,4.0,Commitment and intergration
+WLN,s4_coms,9,4.0,"Community, engagement and communications"
+WLN,s5_mset,5,2.0,Measuring and setting emissions targets
+WLN,s6_cb,4,3.0,Co-benefits
+WLN,s7_dsi,5,1.0,Diversity and inclusion
+WLN,s8_est,5,2.0,"Education, skills and training"
+WLN,s9_ee,4,2.0,Ecological emergency
+WLV,s1_gov,21,4.0,"Governance, development and funding"
+WLV,s2_m&a,18,2.0,Mitigation and adaptation
+WLV,s3_c&a,7,1.0,Commitment and intergration
+WLV,s4_coms,9,5.0,"Community, engagement and communications"
+WLV,s5_mset,5,3.0,Measuring and setting emissions targets
+WLV,s6_cb,4,0.0,Co-benefits
+WLV,s7_dsi,5,0.0,Diversity and inclusion
+WLV,s8_est,5,0.0,"Education, skills and training"
+WLV,s9_ee,4,2.0,Ecological emergency
+WMCA,s1_gov,21,18.0,"Governance, development and funding"
+WMCA,s2_m&a,18,17.0,Mitigation and adaptation
+WMCA,s3_c&a,5,5.0,Commitment and intergration
+WMCA,s4_coms,9,8.0,"Community, engagement and communications"
+WMCA,s5_mset,5,4.0,Measuring and setting emissions targets
+WMCA,s6_cb,4,4.0,Co-benefits
+WMCA,s7_dsi,5,4.0,Diversity and inclusion
+WMCA,s8_est,5,4.0,"Education, skills and training"
+WMCA,s9_ee,4,4.0,Ecological emergency
+WND,s1_gov,21,10.0,"Governance, development and funding"
+WND,s2_m&a,18,11.0,Mitigation and adaptation
+WND,s3_c&a,7,6.0,Commitment and intergration
+WND,s4_coms,9,7.0,"Community, engagement and communications"
+WND,s5_mset,5,2.0,Measuring and setting emissions targets
+WND,s6_cb,4,2.0,Co-benefits
+WND,s7_dsi,5,0.0,Diversity and inclusion
+WND,s8_est,5,4.0,"Education, skills and training"
+WND,s9_ee,4,3.0,Ecological emergency
+WNM,s1_gov,21,12.0,"Governance, development and funding"
+WNM,s2_m&a,18,6.0,Mitigation and adaptation
+WNM,s3_c&a,7,4.0,Commitment and intergration
+WNM,s4_coms,9,8.0,"Community, engagement and communications"
+WNM,s5_mset,5,2.0,Measuring and setting emissions targets
+WNM,s6_cb,4,2.0,Co-benefits
+WNM,s7_dsi,5,0.0,Diversity and inclusion
+WNM,s8_est,5,1.0,"Education, skills and training"
+WNM,s9_ee,4,3.0,Ecological emergency
+WNT,s1_gov,21,3.0,"Governance, development and funding"
+WNT,s2_m&a,18,4.0,Mitigation and adaptation
+WNT,s3_c&a,7,3.0,Commitment and intergration
+WNT,s4_coms,9,4.0,"Community, engagement and communications"
+WNT,s5_mset,5,3.0,Measuring and setting emissions targets
+WNT,s6_cb,4,1.0,Co-benefits
+WNT,s7_dsi,5,1.0,Diversity and inclusion
+WNT,s8_est,5,2.0,"Education, skills and training"
+WNT,s9_ee,4,2.0,Ecological emergency
+WOC,s1_gov,21,10.0,"Governance, development and funding"
+WOC,s2_m&a,18,11.0,Mitigation and adaptation
+WOC,s3_c&a,7,3.0,Commitment and intergration
+WOC,s4_coms,9,6.0,"Community, engagement and communications"
+WOC,s5_mset,5,3.0,Measuring and setting emissions targets
+WOC,s6_cb,4,1.0,Co-benefits
+WOC,s7_dsi,5,0.0,Diversity and inclusion
+WOC,s8_est,5,3.0,"Education, skills and training"
+WOC,s9_ee,4,1.0,Ecological emergency
+WOI,s1_gov,21,11.0,"Governance, development and funding"
+WOI,s2_m&a,18,17.0,Mitigation and adaptation
+WOI,s3_c&a,7,6.0,Commitment and intergration
+WOI,s4_coms,9,7.0,"Community, engagement and communications"
+WOI,s5_mset,5,5.0,Measuring and setting emissions targets
+WOI,s6_cb,4,3.0,Co-benefits
+WOI,s7_dsi,5,0.0,Diversity and inclusion
+WOI,s8_est,5,3.0,"Education, skills and training"
+WOI,s9_ee,4,3.0,Ecological emergency
+WOK,s1_gov,21,20.0,"Governance, development and funding"
+WOK,s2_m&a,18,6.0,Mitigation and adaptation
+WOK,s3_c&a,7,5.0,Commitment and intergration
+WOK,s4_coms,9,8.0,"Community, engagement and communications"
+WOK,s5_mset,5,4.0,Measuring and setting emissions targets
+WOK,s6_cb,4,4.0,Co-benefits
+WOK,s7_dsi,5,2.0,Diversity and inclusion
+WOK,s8_est,5,3.0,"Education, skills and training"
+WOK,s9_ee,4,3.0,Ecological emergency
+WOR,s1_gov,21,8.0,"Governance, development and funding"
+WOR,s2_m&a,18,8.0,Mitigation and adaptation
+WOR,s3_c&a,5,2.0,Commitment and intergration
+WOR,s4_coms,9,3.0,"Community, engagement and communications"
+WOR,s5_mset,5,4.0,Measuring and setting emissions targets
+WOR,s6_cb,4,2.0,Co-benefits
+WOR,s7_dsi,5,1.0,Diversity and inclusion
+WOR,s8_est,5,1.0,"Education, skills and training"
+WOR,s9_ee,4,2.0,Ecological emergency
+WOT,s1_gov,21,13.0,"Governance, development and funding"
+WOT,s2_m&a,18,12.0,Mitigation and adaptation
+WOT,s3_c&a,7,2.0,Commitment and intergration
+WOT,s4_coms,9,5.0,"Community, engagement and communications"
+WOT,s5_mset,5,3.0,Measuring and setting emissions targets
+WOT,s6_cb,4,3.0,Co-benefits
+WOT,s7_dsi,5,2.0,Diversity and inclusion
+WOT,s8_est,5,3.0,"Education, skills and training"
+WOT,s9_ee,4,1.0,Ecological emergency
+WOX,s1_gov,21,10.0,"Governance, development and funding"
+WOX,s2_m&a,18,8.0,Mitigation and adaptation
+WOX,s3_c&a,7,3.0,Commitment and intergration
+WOX,s4_coms,9,9.0,"Community, engagement and communications"
+WOX,s5_mset,5,4.0,Measuring and setting emissions targets
+WOX,s6_cb,4,2.0,Co-benefits
+WOX,s7_dsi,5,0.0,Diversity and inclusion
+WOX,s8_est,5,1.0,"Education, skills and training"
+WOX,s9_ee,4,2.0,Ecological emergency
+WRL,s1_gov,21,12.0,"Governance, development and funding"
+WRL,s2_m&a,18,11.0,Mitigation and adaptation
+WRL,s3_c&a,7,6.0,Commitment and intergration
+WRL,s4_coms,9,4.0,"Community, engagement and communications"
+WRL,s5_mset,5,3.0,Measuring and setting emissions targets
+WRL,s6_cb,4,2.0,Co-benefits
+WRL,s7_dsi,5,1.0,Diversity and inclusion
+WRL,s8_est,5,2.0,"Education, skills and training"
+WRL,s9_ee,4,1.0,Ecological emergency
+WRT,s1_gov,21,9.0,"Governance, development and funding"
+WRT,s2_m&a,18,3.0,Mitigation and adaptation
+WRT,s3_c&a,7,1.0,Commitment and intergration
+WRT,s4_coms,9,5.0,"Community, engagement and communications"
+WRT,s5_mset,5,2.0,Measuring and setting emissions targets
+WRT,s6_cb,4,1.0,Co-benefits
+WRT,s7_dsi,5,0.0,Diversity and inclusion
+WRT,s8_est,5,2.0,"Education, skills and training"
+WRT,s9_ee,4,2.0,Ecological emergency
+WRX,s1_gov,21,8.0,"Governance, development and funding"
+WRX,s2_m&a,18,3.0,Mitigation and adaptation
+WRX,s3_c&a,7,4.0,Commitment and intergration
+WRX,s4_coms,9,0.0,"Community, engagement and communications"
+WRX,s5_mset,5,2.0,Measuring and setting emissions targets
+WRX,s6_cb,4,0.0,Co-benefits
+WRX,s7_dsi,5,0.0,Diversity and inclusion
+WRX,s8_est,5,0.0,"Education, skills and training"
+WRX,s9_ee,4,1.0,Ecological emergency
+WSK,s1_gov,21,17.0,"Governance, development and funding"
+WSK,s2_m&a,18,12.0,Mitigation and adaptation
+WSK,s3_c&a,7,5.0,Commitment and intergration
+WSK,s4_coms,9,6.0,"Community, engagement and communications"
+WSK,s5_mset,5,4.0,Measuring and setting emissions targets
+WSK,s6_cb,4,3.0,Co-benefits
+WSK,s7_dsi,5,0.0,Diversity and inclusion
+WSK,s8_est,5,3.0,"Education, skills and training"
+WSK,s9_ee,4,3.0,Ecological emergency
+WSM,s1_gov,21,11.0,"Governance, development and funding"
+WSM,s2_m&a,18,10.0,Mitigation and adaptation
+WSM,s3_c&a,7,3.0,Commitment and intergration
+WSM,s4_coms,9,7.0,"Community, engagement and communications"
+WSM,s5_mset,5,3.0,Measuring and setting emissions targets
+WSM,s6_cb,4,3.0,Co-benefits
+WSM,s7_dsi,5,2.0,Diversity and inclusion
+WSM,s8_est,5,3.0,"Education, skills and training"
+WSM,s9_ee,4,2.0,Ecological emergency
+WSX,s1_gov,21,11.0,"Governance, development and funding"
+WSX,s2_m&a,18,2.0,Mitigation and adaptation
+WSX,s3_c&a,5,2.0,Commitment and intergration
+WSX,s4_coms,9,4.0,"Community, engagement and communications"
+WSX,s5_mset,5,2.0,Measuring and setting emissions targets
+WSX,s6_cb,4,1.0,Co-benefits
+WSX,s7_dsi,5,0.0,Diversity and inclusion
+WSX,s8_est,5,3.0,"Education, skills and training"
+WSX,s9_ee,4,1.0,Ecological emergency
+WYC,s1_gov,21,15.0,"Governance, development and funding"
+WYC,s2_m&a,18,5.0,Mitigation and adaptation
+WYC,s3_c&a,7,4.0,Commitment and intergration
+WYC,s4_coms,9,3.0,"Community, engagement and communications"
+WYC,s5_mset,5,4.0,Measuring and setting emissions targets
+WYC,s6_cb,4,4.0,Co-benefits
+WYC,s7_dsi,5,0.0,Diversity and inclusion
+WYC,s8_est,5,2.0,"Education, skills and training"
+WYC,s9_ee,4,3.0,Ecological emergency
+WYCA,s1_gov,21,9.0,"Governance, development and funding"
+WYCA,s2_m&a,18,5.0,Mitigation and adaptation
+WYCA,s3_c&a,5,2.0,Commitment and intergration
+WYCA,s4_coms,9,4.0,"Community, engagement and communications"
+WYCA,s5_mset,5,4.0,Measuring and setting emissions targets
+WYCA,s6_cb,4,1.0,Co-benefits
+WYCA,s7_dsi,5,0.0,Diversity and inclusion
+WYCA,s8_est,5,1.0,"Education, skills and training"
+WYCA,s9_ee,4,0.0,Ecological emergency
+WYE,s1_gov,21,3.0,"Governance, development and funding"
+WYE,s2_m&a,18,0.0,Mitigation and adaptation
+WYE,s3_c&a,7,3.0,Commitment and intergration
+WYE,s4_coms,9,3.0,"Community, engagement and communications"
+WYE,s5_mset,5,1.0,Measuring and setting emissions targets
+WYE,s6_cb,4,0.0,Co-benefits
+WYE,s7_dsi,5,0.0,Diversity and inclusion
+WYE,s8_est,5,1.0,"Education, skills and training"
+WYE,s9_ee,4,0.0,Ecological emergency
+WYR,s1_gov,21,7.0,"Governance, development and funding"
+WYR,s2_m&a,18,7.0,Mitigation and adaptation
+WYR,s3_c&a,7,4.0,Commitment and intergration
+WYR,s4_coms,9,4.0,"Community, engagement and communications"
+WYR,s5_mset,5,4.0,Measuring and setting emissions targets
+WYR,s6_cb,4,3.0,Co-benefits
+WYR,s7_dsi,5,0.0,Diversity and inclusion
+WYR,s8_est,5,3.0,"Education, skills and training"
+WYR,s9_ee,4,2.0,Ecological emergency
+YOR,s1_gov,21,0.0,"Governance, development and funding"
+YOR,s2_m&a,18,0.0,Mitigation and adaptation
+YOR,s3_c&a,7,0.0,Commitment and intergration
+YOR,s4_coms,9,0.0,"Community, engagement and communications"
+YOR,s5_mset,5,0.0,Measuring and setting emissions targets
+YOR,s6_cb,4,0.0,Co-benefits
+YOR,s7_dsi,5,0.0,Diversity and inclusion
+YOR,s8_est,5,0.0,"Education, skills and training"
+YOR,s9_ee,4,0.0,Ecological emergency
+ZET,s1_gov,21,0.0,"Governance, development and funding"
+ZET,s2_m&a,18,0.0,Mitigation and adaptation
+ZET,s3_c&a,7,0.0,Commitment and intergration
+ZET,s4_coms,9,0.0,"Community, engagement and communications"
+ZET,s5_mset,5,0.0,Measuring and setting emissions targets
+ZET,s6_cb,4,0.0,Co-benefits
+ZET,s7_dsi,5,0.0,Diversity and inclusion
+ZET,s8_est,5,0.0,"Education, skills and training"
+ZET,s9_ee,4,0.0,Ecological emergency

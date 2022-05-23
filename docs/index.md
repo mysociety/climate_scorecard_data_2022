@@ -1,7 +1,6 @@
 ---
-title: "Download template_data_repo"
+title: Climate Scorecard Data 2022
+layout: front
 ---
 
-# This is some actual content
-
-Here is some text underneath that.
+This page contains the datasets that power the [Council Climate Plan Scorecards website](https://councilclimatescorecards.uk/). 

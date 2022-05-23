@@ -1,3 +1,53 @@
-theme: jekyll-theme-slate
-title: climate_scorecard_data_2022
+title: Climate Scorecard Data 2022
+description: >
+  Data and notebooks for Council Climate Scorecard Data 2022
+baseurl: "/climate_scorecard_data_2022"
+url: "https://mysociety.github.io"
+
+
+collections:
+  datasets:
+    output: true
+    permalink: /datasets/:name/
+  downloads:
+    output: true
+    permalink: /downloads/:name/
+
+
+defaults:
+  - scope:
+      path: ""
+      type: datasets
+    values:
+      layout: dataset
+  - scope:
+      path: ""
+      type: downloads
+    values:
+      layout: download
+
+# Build settings
 description: Data behind Climate Emergency's 2022 Climate Scorecards
+
+plugins:
+  - jekyll-feed
+
+sass:
+    sass_dir: 
+    load_paths:
+        - theme/sass
+        - sass  
+
+
+# Exclude these files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .travis.yml
+  - node_modules
+  - scripts/src
+  - package.json
+  - webpack.config.js
+  - README.md
+  - LICENSE

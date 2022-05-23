@@ -1,0 +1,11 @@
+section_id,section_name,section_weight
+s1_gov,"Governance, development and funding",0.15
+s2_m&a,Mitigation and adaptation,0.15
+s3_c&a,Commitment and intergration,0.15
+s4_coms,"Community, engagement and communications",0.15
+s5_mset,Measuring and setting emissions targets,0.1
+s6_cb,Co-benefits,0.05
+s7_dsi,Diversity and inclusion,0.1
+s8_est,"Education, skills and training",0.1
+s9_ee,Ecological emergency,0.05
+total,Overall score,
