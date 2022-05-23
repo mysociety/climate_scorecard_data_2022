@@ -1,0 +1,342 @@
+question_id,Question description,Options,Scores
+s1_gov_q1,"Is the Plan led by a senior lead officer with a named individual, cabinet member or committee responsible for developing and delivering the Plan and are the actions assigned?",HEADER,0
+s1_gov_q1_sp1,The Plan is led by a senior lead officer with a cabinet member or committee responsible for development and delivery.,CHECKBOX,1
+s1_gov_q1_sp2,The individual actions in the Plan are assigned to an officer or committee to ensure they are completed on time.,CHECKBOX,1
+s1_gov_q1_sp3,"The Plan identifies the key bodies needed to deliver actions. 
+
+Must mention top 4 bullets + 1 other from the list to get the point
+
+This must include:
+• The local authority
+• The local authority in partnership 
+• Local residents
+• Anchor institutions
+
+Including but not limited to:
+• Local statutory organisations
+• VCSE/third sector
+• Local businesses
+• NGOs
+• Other councils in the area
+• Distribution Network Operators (DNOs)
+• Utility companies
+• The National Government
+• Arts organisations
+• Local Enterprise Partnerships (LEPs)
+• Community organisations
+• Transport operators
+• Council owned companies and enterprises
+• Housing association",CHECKBOX,1
+s1_gov_q2,Does the Plan include science backed net-zero targets in which the terms are defined and the scope is considered?,HEADER,
+s1_gov_q2_sp1_v2,The Plan contains yearly or interim targets for carbon reduction in the whole district up until the net-zero target date.,CHECKBOX,1
+s1_gov_q2_sp1_v2_b,The Plan states a net-zero target for the whole district,"No, A target of 2030 or earlier, A target of 2031 - 2050","0,2,1"
+s1_gov_q2_sp2,The council has a target of reaching net-zero for their own emissions by 2030.,CHECKBOX,1
+s1_gov_q2_sp3,"The terms, scope and fairness are defined:
+
+3 bullet points = 1 point
+4 or more bullet points = 2 points
+
+• The terms of net-zero are defined clearly
+• The scope of the net-zero target is considered e.g. what gases are included
+• An annual reduction percentage is calculated which ensures the council stays within its carbon budget
+• The Plan sets out a statement of long term intent in which it details how it plans to go carbon negative after reaching net-zero
+• The fairness of the targets is considered e.g. recognising that some areas have a greater responsibility to carbon reduction than others due to economic factors, historic emissions data etc.","3 bullet points covered, 4 or more bullet points covered","1,2"
+s1_gov_q3,Is commitment to the Climate Emergency Action Plan embedded in the council’s Corporate Plan as well as all the council’s decisions and actions?,HEADER,
+s1_gov_q3_sp1,Links to the Corporate Plan and commitment to the climate emergency Action Plan is embedded in the council’s Corporate Plan.,CHECKBOX,1
+s1_gov_q3_sp2,"The Plan commits to placing the climate emergency at the centre of all its decisions and actions.
+
+This means:
+• There should be a line in the Plan that commits to this e.g. Nottingham’s Plan says: ‘This is one of the most important and complex challenges any society has faced, which is why the Council has taken it to the core of how it operates.’",CHECKBOX,1
+s1_gov_q4,Does the Plan set out a plan for funding and costing?,HEADER,
+s1_gov_q4_sp1,"The Plan identifies funding for the actions.
+
+Including but not limited to:
+• Identifying if funding exists for an action
+• If funding does not exist, identifying where the funding can be sought
+• Considering the council’s own internal budgets to ensure they are being used most effectively to support carbon neutrality.",CHECKBOX,1
+s1_gov_q4_sp2,The cost of the actions in the Plan is outlined.,CHECKBOX,1
+s1_gov_q4_sp3,The Plan sets out financial return on investment where applicable e.g. renewable energy projects.,CHECKBOX,1
+s1_gov_q4_sp4,"The Plan identifies ways of raising funds.
+
+For example:
+• Workplace Parking Levy*
+• Licensing of private rented sector*
+• Equity investors in infrastructure projects",CHECKBOX,1
+s1_gov_q4_sp5,The Plan outlines how the local authority will allocate funds to ensure budgets are being used most effectively to support carbon neutrality.,CHECKBOX,1
+s1_gov_q5,Does the Plan explain what the local authority can and cannot do and acknowledge actions that require support from Government? ,HEADER,
+s1_gov_q5_sp1,"The Plan recognises there is a limit to what the council can and cannot do on its own and includes notes on what it has control over.
+
+For example:
+• Transport
+• Roads
+• Education
+• Recycling 
+• etc.",CHECKBOX,1
+s1_gov_q5_sp2,The Plan commits the authority to lobbying higher levels of government when it comes across limitations of legislation and finance that impede it from taking action on the climate crisis.,CHECKBOX,1
+s1_gov_q6,"Has the council committed to implementing a monitoring system in order to evaluate, review and update its targets?",HEADER,
+s1_gov_q6_sp1,The council has a monitoring system in place for evaluating and reviewing the Action Plan.,CHECKBOX,1
+s1_gov_q6_sp2,"The monitoring system is assigned to a department or team to complete and the review process is overseen by a senior lead officer, cabinet member or committee.",CHECKBOX,1
+s1_gov_q6_sp3,The Plan commits the council to reviewing and updating the Plan at least once annually.,CHECKBOX,1
+s2_m&a_q7,Does the Plan outline the implications of climate change for the local area?,HEADER,
+s2_m&a_q7_sp1,"The Plan outlines the implications of climate change for the local area.
+
+Outline at least 3 implications to get the point
+
+Including but not limited to:
+• Increasingly extreme local weather
+• Sea level rise
+• Coastal erosion
+• Flooding
+• Creation of heat islands
+• Shortages of public water supply
+• Problems with food production",CHECKBOX,1
+s2_m&a_q8,"Does the Plan set out or link to a strategy for decarbonising the whole district for the following carbon mitigation areas?
+",HEADER,
+s2_m&a_q8_sp1,The Plan sets out or links to a strategy for reducing consumption and waste.,CHECKBOX,1
+s2_m&a_q8_sp2,The Plan sets out or links to a strategy for decarbonising planning and land use.*,CHECKBOX,1
+s2_m&a_q8_sp3,The Plan sets out or links to a strategy for decarbonising transport.,CHECKBOX,1
+s2_m&a_q8_sp4,"The Plan sets out or links to a strategy for decarbonising buildings, housing and infrastructure inc. construction.",CHECKBOX,1
+s2_m&a_q8_sp5,The Plan sets out or links to a strategy for decarbonising business and industry.,CHECKBOX,1
+s2_m&a_q8_sp6,The Plan sets out or links to a strategy for decarbonising energy generation.,CHECKBOX,1
+s2_m&a_q8_sp7,The Plan sets out or links to a strategy for decarbonising heating.,CHECKBOX,1
+s2_m&a_q8_sp8,The Plan sets out or links to a strategy for restoring the natural environment and improving biodiversity.,CHECKBOX,1
+s2_m&a_q8_sp9,The Plan sets out or links to a strategy for decarbonising food systems and agriculture.,CHECKBOX,1
+s2_m&a_q9,"Does the plan set out adaptation actions for the whole district that the Council will take in the following areas?
+",HEADER,
+s2_m&a_q9_sp1,The Plan sets out how the council will help residents prepare for changes in climate and extreme weather.,CHECKBOX,1
+s2_m&a_q9_sp2,The Plan sets out adaptation actions for planning and land use,CHECKBOX,1
+s2_m&a_q9_sp3,The Plan sets out adaptation actions for transport ,CHECKBOX,1
+s2_m&a_q9_sp4,"The Plan sets out adaptation actions for buildings, housing and infrastructure",CHECKBOX,1
+s2_m&a_q9_sp5,The Plan sets out adaptation actions for business and industry,CHECKBOX,1
+s2_m&a_q9_sp6,The Plan sets out adaptation actions for energy generation,CHECKBOX,1
+s2_m&a_q9_sp7,The Plan sets out adaptation actions for the natural environment and biodiversity,CHECKBOX,1
+s2_m&a_q9_sp8,The Plan sets out adaptation actions for agriculture and food production,CHECKBOX,1
+s3_c&a_q10,Does the Plan set out how the climate & ecological emergency will be integrated with and become part of existing organisational policies and procedures?,HEADER,
+s3_c&a_q10_sp1,"The Plan links to and integrates with existing local authority plans and strategies.
+
+Give the point if the Plan links to any other plans and/or strategies
+
+Including but not limited to:
+• Biodiversity plan
+• Air quality plan 
+• Transport or Movement strategy
+• Local industrial strategy 
+• Asset Management plan 
+• Investment plans",CHECKBOX,1
+s3_c&a_q10_sp2,"The Plan sets out how the climate and ecological emergency will be integrated with and become a key aim of financial procedures.
+
+Including but not limited to:
+• Procurement
+• Capex
+• Supply chain requirements ",CHECKBOX,1
+s3_c&a_q10_sp3,"The Plan sets out how the climate and ecological emergency will be integrated with and become a key aim of HR.
+
+Including but not limited to:
+• Individual objectives
+• Recruitment e.g. Placing climate mitigation and adaptation into all job descriptions and providing climate focused training and resources.
+• Competencies
+• Accountability",CHECKBOX,1
+s3_c&a_q11,Does the Plan link to and integrate with the Local Plan?,HEADER,
+s3_c&a_q11_sp1,The Action Plan mentions or links to the Local Plan.*,CHECKBOX,1
+s3_c&a_q11_sp2,The Action Plan commits to the council to update their Local Plan with the climate crisis at its core.,CHECKBOX,1
+s3_c&a_q12,Does the Plan set strong target dates for actions?,HEADER,
+s3_c&a_q12_sp1,"The Plan makes reference to SMART targets but it is not complete i.e they are specific and measurable but not time-bound etc. 
+
+SMART targets:
+• Specific
+• Measureable 
+• Agreed upon or actionable
+• Realistic or relevant
+• Time-bound (the target dates are set in line with the urgency of the situation)",CHECKBOX,1
+s3_c&a_q12_sp2,Most of the actions in the Plan have SMART Targets.,CHECKBOX,1
+s4_coms_q13,Has a representative cross section of the community and relevant stakeholders been involved in developing and delivering the Plan?,HEADER,
+s4_coms_q13_sp2,"The Plan clearly makes extra effort to reach harder to reach communities and under-represented groups in the environmental movement
+
+Including but not limited to:
+• Black, Asian and other ethnic minorities
+• People with disabilities
+• People on lower incomes
+• People from working class backgrounds
+• Faith groups 
+• High carbon emitting businesses
+• Farmers 
+• Land owners",CHECKBOX,1
+s4_coms_q13_sp3_new,"The Plan clearly states how residents, businesses and stakeholders will continue to be involved in the progress and delivery of the Plan.
+Examples including but not limited to:
+Creating a permanent community forum 
+Allocating community representation on key committees 
+Creating an ongoing online feedback page
+Running online webinars and engagement sessions
+Physical suggestion boxes in locations around the area
+",CHECKBOX,1
+s4_coms_q14,Does the Plan establish collaborative partnerships and secure commitments from different sectors within the community and include how the local authority and its leaders will work to influence and support other bodies?,HEADER,
+s4_coms_q14_sp1,"The Plan identifies and establishes partnerships and secure commitments from different sectors within the community.
+
+Mention partnerships with at least 3 different organisations or sectors to get the point
+
+Including but not limited to:
+• The voluntary sector
+• The education sector
+• The health sector
+• Faith organisations
+• Businesses (large and SME)
+• Anchor institutions
+• Universities
+• High carbon emitting sectors
+• Farming sector",CHECKBOX,1
+s4_coms_q14_sp2,"The Plan includes how the local authority and its leaders will work to influence and support other bodies.
+
+For example:
+District councils could create climate emergency packs for parish councils in their area
+Local authorities can influence Local Enterprise Partnerships, Combined Authorities, Sub-national Transport bodies and Contractors to reduce their own emissions and increase biodiversity",CHECKBOX,1
+s4_coms_q15,Is the Climate Emergency Action Plan easy to find on the local authority website?,HEADER,
+s4_coms_q15_sp1,It is possible to find the Action Plan when searching for it in the search bar.,CHECKBOX,1
+s4_coms_q15_sp2,There is an environment and/or climate section in the drop down menu which clearly leads to the Plan.,CHECKBOX,1
+s4_coms_q15_sp3,The Plan is accessible from the home page. This could be part of a Climate Emergency section that is advertised on the home page.,CHECKBOX,1
+s4_coms_q16, Is the Plan structured in a clear and accessible way?,HEADER,
+s4_coms_q16_sp1,"The layout is clear and easy to read and understand. 
+
+This means:
+• It is attractive to look at and entices people to read
+• The layout is clear 
+• It is easy to navigate: there is a contents page, executive summary, clear outlines for objectives, timelines for actions and a table summary for actions.
+• The sections are well signposted
+• The language is accessible for everyone (any jargon used is defined)
+• There are images, tables and infographics to help explain the content
+• Colour is used well to aid understanding
+",CHECKBOX,1
+s4_coms_q17,Does the Plan have a clear communication strategy?,HEADER,
+s4_coms_q17_sp1,There is a clear communication strategy for informing the public about updates on the Plan.*,CHECKBOX,1
+s5_mset_q18,"Does the Plan measure and set emissions targets for the whole district?
+",HEADER,
+s5_mset_q18_sp1,"The Plan includes a baseline emission inventory for greenhouse gas emissions for the whole district.
+",CHECKBOX,1
+s5_mset_q18_sp2,"The Plan quantifies current greenhouse gas emissions for the whole district.
+",CHECKBOX,1
+s5_mset_q18_sp3,"The Plan provides a breakdown of Scope 1, 2 and 3 emissions for the whole district.
+",CHECKBOX,1
+s5_mset_q19,Does the Plan highlight action areas for emissions reductions and not simply carbon offsetting?,HEADER,
+s5_mset_q19_sp1,"The Plan highlights action areas for emissions reductions.*
+
+Identify at least 3 action areas to get the point
+
+Including but not limited to:
+• Energy and Heating
+• The Built Environment
+• Transport
+• Agriculture and Food
+• Waste 
+• The Circular Economy
+• Water
+• Planning and Land Use
+• Commercial and Industrial 
+• Ecological Emergency and Biodiversity
+• Air Quality and Pollution",CHECKBOX,1
+s5_mset_q19_sp2,"A hierarchy of carbon mitigation is established in which carbon offsetting is placed at the bottom, as a last resort only.*",CHECKBOX,1
+s6_cb_q20,Does the Plan outline the co-benefits in all action areas?,HEADER,
+s6_cb_q20_sp1,"The Plan includes co-benefits in at least 3 of the following areas:
+
+3 areas covered = 1 point
+
+5 or more areas covered = 2 points
+
+• Environmental
+• Social
+• Job creation
+• Equity and social cohesion 
+• Health and wellbeing 
+• Resilience
+• Citizen engagement
+• Economy","3 areas covered, 5 more areas covered","1,2"
+s6_cb_q21,Does the Plan outline public health risks in the area as a result of climate change and include actions to address these risks across the different action themes?,HEADER,
+s6_cb_q21_sp1,"The Plan outlines public health risks in the area as a result of climate change.
+
+Outline any health risks to get the point
+
+Including but not limited to:
+• Air quality (statistics for the area, deaths per year etc.)
+• Exposure to extreme temperatures (both hot and cold) and other weather events, eg. flooding
+• Invasive species carrying disease (mosquitoes etc.)
+• Disease caused by contaminated flood water
+• Pandemics and epidemics
+• Distribution to supply chains resulting in lack of medication, food etc.
+• Malnutrition 
+• Eco-anxiety",CHECKBOX,1
+s6_cb_q21_sp2,The Plan includes actions to address the public health risks of climate change across the different action themes. ,CHECKBOX,1
+s7_dsi_q22,Does the Plan outline how to help those most vulnerable to the climate crisis?,HEADER,
+s7_dsi_q22_sp1,"The Plan outlines who climate change will harm the most.
+
+If 3 groups are identified select option 1
+
+If 5 or more groups are identified select option 2
+
+Including but not limited to recognising:
+• Intergenerational inequalities
+• Racial inequalities
+• Religious inequalities
+• Class/economic inequalities
+• Gender inequalities
+• Disability inequalities
+• LGBTQ+ inequalities 
+• Traveller communities","Option 1, Option 2","1,2"
+s7_dsi_q22_sp2,"The Plan focuses resources to support these vulnerable communities.
+
+3 areas covered = 1 point
+
+5 or more areas covered = 2 points
+
+Including but not limited to:
+• Energy and fuel poverty
+• Food insecurity
+• Improving job skills, education and retraining
+• Clean air and reducing pollution
+• Flood risk and recovery
+• Educational risks and social risks
+• Quality of public space, green space and assets.
+• Infrastructure 
+• Accessibility to key services/housing 
+• Affordability of public transport and access to active travel","3 areas covered, 5 or more areas covered","1,2"
+s7_dsi_q23,Does the Plan recognise how Councils and residents have differing responsibilities for climate action?,HEADER,
+s7_dsi_q23_sp1,"The Plan’s commitments reflect the council’s and the area’s responsibility to climate action based on its economic position, current and historic GHG emissions, level of authority and power.
+
+This could include:
+• Wealthier and higher tier council’s committing to help and support councils with fewer resources e.g. areas with greater staff capacity should lead on sharing best practice and learnings.
+• Recognising that historically areas have financially benefited from carbon intensive industries e.g. mining and helping residents working in these industries to retrain
+• Making it clear that those on lowest incomes are not expected to retrofit their own homes etc. 
+• Recognising why emissions in the area are high or low 
+",CHECKBOX,1
+s8_est_q24,Does the Plan include carbon and climate literacy training for staff and councillors?,HEADER,
+s8_est_q24_sp1,The Plan does include carbon and climate literacy training for all staff and councillors.,CHECKBOX,1
+s8_est_q25,Does the Plan include climate education for the public as a key component across the different action themes?,HEADER,
+s8_est_q25_sp1,The Plan includes climate education in schools.,CHECKBOX,1
+s8_est_q25_sp2,"The Plan includes climate education for the public as a key component in the action plan.                                                                                                                                               This refers not to school children and those in formal education but everyone.
+
+Including but not limited to:
+• Adults in work
+• Adults out of work
+• Carers 
+• Seniors
+• Incarcerated people",CHECKBOX,1
+s8_est_q26,Does the Plan identify the training and upskilling of the workforce that is necessary to transform the local economy at the scale and pace needed? ,HEADER,
+s8_est_q26_sp1,"The Plan identifies the training and upskilling of the workforce in the local area that is necessary to transform the local economy at the scale and pace needed.
+
+Including but not limited to:
+• Re-training workers in high-carbon industries to low-carbon sectors
+• Young people
+• Local businesses 
+• Education providers
+• Local employers ",CHECKBOX,1
+s8_est_q26_sp2,"The Plan identifies how the training will happen.
+
+Including but not limited to:
+• Who will provide the training 
+• Creating green apprenticeships 
+• Partnerships with Local Enterprise Partnerships, SMEs, schools, colleges, universities, job centres etc.
+• Upskilling education providers and careers services in identifying future employment trends and • opportunities
+• Incentivise re-training",CHECKBOX,1
+s9_ee_q27,Does the Plan address the ecological emergency? ,HEADER,
+s9_ee_q27_sp1,The Plan outlines actions to address the ecological emergency. ,CHECKBOX,1
+s9_ee_q27_sp2,The Plan recognises the impact climate change is having on biodiversity loss.,CHECKBOX,1
+s9_ee_q27_sp3,The Plan recognises the ecological services provided by habitat within the area and suggests nature-based solutions for climate mitigation and adaptation.,CHECKBOX,1
+s9_ee_q28,Does the Plan outline the ecological impact of climate mitigation and adaptation actions?,HEADER,
+s9_ee_q28_sp1,The Plan outlines the ecological impact of specific carbon mitigation and adaptation actions set out in the Plan and suggests actions to address any negative impacts.,CHECKBOX,1

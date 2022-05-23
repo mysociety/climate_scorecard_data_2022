@@ -1,0 +1,410 @@
+local-authority-code,la_deprivation_score,council-quintile,pop_bucket,region,local-authority-type-name,ruc_cluster,political_control
+ABC,,,,Northern Ireland,NI district,Sparse and rural,
+ABD,12.040376207361149,5.0,210k - 290k,Scotland,Scottish unitary authority,Sparse and rural,Coalition/Minority
+ABE,15.13769666850714,5.0,210k - 290k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+ADU,17.643439246668013,2.0,50k - 80k,South East,Non-metropolitan district,Urban,Conservative
+AGB,17.350429508931235,4.0,0k - 140k,Scotland,Scottish unitary authority,Sparse and rural,Coalition/Minority
+AGY,22.20598960732711,3.0,0k - 140k,Wales,Welsh unitary authority,Rural,Coalition/Minority
+ALL,22.837958654269094,1.0,90k - 100k,North West,Non-metropolitan district,Rural,Coalition/Minority
+AMB,17.987207433650415,2.0,120k - 130k,East Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+AND,,,,Northern Ireland,NI district,Urban with rural areas,
+ANN,,,,Northern Ireland,NI district,Urban with rural areas,
+ANS,16.49586132706947,4.0,0k - 140k,Scotland,Scottish unitary authority,Urban with rural areas,Coalition/Minority
+ARU,18.664629393249488,2.0,140k - 160k,South East,Non-metropolitan district,Urban,Coalition/Minority
+ASF,18.67323294266027,2.0,120k - 130k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+ASH,26.403706343126057,1.0,120k - 130k,East Midlands,Non-metropolitan district,Urban,Independent
+BAB,14.249898724412194,3.0,80k - 90k,East of England,Non-metropolitan district,Rural,Coalition/Minority
+BAE,22.776074068398337,1.0,110k - 120k,East Midlands,Non-metropolitan district,Urban with rural areas,Labour
+BAI,23.382426273644636,1.0,170k - 250k,East of England,Non-metropolitan district,Urban,Conservative
+BAN,12.875384240749336,4.0,170k - 250k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+BAR,31.03288694835121,1.0,50k - 80k,North West,Non-metropolitan district,Urban with rural areas,Labour
+BAS,11.738251197731817,5.0,140k - 210k,South West,Unitary authority,Urban with rural areas,Liberal Democrat
+BBD,36.19481978142371,1.0,140k - 210k,North West,Unitary authority,Urban,Labour
+BDF,18.85785826235487,4.0,140k - 210k,East of England,Unitary authority,Urban with rural areas,Coalition/Minority
+BDG,32.72231926765803,1.0,210k - 290k,London,London borough,Urban,Labour
+BEN,25.64994414912166,3.0,290k - 410k,London,London borough,Urban,Labour
+BEX,16.458360961306877,4.0,210k - 290k,London,London borough,Urban,Conservative
+BFS,,,,Northern Ireland,NI district,Urban,
+BGE,25.178229360809706,3.0,140k - 210k,Wales,Welsh unitary authority,Urban with rural areas,Coalition/Minority
+BGW,35.688758751713,1.0,0k - 140k,Wales,Welsh unitary authority,Urban,Independent
+BIR,38.10821623448964,1.0,800k - 1140k,West Midlands,Metropolitan district,Urban,Labour
+BLA,10.57832027263952,5.0,90k - 100k,East Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+BNE,16.202091984974825,5.0,290k - 410k,London,London borough,Urban,Conservative
+BNH,20.88944106433815,4.0,290k - 410k,South East,Unitary authority,Urban,Coalition/Minority
+BNS,30.00411464519212,1.0,210k - 290k,Yorkshire and The Humber,Metropolitan district,Urban,Labour
+BOL,31.130111208485506,1.0,290k - 410k,North West,Metropolitan district,Urban,Coalition/Minority
+BOS,25.04917433777712,1.0,80k - 90k,East Midlands,Non-metropolitan district,Rural,Coalition/Minority
+BOT,23.01602394083195,1.0,50k - 80k,East Midlands,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+BPC,18.245148809478632,4.0,290k - 410k,South West,Unitary authority,Urban,Conservative
+BPL,45.4870572551382,1.0,0k - 140k,North West,Unitary authority,Urban,Coalition/Minority
+BRA,14.728824192026424,3.0,140k - 160k,East of England,Non-metropolitan district,Urban with rural areas,Conservative
+BRC,10.330146733143476,5.0,0k - 140k,South East,Unitary authority,Urban,Conservative
+BRD,34.88322839474153,1.0,440k - 640k,Yorkshire and The Humber,Metropolitan district,Urban,Labour
+BRE,19.83135150891632,2.0,140k - 160k,East of England,Non-metropolitan district,Sparse and rural,Conservative
+BRM,11.682779287351943,5.0,90k - 100k,West Midlands,Non-metropolitan district,Urban,Conservative
+BRO,11.772944511136773,4.0,120k - 130k,East of England,Non-metropolitan district,Rural,Conservative
+BRT,14.298875246639136,3.0,110k - 120k,East Midlands,Non-metropolitan district,Urban,Coalition/Minority
+BRW,10.053735903195232,5.0,50k - 80k,East of England,Non-metropolitan district,Urban with rural areas,Conservative
+BRX,18.18090442952745,2.0,90k - 100k,East of England,Non-metropolitan district,Urban,Conservative
+BRY,14.260273503321942,5.0,290k - 410k,London,London borough,Urban,Conservative
+BST,26.38432331125628,2.0,440k - 640k,South West,Unitary authority,Urban,Coalition/Minority
+BUC,10.177566121847953,5.0,440k - 640k,South East,Unitary authority,Urban with rural areas,Conservative
+BUN,38.55430196806119,1.0,80k - 90k,North West,Non-metropolitan district,Urban,Coalition/Minority
+BUR,24.021824629561763,3.0,140k - 210k,North West,Metropolitan district,Urban,Labour
+CAB,14.692452715588384,3.0,120k - 130k,East of England,Non-metropolitan district,Urban,Labour
+CAM,13.87909014791817,2.0,under 800k,East of England,County,,Coalition/Minority
+CAN,20.4591539667732,2.0,90k - 100k,West Midlands,Non-metropolitan district,Urban,Conservative
+CAR,21.83732466552569,2.0,110k - 120k,North West,Non-metropolitan district,Urban with rural areas,Conservative
+CAS,16.821148114543682,3.0,80k - 90k,East of England,Non-metropolitan district,Urban,Conservative
+CAT,16.837653010387317,3.0,170k - 250k,South East,Non-metropolitan district,Urban,Conservative
+CAY,28.50688485532984,2.0,140k - 210k,Wales,Welsh unitary authority,Urban with rural areas,Labour
+CBF,12.23531766372883,5.0,290k - 410k,East of England,Unitary authority,Urban with rural areas,Conservative
+CCG,,,,Northern Ireland,NI district,Sparse and rural,
+CGN,20.94033708273942,4.0,0k - 140k,Wales,Welsh unitary authority,Sparse and rural,Coalition/Minority
+CHA,13.270781077314622,4.0,170k - 250k,East Midlands,Non-metropolitan district,Urban,Conservative
+CHE,14.555192822112083,5.0,290k - 410k,North West,Unitary authority,Urban,Coalition/Minority
+CHI,14.051337507946066,4.0,120k - 130k,South East,Non-metropolitan district,Rural,Coalition/Minority
+CHL,12.35628684664888,4.0,170k - 250k,East of England,Non-metropolitan district,Urban with rural areas,Liberal Democrat
+CHO,17.007317334370985,3.0,120k - 130k,North West,Non-metropolitan district,Urban with rural areas,Labour
+CHR,14.360498202693632,3.0,140k - 160k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+CHS,24.96043261201145,1.0,90k - 100k,East Midlands,Non-metropolitan district,Urban,Labour
+CHT,14.232300594982195,3.0,110k - 120k,South West,Non-metropolitan district,Urban,Liberal Democrat
+CHW,18.115142197970684,4.0,290k - 410k,North West,Unitary authority,Urban with rural areas,Coalition/Minority
+CLD,26.492248970230047,2.0,210k - 290k,Yorkshire and The Humber,Metropolitan district,Urban,Labour
+CLK,23.74116642656027,3.0,0k - 140k,Scotland,Scottish unitary authority,Rural,Coalition/Minority
+CMA,21.137978394518534,1.0,under 800k,North West,County,,Coalition/Minority
+CMD,20.026171159394,4.0,210k - 290k,London,London borough,Urban,Labour
+CMN,24.909375025086604,3.0,140k - 210k,Wales,Welsh unitary authority,Urban with rural areas,Coalition/Minority
+COL,16.686054168849456,3.0,170k - 250k,East of England,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+CON,23.063352023779,3.0,440k - 640k,South West,Unitary authority,Rural,Conservative
+COP,25.01032885029993,1.0,50k - 80k,North West,Non-metropolitan district,Rural,Labour
+COT,10.973922926264716,5.0,80k - 90k,South West,Non-metropolitan district,Rural,Liberal Democrat
+COV,26.03264564318032,2.0,290k - 410k,West Midlands,Metropolitan district,Urban,Labour
+CPCA,,,,East,Combined authority,,
+CRA,12.749367855517836,4.0,50k - 80k,Yorkshire and The Humber,Non-metropolitan district,Rural,Coalition/Minority
+CRF,26.461858941027483,2.0,290k - 410k,Wales,Welsh unitary authority,Urban,Labour
+CRW,18.966802204449824,2.0,110k - 120k,South East,Non-metropolitan district,Urban,Coalition/Minority
+CRY,22.67567225828142,3.0,290k - 410k,London,London borough,Urban,Labour
+CWY,22.301965672120332,3.0,0k - 140k,Wales,Welsh unitary authority,Urban with rural areas,Coalition/Minority
+DAC,13.080439459043832,4.0,140k - 160k,East of England,Non-metropolitan district,Urban,Conservative
+DAL,25.716202110427613,3.0,0k - 140k,North East,Unitary authority,Urban,Coalition/Minority
+DAR,19.4668279665382,2.0,110k - 120k,South East,Non-metropolitan district,Urban,Conservative
+DBY,16.381738072556182,2.0,800k - 1m,West Midlands,County,,Conservative
+DEB,11.918637372969236,4.0,50k - 80k,East Midlands,Non-metropolitan district,Rural,Conservative
+DEN,26.654034262567247,2.0,0k - 140k,Wales,Welsh unitary authority,Rural,Coalition/Minority
+DER,26.783834163745343,2.0,210k - 290k,East Midlands,Unitary authority,Urban,Coalition/Minority
+DEV,18.18897021472166,1.0,800k - 1m,South West,County,,Conservative
+DGY,18.971751943782497,4.0,140k - 210k,Scotland,Scottish unitary authority,Sparse and rural,Coalition/Minority
+DNC,30.49772315880599,1.0,290k - 410k,Yorkshire and The Humber,Metropolitan district,Urban,Labour
+DND,27.71066427298519,2.0,140k - 210k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+DOV,22.396161405558228,1.0,110k - 120k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+DRS,,,,Northern Ireland,NI district,Urban with rural areas,
+DST,15.779218880446384,5.0,290k - 410k,South West,Unitary authority,Urban with rural areas,Conservative
+DUD,24.40006177937537,3.0,290k - 410k,West Midlands,Metropolitan district,Urban,Conservative
+DUR,26.55317817028678,2.0,440k - 640k,North East,Unitary authority,Rural,Coalition/Minority
+EAL,22.775640901564035,3.0,290k - 410k,London,London borough,Urban,Labour
+EAS,22.144637650007223,1.0,90k - 100k,South East,Non-metropolitan district,Urban,Liberal Democrat
+EAT,10.211495111690024,5.0,140k - 160k,South East,Non-metropolitan district,Urban,Liberal Democrat
+EAY,25.468610692867724,3.0,0k - 140k,Scotland,Scottish unitary authority,Rural,Coalition/Minority
+ECA,11.557074398931432,5.0,80k - 90k,East of England,Non-metropolitan district,Rural,Conservative
+EDE,12.854684203330512,4.0,140k - 160k,South West,Non-metropolitan district,Rural,Coalition/Minority
+EDH,14.740814454864983,5.0,440k - 640k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+EDN,16.23796685632734,3.0,50k - 80k,North West,Non-metropolitan district,Sparse and rural,Coalition/Minority
+EDU,11.536573703262087,5.0,0k - 140k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+EHA,10.278269696176864,5.0,120k - 130k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+EHE,8.20238569463365,5.0,140k - 160k,East of England,Non-metropolitan district,Urban with rural areas,Conservative
+ELI,29.844699584412297,1.0,140k - 160k,East Midlands,Non-metropolitan district,Rural,Conservative
+ELM,7.925309792024567,5.0,140k - 160k,South East,Non-metropolitan district,Urban,Coalition/Minority
+ELN,15.870007448689842,5.0,0k - 140k,Scotland,Scottish unitary authority,Rural,Coalition/Minority
+ELS,17.299781655824468,4.0,0k - 140k,Scotland,Scottish unitary authority,Sparse and rural,Independent
+ENF,25.85252469187582,2.0,290k - 410k,London,London borough,Urban,Labour
+EPP,15.119727965129965,3.0,120k - 130k,East of England,Non-metropolitan district,Urban with rural areas,Conservative
+EPS,8.925314063527107,5.0,80k - 90k,South East,Non-metropolitan district,Urban,Independent
+ERE,18.918329432873065,2.0,110k - 120k,East Midlands,Non-metropolitan district,Urban,Conservative
+ERW,10.107730202932396,5.0,0k - 140k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+ERY,15.56265249008568,5.0,290k - 410k,Yorkshire and The Humber,Unitary authority,Urban with rural areas,Conservative
+ESK,19.65232907749106,2.0,170k - 250k,East of England,Non-metropolitan district,Urban with rural areas,Conservative
+ESS,17.309280024821412,1.0,1m +,East of England,County,,Conservative
+EST,19.115321408888214,2.0,120k - 130k,West Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+ESX,19.79115640786821,1.0,under 800k,South East,County,,Conservative
+EXE,16.23229110003424,3.0,120k - 130k,South West,Non-metropolitan district,Urban,Labour
+FAL,19.50601231230732,4.0,140k - 210k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+FAR,9.041302986243148,5.0,110k - 120k,South East,Non-metropolitan district,Urban,Conservative
+FEN,25.618472380952376,1.0,90k - 100k,East of England,Non-metropolitan district,Urban with rural areas,Conservative
+FIF,19.78818836267257,4.0,290k - 410k,Scotland,Scottish unitary authority,Urban with rural areas,Coalition/Minority
+FLN,19.272157952381853,4.0,140k - 210k,Wales,Welsh unitary authority,Urban with rural areas,Coalition/Minority
+FMO,,,,Northern Ireland,NI district,Sparse and rural,
+FOE,18.092547372423404,2.0,80k - 90k,South West,Non-metropolitan district,Sparse and rural,Coalition/Minority
+FYL,15.85774029462738,3.0,80k - 90k,North West,Non-metropolitan district,Urban with rural areas,Conservative
+GAT,28.340326975328487,2.0,140k - 210k,North East,Metropolitan district,Urban,Labour
+GED,14.918718260161487,3.0,110k - 120k,East Midlands,Non-metropolitan district,Urban with rural areas,Labour
+GLA,,,,London,Strategic Regional Authority,,
+GLG,31.648102194411365,1.0,440k - 640k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+GLO,21.93664842636764,1.0,120k - 130k,South West,Non-metropolitan district,Urban,Conservative
+GLS,15.994691077480708,2.0,under 800k,South West,County,,Conservative
+GMCA,,,,North West,Combined authority,,
+GOS,20.680427402814768,2.0,80k - 90k,South East,Non-metropolitan district,Urban,Conservative
+GRA,21.763743236798533,2.0,110k - 120k,South East,Non-metropolitan district,Urban with rural areas,Labour
+GRE,24.31790858575688,3.0,290k - 410k,London,London borough,Urban,Labour
+GRT,9.44731761500154,5.0,140k - 160k,South East,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+GRY,33.29233555810581,1.0,90k - 100k,East of England,Non-metropolitan district,Urban with rural areas,Conservative
+GWN,20.5940102958432,4.0,0k - 140k,Wales,Welsh unitary authority,Rural,Plaid Cymru
+HAA,21.804497377594675,2.0,120k - 130k,South East,Non-metropolitan district,Urban,Conservative
+HAE,11.99777748542481,4.0,80k - 90k,Yorkshire and The Humber,Non-metropolitan district,Rural,Conservative
+HAG,10.860670505064318,5.0,140k - 160k,Yorkshire and The Humber,Non-metropolitan district,Urban with rural areas,Conservative
+HAL,32.336525368982315,1.0,0k - 140k,North West,Unitary authority,Urban,Labour
+HAM,12.75520572244617,2.0,1m +,South East,County,,Conservative
+HAO,8.136535844872986,5.0,90k - 100k,East Midlands,Non-metropolitan district,Rural,Conservative
+HAR,21.32990094984323,2.0,80k - 90k,East of England,Non-metropolitan district,Urban,Conservative
+HAS,34.57192434789176,1.0,80k - 90k,South East,Non-metropolitan district,Urban,Labour
+HAT,5.618004130911789,5.0,90k - 100k,South East,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+HAV,17.063034509462465,4.0,210k - 290k,London,London borough,Urban,Coalition/Minority
+HCK,32.56071419678428,1.0,210k - 290k,London,London borough,Urban,Labour
+HEF,18.9162387332016,4.0,140k - 210k,West Midlands,Unitary authority,Sparse and rural,Coalition/Minority
+HER,13.968569553655678,4.0,110k - 120k,East of England,Non-metropolitan district,Urban,Conservative
+HIG,15.622224364923492,3.0,80k - 90k,East Midlands,Non-metropolitan district,Urban with rural areas,Labour
+HIL,18.39799122429693,4.0,290k - 410k,London,London borough,Urban,Conservative
+HIN,13.414295113845288,4.0,110k - 120k,East Midlands,Non-metropolitan district,Urban with rural areas,Liberal Democrat
+HLD,17.857337663699248,4.0,210k - 290k,Scotland,Scottish unitary authority,Sparse and rural,Coalition/Minority
+HMF,22.30692933570268,3.0,140k - 210k,London,London borough,Urban,Labour
+HNS,21.56090331942413,3.0,210k - 290k,London,London borough,Urban,Labour
+HOR,9.939715322933978,5.0,140k - 160k,South East,Non-metropolitan district,Rural,Conservative
+HPL,34.96067646776209,1.0,0k - 140k,North East,Unitary authority,Urban,Coalition/Minority
+HRT,12.85318661167236,2.0,1m +,East of England,County,,Conservative
+HRW,15.122929423475082,5.0,210k - 290k,London,London borough,Urban,Labour
+HRY,28.13070552807215,2.0,210k - 290k,London,London borough,Urban,Labour
+HUN,12.575762456240904,4.0,170k - 250k,East of England,Non-metropolitan district,Rural,Conservative
+HYN,34.682468911565465,1.0,80k - 90k,North West,Non-metropolitan district,Urban,Labour
+IOS,12.005,5.0,0k - 140k,South West,Unitary authority,Sparse and rural,Independent
+IOW,23.348529798054614,3.0,140k - 210k,South East,Unitary authority,Urban with rural areas,Coalition/Minority
+IPS,26.0718242825736,1.0,140k - 160k,East of England,Non-metropolitan district,Urban,Labour
+ISL,27.448605092651764,2.0,210k - 290k,London,London borough,Urban,Labour
+IVC,29.587587294654814,2.0,0k - 140k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+KEC,21.229887618571837,3.0,140k - 210k,London,London borough,Urban,Conservative
+KEN,14.426059486901496,2.0,1m +,South East,County,,Conservative
+KHL,40.63107646144011,1.0,210k - 290k,Yorkshire and The Humber,Unitary authority,Urban,Labour
+KIN,23.883172476433945,1.0,140k - 160k,East of England,Non-metropolitan district,Sparse and rural,Conservative
+KIR,25.35840253577301,3.0,440k - 640k,Yorkshire and The Humber,Metropolitan district,Urban,Coalition/Minority
+KTT,11.478030449503398,5.0,140k - 210k,London,London borough,Urban,Liberal Democrat
+KWL,43.165482725934936,1.0,140k - 210k,North West,Metropolitan district,Urban,Labour
+LAC,24.024432983196156,1.0,140k - 160k,North West,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+LAN,21.94435771390498,1.0,1m +,North West,County,,Conservative
+LBC,,,,Northern Ireland,NI district,Urban with rural areas,
+LBH,25.384398857174407,3.0,290k - 410k,London,London borough,Urban,Labour
+LCE,30.85077790324767,1.0,290k - 410k,East Midlands,Unitary authority,Urban,Labour
+LCR,,,,North West,Combined authority,,
+LDS,27.68480163502235,2.0,800k - 1140k,Yorkshire and The Humber,Metropolitan district,Urban,Labour
+LEC,19.416645076625485,1.0,under 800k,East Midlands,County,,Conservative
+LEE,15.767609298136886,3.0,90k - 100k,South East,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+LEW,26.743396368059315,2.0,290k - 410k,London,London borough,Urban,Labour
+LIC,26.78136226950926,1.0,90k - 100k,East Midlands,Non-metropolitan district,Urban,Labour
+LIF,12.620515330864102,4.0,110k - 120k,West Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+LIN,19.44092148919352,1.0,under 800k,Yorkshire and The Humber,County,,Conservative
+LIV,42.53650428678703,1.0,440k - 640k,North West,Metropolitan district,Urban,Labour
+LND,15.328364160065837,5.0,0k - 140k,London,City corporation,Urban,Independent
+LUT,26.092169648724244,2.0,210k - 290k,East of England,Unitary authority,Urban,Labour
+MAI,16.69350193218721,3.0,170k - 250k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+MAL,14.276034547022762,3.0,50k - 80k,East of England,Non-metropolitan district,Rural,Independent
+MAN,39.82080742975592,1.0,440k - 640k,North West,Metropolitan district,Urban,Labour
+MAS,28.50884456560519,1.0,110k - 120k,East Midlands,Non-metropolitan district,Urban,Coalition/Minority
+MAV,15.968210627970215,3.0,80k - 90k,West Midlands,Non-metropolitan district,Sparse and rural,Coalition/Minority
+MDB,40.38096358348702,1.0,0k - 140k,North East,Unitary authority,Urban,Coalition/Minority
+MDE,16.886664637776242,3.0,80k - 90k,South West,Non-metropolitan district,Rural,Coalition/Minority
+MDW,24.06391908269791,3.0,210k - 290k,South East,Unitary authority,Urban,Conservative
+MEA,,,,Northern Ireland,NI district,Urban with rural areas,
+MEL,12.526185045597456,4.0,50k - 80k,East Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+MEN,16.576491811362875,3.0,110k - 120k,South West,Non-metropolitan district,Urban with rural areas,Liberal Democrat
+MIK,17.96609166212049,4.0,210k - 290k,South East,Unitary authority,Urban,Coalition/Minority
+MLN,18.87225996706845,4.0,0k - 140k,Scotland,Scottish unitary authority,Urban with rural areas,Coalition/Minority
+MOL,9.516454157831392,5.0,80k - 90k,South East,Non-metropolitan district,Urban with rural areas,Liberal Democrat
+MON,17.26099552359505,4.0,0k - 140k,Wales,Welsh unitary authority,Urban with rural areas,Conservative
+MRT,14.54133978542518,5.0,140k - 210k,London,London borough,Urban,Labour
+MRY,14.391920085507444,5.0,0k - 140k,Scotland,Scottish unitary authority,Sparse and rural,Coalition/Minority
+MSS,7.735725079789698,5.0,140k - 160k,South East,Non-metropolitan district,Urban,Conservative
+MSU,13.20040702632465,4.0,90k - 100k,East of England,Non-metropolitan district,Sparse and rural,Coalition/Minority
+MTY,33.32222904214466,1.0,0k - 140k,Wales,Welsh unitary authority,Urban,Independent
+MUL,,,,Northern Ireland,NI district,Sparse and rural,
+NAY,26.907236237232045,2.0,0k - 140k,Scotland,Scottish unitary authority,Urban with rural areas,Coalition/Minority
+NBL,22.037287147137093,3.0,290k - 410k,North East,Unitary authority,Urban with rural areas,Coalition/Minority
+NDE,20.4032797364764,2.0,90k - 100k,South West,Non-metropolitan district,Rural,Liberal Democrat
+NEA,19.26917575415982,2.0,120k - 130k,East Midlands,Non-metropolitan district,Rural,Conservative
+NEC,19.121275778153755,2.0,120k - 130k,West Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+NECA,,,,North East,Combined authority,,
+NED,17.61954905284737,2.0,90k - 100k,East Midlands,Non-metropolitan district,Urban,Conservative
+NEL,31.342407130725817,1.0,140k - 210k,Yorkshire and The Humber,Unitary authority,Urban,Conservative
+NET,29.949040297866723,1.0,290k - 410k,North East,Metropolitan district,Urban,Labour
+NEW,13.026396071876768,4.0,170k - 250k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+NFK,21.05221602667658,1.0,800k - 1m,East of England,County,,Conservative
+NGM,34.85831456293183,1.0,290k - 410k,East Midlands,Unitary authority,Urban,Labour
+NHE,11.617651096803176,5.0,120k - 130k,East of England,Non-metropolitan district,Urban,Coalition/Minority
+NKE,11.54939548389856,5.0,110k - 120k,East Midlands,Non-metropolitan district,Rural,Coalition/Minority
+NLK,26.274587041110216,2.0,290k - 410k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+NLN,22.31556902816149,3.0,140k - 210k,Yorkshire and The Humber,Unitary authority,Urban with rural areas,Conservative
+NMD,,,,Northern Ireland,NI district,Sparse and rural,
+NNO,20.96941933668457,2.0,110k - 120k,East of England,Non-metropolitan district,Sparse and rural,Liberal Democrat
+NNT,19.619687044120514,4.0,290k - 410k,East Midlands,Unitary authority,Urban with rural areas,Conservative
+NOW,27.56683175289709,1.0,140k - 160k,East of England,Non-metropolitan district,Urban,Labour
+NSM,16.08471468296039,5.0,210k - 290k,South West,Unitary authority,Urban,Coalition/Minority
+NTCA,,,,North East,Combined authority,,
+NTL,31.386635765087817,1.0,140k - 210k,Wales,Welsh unitary authority,Urban with rural areas,Labour
+NTT,19.48418261986866,1.0,800k - 1m,East Midlands,County,,Conservative
+NTY,22.17242512012235,3.0,140k - 210k,North East,Metropolitan district,Urban,Labour
+NUN,23.63120252842944,1.0,120k - 130k,West Midlands,Non-metropolitan district,Urban,Conservative
+NWA,18.087558761338563,2.0,50k - 80k,West Midlands,Non-metropolitan district,Rural,Conservative
+NWL,14.463790224976112,3.0,90k - 100k,East Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+NWM,29.404628489468603,2.0,290k - 410k,London,London borough,Urban,Labour
+NWP,30.284064478868725,1.0,140k - 210k,Wales,Welsh unitary authority,Urban,Labour
+NYK,12.28742067398787,2.0,under 800k,Yorkshire and The Humber,County,,Conservative
+OAD,13.214853792861526,4.0,50k - 80k,East Midlands,Non-metropolitan district,Urban,Liberal Democrat
+OLD,33.837802492514015,1.0,210k - 290k,North West,Metropolitan district,Urban,Labour
+ORK,14.085283856684883,5.0,0k - 140k,Scotland,Scottish unitary authority,Sparse and rural,Independent
+OXF,13.159116662917764,2.0,under 800k,South East,County,,Coalition/Minority
+OXO,16.43546613143378,3.0,140k - 160k,South East,Non-metropolitan district,Urban,Labour
+PEM,23.436514362224287,3.0,0k - 140k,Wales,Welsh unitary authority,Rural,Coalition/Minority
+PEN,31.17465717821782,1.0,80k - 90k,North West,Non-metropolitan district,Urban,Conservative
+PKN,14.10236408898576,5.0,140k - 210k,Scotland,Scottish unitary authority,Sparse and rural,Coalition/Minority
+PLY,26.74908324303701,2.0,210k - 290k,South West,Unitary authority,Urban,Coalition/Minority
+POR,27.27429387869057,2.0,210k - 290k,South East,Unitary authority,Urban,Coalition/Minority
+POW,19.609055616431394,4.0,0k - 140k,Wales,Welsh unitary authority,Sparse and rural,Coalition/Minority
+PRE,29.614644727005984,1.0,140k - 160k,North West,Non-metropolitan district,Urban,Labour
+PTE,27.88069812468172,2.0,140k - 210k,East of England,Unitary authority,Urban,Coalition/Minority
+RCC,29.791865154939835,2.0,0k - 140k,North East,Unitary authority,Urban with rural areas,Coalition/Minority
+RCH,34.75680797349064,1.0,210k - 290k,North West,Metropolitan district,Urban,Labour
+RCT,30.521077598991763,1.0,210k - 290k,Wales,Welsh unitary authority,Urban with rural areas,Labour
+RDB,17.327725432635923,4.0,290k - 410k,London,London borough,Urban,Labour
+RDG,19.74339741624429,4.0,140k - 210k,South East,Unitary authority,Urban,Labour
+RED,22.542838026764876,1.0,80k - 90k,West Midlands,Non-metropolitan district,Urban,Conservative
+REI,11.256638986742676,5.0,140k - 160k,South East,Non-metropolitan district,Urban,Conservative
+RFW,22.08637585152013,3.0,140k - 210k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+RIB,10.59807881684404,5.0,50k - 80k,North West,Non-metropolitan district,Rural,Conservative
+RIC,9.421518096748294,5.0,140k - 210k,London,London borough,Urban,Liberal Democrat
+RIH,12.108709622185,4.0,50k - 80k,Yorkshire and The Humber,Non-metropolitan district,Rural,Coalition/Minority
+ROC,10.491386606080033,5.0,80k - 90k,East of England,Non-metropolitan district,Urban,Conservative
+ROH,19.804242412572854,2.0,90k - 100k,South East,Non-metropolitan district,Rural,Coalition/Minority
+ROS,23.96728179122017,1.0,50k - 80k,North West,Non-metropolitan district,Urban,Coalition/Minority
+ROT,29.741272256990115,2.0,210k - 290k,Yorkshire and The Humber,Metropolitan district,Urban,Labour
+RUG,14.127847716528208,4.0,110k - 120k,West Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+RUH,16.000946151650652,3.0,90k - 100k,South East,Non-metropolitan district,Urban,Conservative
+RUN,11.951561996779388,4.0,80k - 90k,South East,Non-metropolitan district,Urban,Conservative
+RUS,7.20371579238824,5.0,120k - 130k,East Midlands,Non-metropolitan district,Rural,Conservative
+RUT,8.853493225135875,5.0,0k - 140k,East Midlands,Unitary authority,Rural,Conservative
+RYE,15.731866052726616,3.0,50k - 80k,Yorkshire and The Humber,Non-metropolitan district,Sparse and rural,Coalition/Minority
+SAL,8.333441785897126,5.0,140k - 160k,East of England,Non-metropolitan district,Urban,Liberal Democrat
+SAW,35.1011244420764,1.0,290k - 410k,West Midlands,Metropolitan district,Urban,Labour
+SAY,20.60772053526057,4.0,0k - 140k,Scotland,Scottish unitary authority,Urban with rural areas,Coalition/Minority
+SCA,8.49453021636096,5.0,140k - 160k,East of England,Non-metropolitan district,Rural,Liberal Democrat
+SCB,16.001783137460148,5.0,0k - 140k,Scotland,Scottish unitary authority,Sparse and rural,Coalition/Minority
+SCE,26.36059654091232,1.0,110k - 120k,Yorkshire and The Humber,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+SCR,,,,Yorkshire and The Humber,Combined authority,,
+SDE,14.22996728540662,3.0,110k - 120k,East Midlands,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+SEG,21.39409499261231,2.0,120k - 130k,South West,Non-metropolitan district,Urban with rural areas,Conservative
+SEL,12.8220422644008,4.0,80k - 90k,Yorkshire and The Humber,Non-metropolitan district,Rural,Conservative
+SEV,12.399868215320913,4.0,120k - 130k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+SFK,18.19023282634615,1.0,under 800k,East of England,County,,Conservative
+SFT,27.25746748308673,2.0,210k - 290k,North West,Metropolitan district,Urban,Labour
+SGC,11.674253573395344,5.0,210k - 290k,South West,Unitary authority,Urban,Conservative
+SHA,13.78448118477312,4.0,80k - 90k,South West,Non-metropolitan district,Rural,Conservative
+SHE,24.007313736769436,1.0,110k - 120k,South East,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+SHF,27.29229006776061,2.0,440k - 640k,Yorkshire and The Humber,Metropolitan district,Urban,Coalition/Minority
+SHN,31.78825867596977,1.0,140k - 210k,North West,Metropolitan district,Urban,Labour
+SHO,17.810919731843104,2.0,90k - 100k,East Midlands,Non-metropolitan district,Rural,Conservative
+SHR,17.10501329471182,4.0,290k - 410k,West Midlands,Unitary authority,Rural,Conservative
+SKE,13.39512931809245,4.0,140k - 160k,East Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+SKP,21.091802701219745,3.0,290k - 410k,North West,Metropolitan district,Urban,Coalition/Minority
+SLA,12.490680848431795,4.0,90k - 100k,North West,Non-metropolitan district,Rural,Liberal Democrat
+SLF,34.33304038495719,1.0,210k - 290k,North West,Metropolitan district,Urban,Labour
+SLG,22.9328652458556,3.0,140k - 210k,South East,Unitary authority,Urban,Labour
+SLK,20.958878876540894,3.0,290k - 410k,Scotland,Scottish unitary authority,Urban with rural areas,Coalition/Minority
+SND,30.691123656397966,1.0,210k - 290k,North East,Metropolitan district,Urban,Labour
+SNO,13.13699841709256,4.0,140k - 160k,East of England,Non-metropolitan district,Rural,Conservative
+SOL,17.46025083420373,4.0,210k - 290k,West Midlands,Metropolitan district,Urban,Conservative
+SOM,18.36161709366019,1.0,under 800k,South West,County,,Conservative
+SOS,22.6453823453925,3.0,140k - 210k,East of England,Unitary authority,Urban,Coalition/Minority
+SOX,8.45337051324468,5.0,140k - 160k,South East,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+SPE,14.995468100236373,3.0,90k - 100k,South East,Non-metropolitan district,Urban,Coalition/Minority
+SRI,15.383548245297328,3.0,110k - 120k,North West,Non-metropolitan district,Urban,Coalition/Minority
+SRY,10.343215674748444,2.0,1m +,South East,County,,Conservative
+SSO,17.368434720365926,2.0,170k - 250k,South West,Non-metropolitan district,Rural,Liberal Democrat
+SST,13.352700727524985,4.0,110k - 120k,West Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+STA,13.75422228292541,4.0,140k - 160k,West Midlands,Non-metropolitan district,Urban with rural areas,Conservative
+STE,34.85016334275965,1.0,210k - 290k,West Midlands,Unitary authority,Urban,Coalition/Minority
+STF,15.05308802763244,3.0,90k - 100k,West Midlands,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+STG,15.683261274448258,5.0,0k - 140k,Scotland,Scottish unitary authority,Urban with rural areas,Coalition/Minority
+STH,26.882578120544903,2.0,210k - 290k,South East,Unitary authority,Urban,Conservative
+STN,14.07958985989755,5.0,140k - 210k,London,London borough,Urban,Liberal Democrat
+STO,10.83640144543363,5.0,120k - 130k,South West,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+STR,11.726253854786387,4.0,120k - 130k,West Midlands,Non-metropolitan district,Rural,Conservative
+STS,16.41937945721841,2.0,800k - 1m,West Midlands,County,,Conservative
+STT,25.83641617852725,2.0,140k - 210k,North East,Unitary authority,Urban,Coalition/Minority
+STV,19.857026501223743,2.0,80k - 90k,East of England,Non-metropolitan district,Urban,Labour
+STY,31.71586505802245,1.0,140k - 210k,North East,Metropolitan district,Urban,Labour
+SUR,8.153045697329375,5.0,80k - 90k,South East,Non-metropolitan district,Urban,Conservative
+SWA,25.69964182530036,3.0,210k - 290k,Wales,Welsh unitary authority,Urban,Labour
+SWD,18.612303996975594,4.0,210k - 290k,South West,Unitary authority,Urban,Conservative
+SWK,25.7353338236678,3.0,290k - 410k,London,London borough,Urban,Labour
+SWL,27.5989311243187,1.0,140k - 160k,South East,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+SWT,19.150645011765462,2.0,140k - 160k,South West,Non-metropolitan district,Urban with rural areas,Liberal Democrat
+TAM,31.66438354827744,1.0,210k - 290k,North West,Metropolitan district,Urban,Labour
+TAN,11.926536429552137,4.0,80k - 90k,South East,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+TAW,21.00683846615208,2.0,50k - 80k,West Midlands,Non-metropolitan district,Urban,Conservative
+TEI,15.981603258722595,3.0,140k - 160k,South West,Non-metropolitan district,Urban with rural areas,Liberal Democrat
+TEN,30.496125845211186,1.0,140k - 160k,East of England,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+TES,12.216568825301202,4.0,120k - 130k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+TEW,12.187032204085504,4.0,90k - 100k,South West,Non-metropolitan district,Urban with rural areas,Conservative
+TFW,25.003029585107925,3.0,140k - 210k,West Midlands,Unitary authority,Urban,Labour
+THA,31.44299463085357,1.0,140k - 160k,South East,Non-metropolitan district,Urban,Coalition/Minority
+THE,9.92761804699806,5.0,80k - 90k,East of England,Non-metropolitan district,Urban,Liberal Democrat
+THR,21.129832036067253,3.0,140k - 210k,East of England,Unitary authority,Urban,Conservative
+TOB,28.216444159866157,2.0,0k - 140k,South West,Unitary authority,Urban,Coalition/Minority
+TOF,27.44601113832013,2.0,0k - 140k,Wales,Welsh unitary authority,Urban,Labour
+TON,13.53495895666387,4.0,120k - 130k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+TOR,23.23329084330643,1.0,50k - 80k,South West,Non-metropolitan district,Sparse and rural,Coalition/Minority
+TRF,16.14333361982523,5.0,210k - 290k,North West,Metropolitan district,Urban,Labour
+TUN,11.320222313938206,5.0,120k - 130k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+TVCA,,,,North East,Combined authority,,
+TWH,27.521556559762267,2.0,290k - 410k,London,London borough,Urban,Labour
+UTT,9.216569081109506,5.0,80k - 90k,East of England,Non-metropolitan district,Rural,Independent
+VAL,8.364813730175651,5.0,140k - 160k,South East,Non-metropolitan district,Urban with rural areas,Liberal Democrat
+VGL,18.67926521213294,4.0,0k - 140k,Wales,Welsh unitary authority,Urban with rural areas,Coalition/Minority
+WAE,7.510415956874173,5.0,120k - 130k,South East,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+WAR,12.860229108844829,2.0,under 800k,West Midlands,County,,Conservative
+WAT,15.490773579630762,3.0,90k - 100k,East of England,Non-metropolitan district,Urban,Liberal Democrat
+WAW,11.990352020479568,4.0,140k - 160k,West Midlands,Non-metropolitan district,Urban,Coalition/Minority
+WBK,10.021977734301045,5.0,140k - 210k,South East,Unitary authority,Urban with rural areas,Conservative
+WDE,18.216201914115707,2.0,50k - 80k,South West,Non-metropolitan district,Sparse and rural,Coalition/Minority
+WDU,28.878325797253176,2.0,0k - 140k,Scotland,Scottish unitary authority,Urban,Coalition/Minority
+WEA,12.36266103731228,4.0,140k - 160k,South East,Non-metropolitan district,Urban with rural areas,Conservative
+WECA,,,,South West,Combined authority,,
+WEW,14.314115081719397,3.0,120k - 130k,East of England,Non-metropolitan district,Urban,Conservative
+WFT,25.230597303805656,3.0,210k - 290k,London,London borough,Urban,Labour
+WGN,25.92256949388732,2.0,290k - 410k,North West,Metropolitan district,Urban,Labour
+WIL,13.427684331152092,5.0,440k - 640k,South West,Unitary authority,Urban with rural areas,Conservative
+WIN,9.654869893239578,5.0,120k - 130k,South East,Non-metropolitan district,Rural,Liberal Democrat
+WKF,27.36930997209398,2.0,290k - 410k,Yorkshire and The Humber,Metropolitan district,Urban with rural areas,Labour
+WLA,18.646326509544554,2.0,110k - 120k,North West,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+WLI,20.508733680370447,2.0,90k - 100k,East Midlands,Non-metropolitan district,Rural,Coalition/Minority
+WLL,32.175975336102965,1.0,210k - 290k,West Midlands,Metropolitan district,Urban,Conservative
+WLN,19.42218209299943,4.0,140k - 210k,Scotland,Scottish unitary authority,Urban with rural areas,Coalition/Minority
+WLV,32.534546645807765,1.0,210k - 290k,West Midlands,Metropolitan district,Urban,Labour
+WMCA,,,,West Midlands,Combined authority,,
+WND,16.635101126253875,4.0,290k - 410k,London,London borough,Urban,Conservative
+WNM,8.423452477182972,5.0,140k - 210k,South East,Unitary authority,Urban,Conservative
+WNT,17.60152903098383,4.0,290k - 410k,East Midlands,Unitary authority,Urban with rural areas,Conservative
+WOC,20.55670791922704,2.0,90k - 100k,West Midlands,Non-metropolitan district,Urban,Conservative
+WOI,10.854296121754489,5.0,90k - 100k,South East,Non-metropolitan district,Urban,Coalition/Minority
+WOK,5.83357479882421,5.0,140k - 210k,South East,Unitary authority,Urban,Conservative
+WOR,18.05782964366818,1.0,under 800k,West Midlands,County,,Conservative
+WOT,17.310814425250975,3.0,110k - 120k,South East,Non-metropolitan district,Urban,Conservative
+WOX,8.736159973970338,5.0,110k - 120k,South East,Non-metropolitan district,Rural,Conservative
+WRL,29.79318516963931,2.0,290k - 410k,North West,Metropolitan district,Urban,Coalition/Minority
+WRT,19.102023684135347,4.0,140k - 210k,North West,Unitary authority,Urban,Labour
+WRX,23.452547124825102,3.0,0k - 140k,Wales,Welsh unitary authority,Urban with rural areas,Coalition/Minority
+WSK,16.214400346281668,3.0,170k - 250k,East of England,Non-metropolitan district,Urban with rural areas,Conservative
+WSM,19.99017473413517,4.0,210k - 290k,London,London borough,Urban,Conservative
+WSX,14.18833713527553,2.0,800k - 1m,South East,County,,Conservative
+WYC,15.846520663200264,3.0,120k - 130k,West Midlands,Non-metropolitan district,Rural,Conservative
+WYCA,,,,Yorkshire and The Humber,Combined authority,,
+WYE,22.784010227957065,1.0,90k - 100k,West Midlands,Non-metropolitan district,Urban with rural areas,Coalition/Minority
+WYR,20.76716669491751,2.0,110k - 120k,North West,Non-metropolitan district,Urban with rural areas,Conservative
+YOR,11.81076590319916,5.0,210k - 290k,Yorkshire and The Humber,Unitary authority,Urban,Coalition/Minority
+ZET,13.89227279320911,5.0,0k - 140k,Scotland,Scottish unitary authority,Sparse and rural,Independent
