@@ -1,0 +1,182 @@
+official-name,local-authority-code,s1_gov,s2_m&a,s3_c&a,s4_coms,s5_mset,s6_cb,s7_dsi,s8_est,s9_ee,weighted_total,local-authority-type-name,council-quintile,pop_bucket,region,ruc_cluster,political_control,group
+Somerset West and Taunton Council,SWT,81,100,100,89,100,100,60,100,100,91,Non-metropolitan district,2.0,140k - 160k,South West,Urban with rural areas,Liberal Democrat,District councils
+Staffordshire Moorlands District Council,STF,71,61,100,100,80,100,100,100,75,87,Non-metropolitan district,3.0,90k - 100k,West Midlands,Urban with rural areas,Coalition/Minority,District councils
+East Devon District Council,EDE,56,100,71,89,80,100,40,80,100,78,Non-metropolitan district,4.0,140k - 160k,South West,Rural,Coalition/Minority,District councils
+Stroud District Council,STO,71,83,100,100,80,75,20,60,75,77,Non-metropolitan district,5.0,120k - 130k,South West,Urban with rural areas,Coalition/Minority,District councils
+Waverley Borough Council,WAE,86,94,86,89,80,100,0,60,75,76,Non-metropolitan district,5.0,120k - 130k,South East,Urban with rural areas,Coalition/Minority,District councils
+Maidstone Borough Council,MAI,95,83,100,89,40,100,20,20,75,72,Non-metropolitan district,3.0,170k - 250k,South East,Urban with rural areas,Conservative,District councils
+West Devon Borough Council,WDE,76,61,86,89,80,100,40,40,75,72,Non-metropolitan district,2.0,50k - 80k,South West,Sparse and rural,Coalition/Minority,District councils
+Mendip District Council,MEN,76,100,43,78,80,100,40,40,100,71,Non-metropolitan district,3.0,110k - 120k,South West,Urban with rural areas,Liberal Democrat,District councils
+Sedgemoor District Council,SEG,62,100,56,67,60,100,20,100,100,71,Non-metropolitan district,2.0,120k - 130k,South West,Urban with rural areas,Conservative,District councils
+Woking Borough Council,WOI,52,94,86,78,100,75,0,60,75,70,Non-metropolitan district,5.0,90k - 100k,South East,Urban,Coalition/Minority,District councils
+South Derbyshire District Council,SDE,95,50,86,89,100,25,40,40,50,70,Non-metropolitan district,3.0,110k - 120k,East Midlands,Urban with rural areas,Coalition/Minority,District councils
+North Kesteven District Council,NKE,71,100,71,67,100,75,40,20,50,69,Non-metropolitan district,5.0,110k - 120k,East Midlands,Rural,Coalition/Minority,District councils
+South Hams District Council,SHA,71,56,56,89,100,100,0,60,75,66,Non-metropolitan district,4.0,80k - 90k,South West,Rural,Conservative,District councils
+Reigate and Banstead Borough Council,REI,48,94,86,78,60,50,0,60,75,64,Non-metropolitan district,5.0,140k - 160k,South East,Urban,Conservative,District councils
+Swale Borough Council,SWL,62,72,86,67,80,100,40,0,75,64,Non-metropolitan district,1.0,140k - 160k,South East,Urban with rural areas,Coalition/Minority,District councils
+Mole Valley District Council,MOL,67,94,86,56,60,75,0,60,50,64,Non-metropolitan district,5.0,80k - 90k,South East,Urban with rural areas,Liberal Democrat,District councils
+Cambridge City Council,CAB,48,72,86,78,80,75,60,0,75,64,Non-metropolitan district,3.0,120k - 130k,East of England,Urban,Labour,District councils
+Tonbridge and Malling Borough Council,TON,62,72,86,78,80,100,20,20,50,64,Non-metropolitan district,4.0,120k - 130k,South East,Urban with rural areas,Conservative,District councils
+West Suffolk Council,WSK,81,67,71,67,80,75,0,60,75,64,Non-metropolitan district,3.0,170k - 250k,East of England,Urban with rural areas,Conservative,District councils
+Surrey Heath Borough Council,SUR,56,94,86,67,60,50,0,60,50,63,Non-metropolitan district,5.0,80k - 90k,South East,Urban,Conservative,District councils
+Torridge District Council,TOR,62,56,86,89,80,50,0,40,75,62,Non-metropolitan district,1.0,50k - 80k,South West,Sparse and rural,Coalition/Minority,District councils
+Exeter City Council,EXE,48,50,86,67,60,75,40,60,75,61,Non-metropolitan district,3.0,120k - 130k,South West,Urban,Labour,District councils
+Fareham Borough Council,FAR,38,89,43,78,100,50,40,40,75,61,Non-metropolitan district,5.0,110k - 120k,South East,Urban,Conservative,District councils
+Canterbury City Council,CAT,56,61,100,44,60,100,20,40,75,60,Non-metropolitan district,3.0,170k - 250k,South East,Urban,Conservative,District councils
+South Ribble Borough Council,SRI,43,72,71,67,80,75,0,80,50,60,Non-metropolitan district,3.0,110k - 120k,North West,Urban,Coalition/Minority,District councils
+Epping Forest District Council,EPP,52,61,56,67,60,100,60,40,50,59,Non-metropolitan district,3.0,120k - 130k,East of England,Urban with rural areas,Conservative,District councils
+Elmbridge Borough Council,ELM,48,94,86,44,80,50,0,60,25,59,Non-metropolitan district,5.0,140k - 160k,South East,Urban,Coalition/Minority,District councils
+Folkestone and Hythe District Council,SHE,71,56,86,56,60,100,20,20,75,59,Non-metropolitan district,1.0,110k - 120k,South East,Urban with rural areas,Coalition/Minority,District councils
+Mid Suffolk District Council,MSU,67,72,71,67,40,50,0,60,75,57,Non-metropolitan district,4.0,90k - 100k,East of England,Sparse and rural,Coalition/Minority,District councils
+Thanet District Council,THA,48,67,71,78,20,100,20,60,75,57,Non-metropolitan district,1.0,140k - 160k,South East,Urban,Coalition/Minority,District councils
+Babergh District Council,BAB,67,72,71,67,40,50,0,60,75,57,Non-metropolitan district,3.0,80k - 90k,East of England,Rural,Coalition/Minority,District councils
+Blaby District Council,BLA,52,56,56,78,100,50,0,60,25,56,Non-metropolitan district,5.0,90k - 100k,East Midlands,Urban with rural areas,Conservative,District councils
+Lewes District Council,LEE,81,50,71,56,100,0,20,40,50,56,Non-metropolitan district,3.0,90k - 100k,South East,Urban with rural areas,Coalition/Minority,District councils
+Mid Devon District Council,MDE,43,56,71,56,80,75,20,60,75,56,Non-metropolitan district,3.0,80k - 90k,South West,Rural,Coalition/Minority,District councils
+South Somerset District Council,SSO,52,100,56,56,40,100,0,40,75,56,Non-metropolitan district,2.0,170k - 250k,South West,Rural,Liberal Democrat,District councils
+Allerdale Borough Council,ALL,62,67,43,56,60,50,40,80,50,56,Non-metropolitan district,1.0,90k - 100k,North West,Rural,Coalition/Minority,District councils
+Ashford Borough Council,ASF,43,61,86,78,20,100,20,20,75,55,Non-metropolitan district,2.0,120k - 130k,South East,Urban with rural areas,Conservative,District councils
+Epsom and Ewell Borough Council,EPS,48,78,86,44,40,50,0,60,75,55,Non-metropolitan district,5.0,80k - 90k,South East,Urban,Independent,District councils
+Three Rivers District Council,THE,28,78,43,89,100,75,20,0,75,55,Non-metropolitan district,5.0,80k - 90k,East of England,Urban,Liberal Democrat,District councils
+Basingstoke and Deane Borough Council,BAN,62,44,86,56,80,50,0,40,50,54,Non-metropolitan district,4.0,170k - 250k,South East,Urban with rural areas,Conservative,District councils
+Adur District Council,ADU,62,67,28,56,60,75,40,60,50,54,Non-metropolitan district,2.0,50k - 80k,South East,Urban,Conservative,District councils
+West Lindsey District Council,WLI,67,67,43,78,60,75,0,40,50,54,Non-metropolitan district,2.0,90k - 100k,East Midlands,Rural,Coalition/Minority,District councils
+Gravesham Borough Council,GRA,56,61,71,56,40,100,20,40,50,54,Non-metropolitan district,2.0,110k - 120k,South East,Urban with rural areas,Labour,District councils
+West Lancashire Borough Council,WLA,62,50,86,56,100,50,0,20,25,54,Non-metropolitan district,2.0,110k - 120k,North West,Urban with rural areas,Coalition/Minority,District councils
+Sevenoaks District Council,SEV,48,78,71,67,40,100,20,0,75,54,Non-metropolitan district,4.0,120k - 130k,South East,Urban with rural areas,Conservative,District councils
+Carlisle City Council,CAR,67,28,71,67,100,75,0,40,25,54,Non-metropolitan district,2.0,110k - 120k,North West,Urban with rural areas,Conservative,District councils
+St Albans City and District Council,SAL,56,67,43,78,60,50,0,40,75,53,Non-metropolitan district,5.0,140k - 160k,East of England,Urban,Liberal Democrat,District councils
+Warwick District Council,WAW,90,56,43,67,80,50,0,0,75,53,Non-metropolitan district,4.0,140k - 160k,West Midlands,Urban,Coalition/Minority,District councils
+Worthing Borough Council,WOT,62,67,28,56,60,75,40,60,25,53,Non-metropolitan district,3.0,110k - 120k,South East,Urban,Conservative,District councils
+Colchester Borough Council,COL,48,28,86,67,60,100,0,40,50,52,Non-metropolitan district,3.0,170k - 250k,East of England,Urban with rural areas,Coalition/Minority,District councils
+Derbyshire Dales District Council,DEB,62,50,56,44,100,25,20,20,75,51,Non-metropolitan district,4.0,50k - 80k,East Midlands,Rural,Conservative,District councils
+Ipswich Borough Council,IPS,62,33,56,89,60,50,0,40,50,51,Non-metropolitan district,1.0,140k - 160k,East of England,Urban,Labour,District councils
+Dover District Council,DOV,62,50,71,78,20,100,20,0,50,51,Non-metropolitan district,1.0,110k - 120k,South East,Urban with rural areas,Conservative,District councils
+Tunbridge Wells Borough Council,TUN,48,56,56,56,60,100,20,20,50,50,Non-metropolitan district,5.0,120k - 130k,South East,Urban with rural areas,Conservative,District councils
+Eastbourne Borough Council,EAS,43,44,86,44,100,50,0,20,50,50,Non-metropolitan district,1.0,90k - 100k,South East,Urban,Liberal Democrat,District councils
+West Oxfordshire District Council,WOX,48,44,43,100,80,50,0,20,50,50,Non-metropolitan district,5.0,110k - 120k,South East,Rural,Conservative,District councils
+Wychavon District Council,WYC,71,28,56,33,80,100,0,40,75,49,Non-metropolitan district,3.0,120k - 130k,West Midlands,Rural,Conservative,District councils
+Winchester City Council,WIN,71,22,71,89,60,25,0,0,75,49,Non-metropolitan district,5.0,120k - 130k,South East,Rural,Liberal Democrat,District councils
+Oxford City Council,OXO,52,50,86,44,80,25,20,20,0,48,Non-metropolitan district,3.0,140k - 160k,South East,Urban,Labour,District councils
+Basildon Borough Council,BAI,43,56,71,67,60,50,0,20,50,48,Non-metropolitan district,1.0,170k - 250k,East of England,Urban,Conservative,District councils
+Eastleigh Borough Council,EAT,24,28,71,89,40,75,0,40,75,47,Non-metropolitan district,5.0,140k - 160k,South East,Urban,Liberal Democrat,District councils
+Worcester City Council,WOC,48,61,43,67,60,25,0,60,25,47,Non-metropolitan district,2.0,90k - 100k,West Midlands,Urban,Conservative,District councils
+Gedling Borough Council,GED,52,78,43,44,60,25,0,40,50,46,Non-metropolitan district,3.0,110k - 120k,East Midlands,Urban with rural areas,Labour,District councils
+Rushmoor Borough Council,RUH,38,50,86,22,20,100,0,60,75,46,Non-metropolitan district,3.0,90k - 100k,South East,Urban,Conservative,District councils
+Rushcliffe Borough Council,RUS,38,78,56,44,60,50,0,0,100,46,Non-metropolitan district,5.0,120k - 130k,East Midlands,Rural,Conservative,District councils
+Wyre Borough Council,WYR,33,39,56,44,80,75,0,60,50,46,Non-metropolitan district,2.0,110k - 120k,North West,Urban with rural areas,Conservative,District councils
+Chichester District Council,CHI,62,56,43,44,20,25,20,80,25,45,Non-metropolitan district,4.0,120k - 130k,South East,Rural,Coalition/Minority,District councils
+Forest of Dean District Council,FOE,48,50,43,78,40,50,0,20,75,45,Non-metropolitan district,2.0,80k - 90k,South West,Sparse and rural,Coalition/Minority,District councils
+Uttlesford District Council,UTT,38,56,43,67,60,50,0,20,75,45,Non-metropolitan district,5.0,80k - 90k,East of England,Rural,Independent,District councils
+Cherwell District Council,CHR,56,44,71,44,80,50,0,20,0,45,Non-metropolitan district,3.0,140k - 160k,South East,Urban with rural areas,Conservative,District councils
+Tandridge District Council,TAN,19,94,71,22,40,50,0,60,25,45,Non-metropolitan district,4.0,80k - 90k,South East,Urban with rural areas,Coalition/Minority,District councils
+Havant Borough Council,HAA,33,56,71,56,20,75,0,20,75,44,Non-metropolitan district,2.0,120k - 130k,South East,Urban,Conservative,District councils
+Dacorum Borough Council,DAC,28,28,71,56,80,25,0,40,75,44,Non-metropolitan district,4.0,140k - 160k,East of England,Urban,Conservative,District councils
+Scarborough Borough Council,SCE,28,39,86,22,80,25,0,60,50,44,Non-metropolitan district,1.0,110k - 120k,Yorkshire and The Humber,Urban with rural areas,Coalition/Minority,District councils
+North West Leicestershire District Council,NWL,33,56,43,44,80,25,0,60,25,43,Non-metropolitan district,3.0,90k - 100k,East Midlands,Urban with rural areas,Conservative,District councils
+East Cambridgeshire District Council,ECA,43,11,28,78,80,50,0,40,75,42,Non-metropolitan district,5.0,80k - 90k,East of England,Rural,Conservative,District councils
+Harborough District Council,HAO,19,72,56,44,20,100,0,20,75,42,Non-metropolitan district,5.0,90k - 100k,East Midlands,Rural,Conservative,District councils
+Mansfield District Council,MAS,43,17,28,67,100,50,0,60,0,42,Non-metropolitan district,1.0,110k - 120k,East Midlands,Urban,Coalition/Minority,District councils
+Gosport Borough Council,GOS,38,50,71,44,60,25,0,20,50,42,Non-metropolitan district,2.0,80k - 90k,South East,Urban,Conservative,District councils
+Hastings Borough Council,HAS,38,28,56,56,80,75,0,0,75,42,Non-metropolitan district,1.0,80k - 90k,South East,Urban,Labour,District councils
+Teignbridge District Council,TEI,38,50,43,56,40,50,0,40,75,42,Non-metropolitan district,3.0,140k - 160k,South West,Urban with rural areas,Liberal Democrat,District councils
+South Norfolk District Council,SNO,19,67,28,44,60,100,20,0,75,41,Non-metropolitan district,4.0,140k - 160k,East of England,Rural,Conservative,District councils
+Hertsmere Borough Council,HER,14,78,71,56,40,0,0,20,50,41,Non-metropolitan district,4.0,110k - 120k,East of England,Urban,Conservative,District councils
+Newark and Sherwood District Council,NEA,56,56,56,33,40,0,20,20,50,41,Non-metropolitan district,2.0,120k - 130k,East Midlands,Rural,Conservative,District councils
+Cotswold District Council,COT,33,17,43,56,60,75,0,40,75,40,Non-metropolitan district,5.0,80k - 90k,South West,Rural,Liberal Democrat,District councils
+Guildford Borough Council,GRT,33,94,43,11,20,50,0,60,25,39,Non-metropolitan district,5.0,140k - 160k,South East,Urban with rural areas,Coalition/Minority,District councils
+High Peak Borough Council,HIG,48,0,56,44,100,0,20,20,50,39,Non-metropolitan district,3.0,80k - 90k,East Midlands,Urban with rural areas,Labour,District councils
+South Lakeland District Council,SLA,48,33,28,44,60,100,20,20,25,39,Non-metropolitan district,4.0,90k - 100k,North West,Rural,Liberal Democrat,District councils
+South Cambridgeshire District Council,SCA,38,39,86,56,40,25,0,0,25,39,Non-metropolitan district,5.0,140k - 160k,East of England,Rural,Liberal Democrat,District councils
+Braintree District Council,BRA,24,11,43,78,60,75,0,40,25,38,Non-metropolitan district,3.0,140k - 160k,East of England,Urban with rural areas,Conservative,District councils
+Malvern Hills District Council,MAV,52,50,43,33,40,25,0,20,50,37,Non-metropolitan district,3.0,80k - 90k,West Midlands,Sparse and rural,Coalition/Minority,District councils
+Stafford Borough Council,STA,43,11,71,67,0,0,0,40,75,37,Non-metropolitan district,4.0,140k - 160k,West Midlands,Urban with rural areas,Conservative,District councils
+Stevenage Borough Council,STV,28,39,28,44,40,0,0,80,75,37,Non-metropolitan district,2.0,80k - 90k,East of England,Urban,Labour,District councils
+Watford Borough Council,WAT,48,33,28,56,60,50,0,0,75,37,Non-metropolitan district,3.0,90k - 100k,East of England,Urban,Liberal Democrat,District councils
+Richmondshire District Council,RIH,81,6,86,33,20,25,0,20,0,36,Non-metropolitan district,4.0,50k - 80k,Yorkshire and The Humber,Rural,Coalition/Minority,District councils
+South Staffordshire Council,SST,43,72,14,33,40,0,0,20,75,34,Non-metropolitan district,4.0,110k - 120k,West Midlands,Urban with rural areas,Conservative,District councils
+North East Derbyshire District Council,NED,33,72,43,33,20,50,0,20,0,34,Non-metropolitan district,2.0,90k - 100k,East Midlands,Urban,Conservative,District councils
+Norwich City Council,NOW,43,50,28,56,60,0,0,0,0,33,Non-metropolitan district,1.0,140k - 160k,East of England,Urban,Labour,District councils
+Stratford-on-Avon District Council,STR,56,33,43,11,60,25,0,20,50,33,Non-metropolitan district,4.0,120k - 130k,West Midlands,Rural,Conservative,District councils
+Bolsover District Council,BOS,33,11,43,44,20,75,20,40,25,33,Non-metropolitan district,1.0,80k - 90k,East Midlands,Rural,Coalition/Minority,District councils
+Craven District Council,CRA,38,33,14,33,60,75,40,0,25,33,Non-metropolitan district,4.0,50k - 80k,Yorkshire and The Humber,Rural,Coalition/Minority,District councils
+Broxbourne Borough Council,BRX,28,28,86,33,20,0,20,0,25,32,Non-metropolitan district,2.0,90k - 100k,East of England,Urban,Conservative,District councils
+East Hertfordshire District Council,EHE,28,28,56,44,20,0,0,40,25,31,Non-metropolitan district,5.0,140k - 160k,East of England,Urban with rural areas,Conservative,District councils
+North Hertfordshire District Council,NHE,52,44,14,33,40,0,0,20,75,31,Non-metropolitan district,5.0,120k - 130k,East of England,Urban,Coalition/Minority,District councils
+Oadby and Wigston Borough Council,OAD,24,22,56,44,20,50,0,40,0,31,Non-metropolitan district,4.0,50k - 80k,East Midlands,Urban,Liberal Democrat,District councils
+Pendle Borough Council,PEN,43,28,71,33,20,0,0,20,0,30,Non-metropolitan district,1.0,80k - 90k,North West,Urban,Conservative,District councils
+Newcastle-under-Lyme Borough Council,NEC,38,17,28,33,60,50,0,0,75,30,Non-metropolitan district,2.0,120k - 130k,West Midlands,Urban with rural areas,Conservative,District councils
+Wealden District Council,WEA,38,11,43,56,80,0,0,0,0,30,Non-metropolitan district,4.0,140k - 160k,South East,Urban with rural areas,Conservative,District councils
+Horsham District Council,HOR,48,11,43,33,40,75,0,20,0,30,Non-metropolitan district,5.0,140k - 160k,South East,Rural,Conservative,District councils
+Broxtowe Borough Council,BRT,24,11,43,44,40,25,0,40,0,28,Non-metropolitan district,3.0,110k - 120k,East Midlands,Urban,Coalition/Minority,District councils
+Broadland District Council,BRO,0,61,56,11,20,25,0,0,100,28,Non-metropolitan district,4.0,120k - 130k,East of England,Rural,Conservative,District councils
+Welwyn Hatfield Borough Council,WEW,43,17,28,22,60,25,0,20,25,27,Non-metropolitan district,3.0,120k - 130k,East of England,Urban,Conservative,District councils
+Borough Council of Kings Lynn and West Norfolk,KIN,38,11,14,56,60,0,0,20,0,26,Non-metropolitan district,1.0,140k - 160k,East of England,Sparse and rural,Conservative,District councils
+Chesterfield Borough Council,CHS,52,22,43,22,20,0,0,20,0,25,Non-metropolitan district,1.0,90k - 100k,East Midlands,Urban,Labour,District councils
+East Lindsey District Council,ELI,48,6,43,33,40,25,0,0,0,25,Non-metropolitan district,1.0,140k - 160k,East Midlands,Rural,Conservative,District councils
+Copeland Borough Council,COP,38,6,28,33,20,50,0,20,50,25,Non-metropolitan district,1.0,50k - 80k,North West,Rural,Labour,District councils
+East Staffordshire Borough Council,EST,28,28,14,44,20,25,0,20,25,24,Non-metropolitan district,2.0,120k - 130k,West Midlands,Urban with rural areas,Conservative,District councils
+East Hampshire District Council,EHA,24,28,14,44,20,0,20,0,75,24,Non-metropolitan district,5.0,120k - 130k,South East,Urban with rural areas,Conservative,District councils
+Cheltenham Borough Council,CHT,43,22,0,44,80,0,0,0,0,24,Non-metropolitan district,3.0,110k - 120k,South West,Urban,Liberal Democrat,District councils
+Hart District Council,HAT,38,17,43,44,20,0,0,0,0,23,Non-metropolitan district,5.0,90k - 100k,South East,Urban with rural areas,Coalition/Minority,District councils
+Test Valley Borough Council,TES,33,6,28,44,40,25,0,0,0,22,Non-metropolitan district,4.0,120k - 130k,South East,Urban with rural areas,Conservative,District councils
+Rother District Council,ROH,24,22,28,44,20,0,0,20,0,22,Non-metropolitan district,2.0,90k - 100k,South East,Rural,Coalition/Minority,District councils
+Chelmsford City Council,CHL,28,17,56,11,20,0,0,20,25,22,Non-metropolitan district,4.0,170k - 250k,East of England,Urban with rural areas,Liberal Democrat,District councils
+Hambleton District Council,HAE,19,17,43,33,20,0,0,20,25,22,Non-metropolitan district,4.0,80k - 90k,Yorkshire and The Humber,Rural,Conservative,District councils
+Charnwood Borough Council,CHA,24,17,28,22,20,75,0,0,25,21,Non-metropolitan district,4.0,170k - 250k,East Midlands,Urban,Conservative,District councils
+Ryedale District Council,RYE,33,11,86,11,0,0,0,0,0,21,Non-metropolitan district,3.0,50k - 80k,Yorkshire and The Humber,Sparse and rural,Coalition/Minority,District councils
+Barrow-in-Furness Borough Council,BAR,24,0,43,33,40,25,0,0,0,20,Non-metropolitan district,1.0,50k - 80k,North West,Urban with rural areas,Labour,District councils
+Mid Sussex District Council,MSS,28,56,14,22,20,0,0,0,0,20,Non-metropolitan district,5.0,140k - 160k,South East,Urban,Conservative,District councils
+Amber Valley Borough Council,AMB,24,6,14,11,40,50,20,0,75,20,Non-metropolitan district,2.0,120k - 130k,East Midlands,Urban with rural areas,Conservative,District councils
+Breckland District Council,BRE,33,0,28,33,20,0,0,20,25,20,Non-metropolitan district,2.0,140k - 160k,East of England,Sparse and rural,Conservative,District councils
+Harrogate Borough Council,HAG,19,11,28,33,20,25,20,0,0,19,Non-metropolitan district,5.0,140k - 160k,Yorkshire and The Humber,Urban with rural areas,Conservative,District councils
+City of Lincoln Council,LIC,33,6,14,44,40,0,0,0,0,19,Non-metropolitan district,1.0,90k - 100k,East Midlands,Urban,Labour,District councils
+Wyre Forest District Council,WYE,14,0,43,33,20,0,0,20,0,18,Non-metropolitan district,1.0,90k - 100k,West Midlands,Urban with rural areas,Coalition/Minority,District councils
+Tendring District Council,TEN,33,0,14,33,20,0,0,20,0,16,Non-metropolitan district,1.0,140k - 160k,East of England,Urban with rural areas,Coalition/Minority,District councils
+Rossendale Borough Council,ROS,24,17,14,33,20,0,0,0,25,16,Non-metropolitan district,1.0,50k - 80k,North West,Urban,Coalition/Minority,District councils
+North Norfolk District Council,NNO,14,6,14,56,0,0,0,0,50,16,Non-metropolitan district,2.0,110k - 120k,East of England,Sparse and rural,Liberal Democrat,District councils
+Hinckley and Bosworth Borough Council,HIN,14,6,14,56,0,0,0,20,0,15,Non-metropolitan district,4.0,110k - 120k,East Midlands,Urban with rural areas,Liberal Democrat,District councils
+South Kesteven District Council,SKE,28,0,28,11,40,0,0,0,0,14,Non-metropolitan district,4.0,140k - 160k,East Midlands,Urban with rural areas,Conservative,District councils
+Boston Borough Council,BOT,0,0,28,33,20,0,0,0,25,13,Non-metropolitan district,1.0,50k - 80k,East Midlands,Urban with rural areas,Coalition/Minority,District councils
+Lancaster City Council,LAC,28,22,14,0,0,0,0,20,0,12,Non-metropolitan district,1.0,140k - 160k,North West,Urban with rural areas,Coalition/Minority,District councils
+Bromsgrove District Council,BRM,10,0,0,33,20,0,0,20,0,10,Non-metropolitan district,5.0,90k - 100k,West Midlands,Urban,Conservative,District councils
+Tewkesbury Borough Council,TEW,14,0,28,0,40,0,0,0,0,10,Non-metropolitan district,4.0,90k - 100k,South West,Urban with rural areas,Conservative,District councils
+Harlow District Council,HAR,10,0,28,0,0,0,0,0,0,6,Non-metropolitan district,2.0,80k - 90k,East of England,Urban,Conservative,District councils
+Rochford District Council,ROC,5,0,14,0,0,0,0,0,0,3,Non-metropolitan district,5.0,80k - 90k,East of England,Urban,Conservative,District councils
+Vale of White Horse District Council,VAL,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,5.0,140k - 160k,South East,Urban with rural areas,Liberal Democrat,District councils
+Tamworth Borough Council,TAW,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,2.0,50k - 80k,West Midlands,Urban,Conservative,District councils
+Dartford Borough Council,DAR,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,2.0,110k - 120k,South East,Urban,Conservative,District councils
+Eden District Council,EDN,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,3.0,50k - 80k,North West,Sparse and rural,Coalition/Minority,District councils
+Erewash Borough Council,ERE,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,2.0,110k - 120k,East Midlands,Urban,Conservative,District councils
+East Suffolk Council,ESK,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,2.0,170k - 250k,East of England,Urban with rural areas,Conservative,District councils
+Fenland District Council,FEN,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,1.0,90k - 100k,East of England,Urban with rural areas,Conservative,District councils
+Fylde Borough Council,FYL,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,3.0,80k - 90k,North West,Urban with rural areas,Conservative,District councils
+Gloucester City Council,GLO,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,1.0,120k - 130k,South West,Urban,Conservative,District councils
+Great Yarmouth Borough Council,GRY,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,1.0,90k - 100k,East of England,Urban with rural areas,Conservative,District councils
+Crawley Borough Council,CRW,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,2.0,110k - 120k,South East,Urban,Coalition/Minority,District councils
+Arun District Council,ARU,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,2.0,140k - 160k,South East,Urban,Coalition/Minority,District councils
+Ashfield District Council,ASH,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,1.0,120k - 130k,East Midlands,Urban,Independent,District councils
+Bassetlaw District Council,BAE,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,1.0,110k - 120k,East Midlands,Urban with rural areas,Labour,District councils
+Brentwood Borough Council,BRW,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,5.0,50k - 80k,East of England,Urban with rural areas,Conservative,District councils
+Burnley Borough Council,BUN,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,1.0,80k - 90k,North West,Urban,Coalition/Minority,District councils
+Cannock Chase District Council,CAN,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,2.0,90k - 100k,West Midlands,Urban,Conservative,District councils
+Castle Point Borough Council,CAS,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,3.0,80k - 90k,East of England,Urban,Conservative,District councils
+Chorley Borough Council,CHO,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,3.0,120k - 130k,North West,Urban with rural areas,Labour,District councils
+Spelthorne Borough Council,SPE,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,3.0,90k - 100k,South East,Urban,Coalition/Minority,District councils
+Nuneaton and Bedworth Borough Council,NUN,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,1.0,120k - 130k,West Midlands,Urban,Conservative,District councils
+North Warwickshire Borough Council,NWA,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,2.0,50k - 80k,West Midlands,Rural,Conservative,District councils
+Preston City Council,PRE,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,1.0,140k - 160k,North West,Urban,Labour,District councils
+Redditch Borough Council,RED,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,1.0,80k - 90k,West Midlands,Urban,Conservative,District councils
+Ribble Valley Borough Council,RIB,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,5.0,50k - 80k,North West,Rural,Conservative,District councils
+Rugby Borough Council,RUG,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,4.0,110k - 120k,West Midlands,Urban with rural areas,Conservative,District councils
+Runnymede Borough Council,RUN,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,4.0,80k - 90k,South East,Urban,Conservative,District councils
+Selby District Council,SEL,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,4.0,80k - 90k,Yorkshire and The Humber,Rural,Conservative,District councils
+South Holland District Council,SHO,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,2.0,90k - 100k,East Midlands,Rural,Conservative,District councils
+South Oxfordshire District Council,SOX,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,5.0,140k - 160k,South East,Urban with rural areas,Coalition/Minority,District councils
+New Forest District Council,NEW,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,4.0,170k - 250k,South East,Urban with rural areas,Conservative,District councils
+Huntingdonshire District Council,HUN,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,4.0,170k - 250k,East of England,Rural,Conservative,District councils
+Hyndburn Borough Council,HYN,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,1.0,80k - 90k,North West,Urban,Labour,District councils
+Lichfield District Council,LIF,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,4.0,110k - 120k,West Midlands,Urban with rural areas,Conservative,District councils
+Maldon District Council,MAL,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,3.0,50k - 80k,East of England,Rural,Independent,District councils
+Melton Borough Council,MEL,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,4.0,50k - 80k,East Midlands,Urban with rural areas,Conservative,District councils
+North Devon District Council,NDE,0,0,0,0,0,0,0,0,0,0,Non-metropolitan district,2.0,90k - 100k,South West,Rural,Liberal Democrat,District councils

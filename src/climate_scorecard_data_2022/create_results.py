@@ -8,6 +8,8 @@ source_file = Path("data", "raw", "individual_answers.csv")
 
 data_package_folder = Path("data", "data_packages", "scorecard_data")
 
+split_data_package_folder = Path("data", "data_packages", "scorecards_by_council_group")
+
 labels = {
     "s1_gov": "Governance, development and funding",
     "s2_m&a": "Mitigation and adaptation",
@@ -33,9 +35,11 @@ weights = {
     "s9_ee": 0.05,
 }
 
+
 def questions_list():
     df = pd.read_csv(Path("data", "raw", "questions.csv"))
     df.to_csv(Path(data_package_folder, f"questions_list.csv"), index=False)
+
 
 def section_weighting():
     """
@@ -52,7 +56,6 @@ def individual_answers():
     Smallest possible version of scores for each question
     """
 
-
     df = pd.read_csv(Path("data", "raw", "individual_answers.csv"))
     df = df[
         [
@@ -64,6 +67,8 @@ def individual_answers():
             "max_score",
         ]
     ]
+
+    df = df.sort_values("local-authority-code")
 
     df.to_csv(Path(data_package_folder, f"individual_answers.csv"), index=False)
 
@@ -144,6 +149,19 @@ def create_weighted_totals():
     d.to_csv(Path(data_package_folder, f"authority_scores.csv"), index=False)
 
 
+def slugify(v: str) -> str:
+    return v.lower().strip().replace(" ", "_").replace("-", "_").replace("/", "_")
+
+
+def create_split_file():
+    df = pd.read_csv(Path(data_package_folder, f"authority_scores.csv"))
+
+    for g, d in df.groupby("group"):
+        d.sort_values("weighted_total", ascending=False)
+        print(g, slugify(g))
+        d.to_csv(split_data_package_folder / f"{slugify(g)}.csv", index=False)
+
+
 def create_files():
     """
     Create different csvs files for the datapackage
@@ -153,6 +171,7 @@ def create_files():
     create_weighted_totals()
     individual_answers()
     questions_list()
+    create_split_file()
 
 
 if __name__ == "__main__":

@@ -1,0 +1,12 @@
+official-name,local-authority-code,s1_gov,s2_m&a,s3_c&a,s4_coms,s5_mset,s6_cb,s7_dsi,s8_est,s9_ee,weighted_total,local-authority-type-name,council-quintile,pop_bucket,region,ruc_cluster,political_control,group
+West Midlands Combined Authority,WMCA,86,94,100,89,80,100,80,80,100,89,Combined authority,,,West Midlands,,,Combined/strategic authorities
+Greater London Authority,GLA,48,67,56,89,80,100,60,40,75,66,Strategic Regional Authority,,,London,,,Combined/strategic authorities
+Greater Manchester Combined Authority,GMCA,28,83,40,67,80,100,20,60,75,57,Combined authority,,,North West,,,Combined/strategic authorities
+Liverpool City Region,LCR,43,83,20,33,60,25,0,100,50,47,Combined authority,,,North West,,,Combined/strategic authorities
+West Yorkshire Combined Authority,WYCA,43,28,40,44,80,25,0,20,0,35,Combined authority,,,Yorkshire and The Humber,,,Combined/strategic authorities
+North of Tyne Combined Authority,NTCA,38,17,20,33,40,50,20,80,0,33,Combined authority,,,North East,,,Combined/strategic authorities
+West of England Combined Authority,WECA,48,39,40,33,20,50,0,0,50,31,Combined authority,,,South West,,,Combined/strategic authorities
+South Yorkshire Mayoral Combined Authority,SCR,28,6,20,56,40,75,0,20,0,26,Combined authority,,,Yorkshire and The Humber,,,Combined/strategic authorities
+Tees Valley Combined Authority,TVCA,0,0,0,0,0,0,0,0,0,0,Combined authority,,,North East,,,Combined/strategic authorities
+Cambridgeshire and Peterborough Combined Authority,CPCA,0,0,0,0,0,0,0,0,0,0,Combined authority,,,East,,,Combined/strategic authorities
+North East Combined Authority,NECA,0,0,0,0,0,0,0,0,0,0,Combined authority,,,North East,,,Combined/strategic authorities

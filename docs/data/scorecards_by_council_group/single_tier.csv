@@ -1,0 +1,183 @@
+official-name,local-authority-code,s1_gov,s2_m&a,s3_c&a,s4_coms,s5_mset,s6_cb,s7_dsi,s8_est,s9_ee,weighted_total,local-authority-type-name,council-quintile,pop_bucket,region,ruc_cluster,political_control,group
+Manchester City Council,MAN,90,100,86,78,60,100,80,100,100,87,Metropolitan district,1.0,440k - 640k,North West,Urban,Labour,Single tier
+Solihull Metropolitan Borough Council,SOL,76,83,100,100,80,100,40,100,75,85,Metropolitan district,4.0,210k - 290k,West Midlands,Urban,Conservative,Single tier
+Newcastle City Council,NET,76,89,86,89,80,100,80,60,75,82,Metropolitan district,1.0,290k - 410k,North East,Urban,Labour,Single tier
+City of Edinburgh Council,EDH,95,89,100,67,80,75,40,100,75,82,Scottish unitary authority,5.0,440k - 640k,Scotland,Urban,Coalition/Minority,Single tier
+Wiltshire Council,WIL,62,94,71,100,80,100,80,60,100,81,Unitary authority,5.0,440k - 640k,South West,Urban with rural areas,Conservative,Single tier
+South Gloucestershire Council,SGC,56,83,71,89,100,100,80,80,75,80,Unitary authority,5.0,210k - 290k,South West,Urban,Conservative,Single tier
+London Borough of Hammersmith & Fulham,HMF,81,100,71,78,100,100,20,100,75,80,London borough,3.0,140k - 210k,London,Urban,Labour,Single tier
+London Borough of Southwark,SWK,76,94,56,89,100,75,60,80,75,79,London borough,3.0,290k - 410k,London,Urban,Labour,Single tier
+Telford & Wrekin Council,TFW,76,78,100,67,100,25,40,100,100,78,Unitary authority,3.0,140k - 210k,West Midlands,Urban,Labour,Single tier
+London Borough of Richmond upon Thames,RIC,71,72,71,100,80,100,80,60,75,78,London borough,5.0,140k - 210k,London,Urban,Liberal Democrat,Single tier
+London Borough of Lewisham,LEW,71,61,100,78,60,100,80,80,75,77,London borough,2.0,290k - 410k,London,Urban,Labour,Single tier
+Isle of Wight Council,IOW,56,94,71,78,80,100,60,80,100,77,Unitary authority,3.0,140k - 210k,South East,Urban with rural areas,Coalition/Minority,Single tier
+Nottingham City Council,NGM,67,83,86,56,100,100,40,100,75,76,Unitary authority,1.0,290k - 410k,East Midlands,Urban,Labour,Single tier
+Glasgow City Council,GLG,76,61,86,78,60,100,40,100,100,75,Scottish unitary authority,1.0,440k - 640k,Scotland,Urban,Coalition/Minority,Single tier
+Reading Borough Council,RDG,67,89,56,78,80,100,60,80,75,74,Unitary authority,4.0,140k - 210k,South East,Urban,Labour,Single tier
+London Borough of Brent,BEN,67,78,86,67,40,100,80,80,75,73,London borough,3.0,290k - 410k,London,Urban,Labour,Single tier
+London Borough of Ealing,EAL,56,56,100,100,80,50,40,80,75,73,London borough,3.0,290k - 410k,London,Urban,Labour,Single tier
+Northumberland County Council,NBL,81,56,86,89,80,50,20,80,100,72,Unitary authority,3.0,290k - 410k,North East,Urban with rural areas,Coalition/Minority,Single tier
+Medway Council,MDW,67,72,71,78,100,100,0,100,50,71,Unitary authority,3.0,210k - 290k,South East,Urban,Conservative,Single tier
+Leicester City Council,LCE,90,83,86,100,80,75,0,20,75,71,Unitary authority,1.0,290k - 410k,East Midlands,Urban,Labour,Single tier
+Leeds City Council,LDS,67,61,71,67,80,100,60,80,75,71,Metropolitan district,2.0,800k - 1140k,Yorkshire and The Humber,Urban,Labour,Single tier
+City of Cardiff Council,CRF,67,89,86,89,60,100,0,40,100,70,Welsh unitary authority,2.0,290k - 410k,Wales,Urban,Labour,Single tier
+East Lothian Council,ELN,56,100,100,78,40,75,0,80,75,70,Scottish unitary authority,5.0,0k - 140k,Scotland,Rural,Coalition/Minority,Single tier
+Fife Council,FIF,71,83,56,67,80,100,40,100,25,70,Scottish unitary authority,4.0,290k - 410k,Scotland,Urban with rural areas,Coalition/Minority,Single tier
+Wokingham Borough Council,WOK,95,33,71,89,80,100,40,60,75,70,Unitary authority,5.0,140k - 210k,South East,Urban,Conservative,Single tier
+Cornwall Council,CON,71,94,71,78,60,75,20,60,75,69,Unitary authority,3.0,440k - 640k,South West,Rural,Conservative,Single tier
+London Borough of Haringey,HRY,71,61,86,67,100,50,40,60,75,69,London borough,2.0,210k - 290k,London,Urban,Labour,Single tier
+Dorset Council,DST,56,89,86,89,20,100,0,80,100,68,Unitary authority,5.0,290k - 410k,South West,Urban with rural areas,Conservative,Single tier
+Cheshire East Council,CHE,76,67,71,89,100,100,0,20,75,66,Unitary authority,5.0,290k - 410k,North West,Urban,Coalition/Minority,Single tier
+Perth and Kinross Council,PKN,62,78,71,78,80,100,20,40,75,66,Scottish unitary authority,5.0,140k - 210k,Scotland,Sparse and rural,Coalition/Minority,Single tier
+Plymouth City Council,PLY,71,44,86,67,80,50,20,100,75,66,Unitary authority,2.0,210k - 290k,South West,Urban,Coalition/Minority,Single tier
+Slough Borough Council,SLG,62,94,56,67,80,75,20,60,75,66,Unitary authority,3.0,140k - 210k,South East,Urban,Labour,Single tier
+Brighton and Hove City Council,BNH,52,72,43,89,80,75,40,60,100,65,Unitary authority,4.0,290k - 410k,South East,Urban,Coalition/Minority,Single tier
+London Borough of Hounslow,HNS,71,56,86,78,40,75,40,80,25,65,London borough,3.0,210k - 290k,London,Urban,Labour,Single tier
+Stirling Council,STG,43,56,86,78,100,50,0,80,75,64,Scottish unitary authority,5.0,0k - 140k,Scotland,Urban with rural areas,Coalition/Minority,Single tier
+Bristol City Council,BST,71,78,14,56,100,100,20,100,75,64,Unitary authority,2.0,440k - 640k,South West,Urban,Coalition/Minority,Single tier
+Trafford Metropolitan Borough Council,TRF,62,61,86,67,80,0,20,100,50,64,Metropolitan district,5.0,210k - 290k,North West,Urban,Labour,Single tier
+Royal Borough of Greenwich,GRE,76,61,71,56,80,75,20,80,50,64,London borough,3.0,290k - 410k,London,Urban,Labour,Single tier
+Central Bedfordshire Council,CBF,76,61,100,44,80,50,20,60,50,63,Unitary authority,5.0,290k - 410k,East of England,Urban with rural areas,Conservative,Single tier
+Dundee City Council,DND,52,78,56,56,80,100,60,40,75,63,Scottish unitary authority,2.0,140k - 210k,Scotland,Urban,Coalition/Minority,Single tier
+London Borough of Islington,ISL,71,44,71,89,80,50,20,40,75,62,London borough,2.0,210k - 290k,London,Urban,Labour,Single tier
+London Borough of Harrow,HRW,62,72,71,33,80,50,40,80,75,62,London borough,5.0,210k - 290k,London,Urban,Labour,Single tier
+Royal Borough of Kensington and Chelsea,KEC,43,72,71,44,60,100,60,80,50,62,London borough,3.0,140k - 210k,London,Urban,Conservative,Single tier
+Darlington Borough Council,DAL,71,61,86,56,40,75,40,40,75,61,Unitary authority,3.0,0k - 140k,North East,Urban,Coalition/Minority,Single tier
+London Borough of Camden,CMD,67,33,86,67,80,100,20,60,50,61,London borough,4.0,210k - 290k,London,Urban,Labour,Single tier
+Sandwell Metropolitan Borough Council,SAW,76,72,43,67,40,100,0,100,75,61,Metropolitan district,1.0,290k - 410k,West Midlands,Urban,Labour,Single tier
+West Berkshire Council,WBK,62,67,56,78,60,75,0,80,75,61,Unitary authority,5.0,140k - 210k,South East,Urban with rural areas,Conservative,Single tier
+Blackpool Borough Council,BPL,48,56,56,100,60,50,20,80,75,61,Unitary authority,1.0,0k - 140k,North West,Urban,Coalition/Minority,Single tier
+Salford City Council,SLF,28,83,56,67,80,100,20,60,75,60,Metropolitan district,1.0,210k - 290k,North West,Urban,Labour,Single tier
+Bury Metropolitan Borough Council,BUR,48,100,28,67,60,100,40,60,50,60,Metropolitan district,3.0,140k - 210k,North West,Urban,Labour,Single tier
+Sunderland City Council,SND,33,89,86,78,60,100,20,40,0,60,Metropolitan district,1.0,210k - 290k,North East,Urban,Labour,Single tier
+Swindon Borough Council,SWD,62,56,86,89,100,0,0,60,0,60,Unitary authority,4.0,210k - 290k,South West,Urban,Conservative,Single tier
+London Borough of Croydon,CRY,52,44,71,56,60,100,60,60,75,60,London borough,3.0,290k - 410k,London,Urban,Labour,Single tier
+London Borough of Wandsworth,WND,48,61,86,78,40,50,0,80,75,59,London borough,4.0,290k - 410k,London,Urban,Conservative,Single tier
+Scottish Borders Council,SCB,48,78,56,56,60,75,40,60,75,59,Scottish unitary authority,5.0,0k - 140k,Scotland,Sparse and rural,Coalition/Minority,Single tier
+Durham County Council,DUR,76,56,86,44,80,100,0,40,25,57,Unitary authority,2.0,440k - 640k,North East,Rural,Coalition/Minority,Single tier
+Herefordshire Council,HEF,48,61,86,89,100,0,0,20,75,57,Unitary authority,4.0,140k - 210k,West Midlands,Sparse and rural,Coalition/Minority,Single tier
+Cheshire West and Chester Council,CHW,71,72,43,67,80,50,40,20,75,57,Unitary authority,4.0,290k - 410k,North West,Urban with rural areas,Coalition/Minority,Single tier
+Wakefield Metropolitan District Council,WKF,71,39,100,67,40,75,20,20,100,57,Metropolitan district,2.0,290k - 410k,Yorkshire and The Humber,Urban with rural areas,Labour,Single tier
+Bedford Borough Council,BDF,62,67,86,67,40,50,0,60,50,56,Unitary authority,4.0,140k - 210k,East of England,Urban with rural areas,Coalition/Minority,Single tier
+East Dunbartonshire Council,EDU,38,56,86,44,20,75,60,80,75,56,Scottish unitary authority,5.0,0k - 140k,Scotland,Urban,Coalition/Minority,Single tier
+City of Westminster,WSM,52,56,43,78,60,75,40,60,50,56,London borough,4.0,210k - 290k,London,Urban,Conservative,Single tier
+Southend-on-Sea Borough Council,SOS,56,67,100,33,20,100,20,60,50,56,Unitary authority,3.0,140k - 210k,East of England,Urban,Coalition/Minority,Single tier
+North Tyneside Council,NTY,56,50,43,67,80,50,0,80,75,55,Metropolitan district,3.0,140k - 210k,North East,Urban,Labour,Single tier
+West Dunbartonshire Council,WDU,52,56,100,78,40,0,0,60,50,55,Scottish unitary authority,2.0,0k - 140k,Scotland,Urban,Coalition/Minority,Single tier
+Royal Borough of Kingston upon Thames,KTT,33,94,43,89,40,50,20,40,50,54,London borough,5.0,140k - 210k,London,Urban,Liberal Democrat,Single tier
+London Borough of Bromley,BRY,67,39,71,56,80,75,20,20,75,54,London borough,5.0,290k - 410k,London,Urban,Conservative,Single tier
+Shropshire Council,SHR,56,50,71,67,60,75,0,60,0,53,Unitary authority,4.0,290k - 410k,West Midlands,Rural,Conservative,Single tier
+London Borough of Redbridge,RDB,52,33,71,56,40,100,20,60,75,53,London borough,4.0,290k - 410k,London,Urban,Labour,Single tier
+Wirral Borough Council,WRL,56,61,86,44,60,50,20,40,25,53,Metropolitan district,2.0,290k - 410k,North West,Urban,Coalition/Minority,Single tier
+Birmingham City Council,BIR,52,56,56,56,60,75,40,40,50,53,Metropolitan district,1.0,800k - 1140k,West Midlands,Urban,Labour,Single tier
+Wigan Metropolitan Borough Council,WGN,48,44,56,56,80,100,20,40,50,52,Metropolitan district,2.0,290k - 410k,North West,Urban,Labour,Single tier
+London Borough of Merton,MRT,67,39,86,67,80,25,0,20,50,52,London borough,5.0,140k - 210k,London,Urban,Labour,Single tier
+London Borough of Newham,NWM,33,39,71,89,40,75,40,40,25,52,London borough,2.0,290k - 410k,London,Urban,Labour,Single tier
+North Lanarkshire Council,NLK,67,67,43,33,60,25,60,40,75,52,Scottish unitary authority,2.0,290k - 410k,Scotland,Urban,Coalition/Minority,Single tier
+Walsall Metropolitan Borough Council,WLL,48,72,71,44,40,50,20,60,25,51,Metropolitan district,1.0,210k - 290k,West Midlands,Urban,Conservative,Single tier
+Rotherham Metropolitan Borough Council,ROT,56,39,86,56,40,50,60,20,25,51,Metropolitan district,2.0,210k - 290k,Yorkshire and The Humber,Urban,Labour,Single tier
+Hull City Council,KHL,33,56,43,67,100,50,20,40,25,50,Unitary authority,1.0,210k - 290k,Yorkshire and The Humber,Urban,Labour,Single tier
+Bath and North East Somerset Council,BAS,33,33,43,89,80,0,20,60,75,50,Unitary authority,5.0,140k - 210k,South West,Urban with rural areas,Liberal Democrat,Single tier
+Midlothian Council,MLN,62,56,71,56,80,0,0,20,50,49,Scottish unitary authority,4.0,0k - 140k,Scotland,Urban with rural areas,Coalition/Minority,Single tier
+Milton Keynes Council,MIK,48,56,71,33,40,75,20,40,75,49,Unitary authority,4.0,210k - 290k,South East,Urban,Coalition/Minority,Single tier
+South Tyneside Council,STY,43,33,86,78,40,25,0,40,75,49,Metropolitan district,1.0,140k - 210k,North East,Urban,Labour,Single tier
+Royal Borough of Windsor and Maidenhead,WNM,56,33,56,89,40,50,0,20,75,48,Unitary authority,5.0,140k - 210k,South East,Urban,Conservative,Single tier
+London Borough of Sutton,STN,24,72,71,56,40,100,0,20,75,48,London borough,5.0,140k - 210k,London,Urban,Liberal Democrat,Single tier
+"Bournemouth, Christchurch and Poole Council",BPC,48,50,56,67,80,50,0,0,75,47,Unitary authority,4.0,290k - 410k,South West,Urban,Conservative,Single tier
+Denbighshire County Council,DEN,43,17,86,78,40,0,0,60,75,47,Welsh unitary authority,2.0,0k - 140k,Wales,Rural,Coalition/Minority,Single tier
+London Borough of Enfield,ENF,56,44,71,67,60,25,0,0,50,46,London borough,2.0,290k - 410k,London,Urban,Labour,Single tier
+Vale of Glamorgan Council,VGL,48,78,56,44,40,50,0,20,50,45,Welsh unitary authority,4.0,0k - 140k,Wales,Urban with rural areas,Coalition/Minority,Single tier
+South Lanarkshire Council,SLK,33,39,56,67,40,50,0,40,75,44,Scottish unitary authority,3.0,290k - 410k,Scotland,Urban with rural areas,Coalition/Minority,Single tier
+Bolton Metropolitan Borough Council,BOL,19,17,71,67,40,75,20,60,50,44,Metropolitan district,1.0,290k - 410k,North West,Urban,Coalition/Minority,Single tier
+West Lothian Council,WLN,24,56,56,44,40,75,20,40,50,43,Scottish unitary authority,4.0,140k - 210k,Scotland,Urban with rural areas,Coalition/Minority,Single tier
+Barnsley Metropolitan Borough Council,BNS,38,33,56,56,80,50,20,20,25,43,Metropolitan district,1.0,210k - 290k,Yorkshire and The Humber,Urban,Labour,Single tier
+Rhondda Cynon Taf County Borough Council,RCT,28,67,56,44,40,25,0,40,75,43,Welsh unitary authority,1.0,210k - 290k,Wales,Urban with rural areas,Labour,Single tier
+Stockton-on-Tees Borough Council,STT,33,83,43,56,60,50,0,20,0,43,Unitary authority,2.0,140k - 210k,North East,Urban,Coalition/Minority,Single tier
+South Ayrshire Council,SAY,48,44,86,22,20,75,0,60,0,42,Scottish unitary authority,4.0,0k - 140k,Scotland,Urban with rural areas,Coalition/Minority,Single tier
+Monmouthshire County Council,MON,43,56,56,33,60,25,0,40,50,42,Welsh unitary authority,4.0,0k - 140k,Wales,Urban with rural areas,Conservative,Single tier
+London Borough of Hillingdon,HIL,33,28,28,89,60,25,0,40,75,42,London borough,4.0,290k - 410k,London,Urban,Conservative,Single tier
+North Northamptonshire Council,NNT,33,6,86,44,60,75,0,60,25,42,Unitary authority,4.0,290k - 410k,East Midlands,Urban with rural areas,Conservative,Single tier
+Torbay Council,TOB,28,61,56,44,20,50,0,40,75,41,Unitary authority,2.0,0k - 140k,South West,Urban,Coalition/Minority,Single tier
+Blackburn with Darwen Borough Council,BBD,38,44,43,67,60,75,0,0,50,41,Unitary authority,1.0,140k - 210k,North West,Urban,Labour,Single tier
+Redcar and Cleveland Borough Council,RCC,62,39,56,33,60,25,20,20,0,40,Unitary authority,2.0,0k - 140k,North East,Urban with rural areas,Coalition/Minority,Single tier
+Southampton City Council,STH,33,33,56,78,40,50,0,0,50,39,Unitary authority,2.0,210k - 290k,South East,Urban,Conservative,Single tier
+The Moray Council,MRY,43,22,71,56,40,25,0,40,0,38,Scottish unitary authority,5.0,0k - 140k,Scotland,Sparse and rural,Coalition/Minority,Single tier
+Portsmouth City Council,POR,43,28,56,44,60,50,0,20,25,38,Unitary authority,2.0,210k - 290k,South East,Urban,Coalition/Minority,Single tier
+Doncaster Metropolitan Borough Council,DNC,33,39,28,56,20,75,20,20,75,37,Metropolitan district,1.0,290k - 410k,Yorkshire and The Humber,Urban,Labour,Single tier
+London Borough of Lambeth,LBH,33,17,56,44,80,50,0,0,75,37,London borough,3.0,290k - 410k,London,Urban,Labour,Single tier
+North Ayrshire Council,NAY,43,33,43,33,60,0,0,60,50,37,Scottish unitary authority,2.0,0k - 140k,Scotland,Urban with rural areas,Coalition/Minority,Single tier
+City of London Corporation,LND,24,44,43,33,80,75,0,0,50,36,City corporation,5.0,0k - 140k,London,Urban,Independent,Single tier
+Pembrokeshire County Council,PEM,48,83,0,22,20,25,0,60,75,36,Welsh unitary authority,3.0,0k - 140k,Wales,Rural,Coalition/Minority,Single tier
+Aberdeen City Council,ABE,48,50,43,44,40,50,0,20,0,36,Scottish unitary authority,5.0,210k - 290k,Scotland,Urban,Coalition/Minority,Single tier
+Argyll and Bute Council,AGB,52,44,28,44,40,50,20,0,25,35,Scottish unitary authority,4.0,0k - 140k,Scotland,Sparse and rural,Coalition/Minority,Single tier
+Buckinghamshire Council,BUC,24,61,28,56,60,25,0,0,50,35,Unitary authority,5.0,440k - 640k,South East,Urban with rural areas,Conservative,Single tier
+East Ayrshire Council,EAY,19,28,14,56,80,25,0,60,50,35,Scottish unitary authority,3.0,0k - 140k,Scotland,Rural,Coalition/Minority,Single tier
+Ceredigion County Council,CGN,71,22,43,22,40,0,0,40,50,34,Welsh unitary authority,4.0,0k - 140k,Wales,Sparse and rural,Coalition/Minority,Single tier
+West Northamptonshire Council,WNT,14,22,43,44,60,25,20,40,50,34,Unitary authority,4.0,290k - 410k,East Midlands,Urban with rural areas,Conservative,Single tier
+London Borough of Tower Hamlets,TWH,52,22,43,33,40,75,0,0,75,34,London borough,2.0,290k - 410k,London,Urban,Labour,Single tier
+Oldham Metropolitan Borough Council,OLD,14,11,28,67,20,50,20,80,25,34,Metropolitan district,1.0,210k - 290k,North West,Urban,Labour,Single tier
+London Borough of Barking and Dagenham,BDG,24,33,43,33,40,75,40,0,50,34,London borough,1.0,210k - 290k,London,Urban,Labour,Single tier
+North Somerset  Council,NSM,38,33,14,33,80,25,0,20,75,33,Unitary authority,5.0,210k - 290k,South West,Urban,Coalition/Minority,Single tier
+Neath Port Talbot County Borough Council,NTL,19,33,71,33,40,25,0,0,75,33,Welsh unitary authority,1.0,140k - 210k,Wales,Urban with rural areas,Labour,Single tier
+Carmarthenshire County Council,CMN,48,11,71,33,40,25,0,20,0,32,Welsh unitary authority,3.0,140k - 210k,Wales,Urban with rural areas,Coalition/Minority,Single tier
+Sefton Metropolitan Borough Council,SFT,28,22,43,33,20,75,20,40,25,32,Metropolitan district,2.0,210k - 290k,North West,Urban,Labour,Single tier
+Warrington Borough Council,WRT,43,17,14,56,40,25,0,40,50,31,Unitary authority,4.0,140k - 210k,North West,Urban,Labour,Single tier
+Stockport Metropolitan Borough Council,SKP,38,33,43,22,40,25,0,40,25,31,Metropolitan district,3.0,290k - 410k,North West,Urban,Coalition/Minority,Single tier
+Calderdale Metropolitan Borough Council,CLD,10,50,43,44,40,25,0,20,25,31,Metropolitan district,2.0,210k - 290k,Yorkshire and The Humber,Urban,Labour,Single tier
+Caerphilly County Borough Council,CAY,43,39,28,33,40,0,0,20,75,31,Welsh unitary authority,2.0,140k - 210k,Wales,Urban with rural areas,Labour,Single tier
+Peterborough City Council,PTE,62,0,28,56,40,25,0,40,0,31,Unitary authority,2.0,140k - 210k,East of England,Urban,Coalition/Minority,Single tier
+Middlesbrough Borough Council,MDB,28,22,14,33,20,75,0,20,50,25,Unitary authority,1.0,0k - 140k,North East,Urban,Coalition/Minority,Single tier
+Knowsley Metropolitan Borough Council,KWL,43,0,56,22,40,0,0,20,0,24,Metropolitan district,1.0,140k - 210k,North West,Urban,Labour,Single tier
+Liverpool City Council,LIV,38,22,14,11,40,25,0,20,50,23,Metropolitan district,1.0,440k - 640k,North West,Urban,Labour,Single tier
+City of Wolverhampton Council,WLV,19,11,14,56,60,0,0,0,50,23,Metropolitan district,1.0,210k - 290k,West Midlands,Urban,Labour,Single tier
+City of Bradford Metropolitan District Council,BRD,10,44,14,11,40,0,0,60,25,23,Metropolitan district,1.0,440k - 640k,Yorkshire and The Humber,Urban,Labour,Single tier
+Wrexham County Borough Council,WRX,38,17,56,0,40,0,0,0,25,22,Welsh unitary authority,3.0,0k - 140k,Wales,Urban with rural areas,Coalition/Minority,Single tier
+Bracknell Forest Council,BRC,33,28,28,11,60,0,0,0,0,21,Unitary authority,5.0,0k - 140k,South East,Urban,Conservative,Single tier
+Luton Borough Council,LUT,14,0,56,33,0,0,0,40,0,20,Unitary authority,2.0,210k - 290k,East of England,Urban,Labour,Single tier
+Inverclyde Council,IVC,24,11,28,11,40,0,0,40,25,20,Scottish unitary authority,2.0,0k - 140k,Scotland,Urban,Coalition/Minority,Single tier
+Dumfries and Galloway Council,DGY,67,0,14,11,40,0,0,20,0,20,Scottish unitary authority,4.0,140k - 210k,Scotland,Sparse and rural,Coalition/Minority,Single tier
+City and County of Swansea Council,SWA,14,22,43,22,0,0,0,0,75,19,Welsh unitary authority,3.0,210k - 290k,Wales,Urban,Labour,Single tier
+Comhairle nan Eilean Siar,ELS,43,0,28,22,40,0,0,0,25,19,Scottish unitary authority,4.0,0k - 140k,Scotland,Sparse and rural,Independent,Single tier
+Blaenau Gwent County Borough Council,BGW,10,22,0,22,80,25,0,0,0,17,Welsh unitary authority,1.0,0k - 140k,Wales,Urban,Independent,Single tier
+Gateshead Metropolitan Borough Council,GAT,14,0,0,56,20,50,0,0,25,16,Metropolitan district,2.0,140k - 210k,North East,Urban,Labour,Single tier
+North Lincolnshire Council,NLN,19,6,28,33,20,0,0,0,0,15,Unitary authority,3.0,140k - 210k,Yorkshire and The Humber,Urban with rural areas,Conservative,Single tier
+Falkirk Council,FAL,28,0,14,22,40,0,0,0,0,14,Scottish unitary authority,4.0,140k - 210k,Scotland,Urban,Coalition/Minority,Single tier
+Newport City Council,NWP,48,6,14,11,0,25,0,0,0,13,Welsh unitary authority,1.0,140k - 210k,Wales,Urban,Labour,Single tier
+Orkney Islands Council,ORK,33,6,0,22,20,0,0,0,0,11,Scottish unitary authority,5.0,0k - 140k,Scotland,Sparse and rural,Independent,Single tier
+Rochdale Metropolitan Borough Council,RCH,10,6,0,22,20,50,0,0,25,11,Metropolitan district,1.0,210k - 290k,North West,Urban,Labour,Single tier
+Merthyr Tydfil County Borough Council,MTY,10,0,14,22,20,0,0,0,0,9,Welsh unitary authority,1.0,0k - 140k,Wales,Urban,Independent,Single tier
+Conwy County Borough Council,CWY,5,0,0,22,20,0,0,0,0,6,Welsh unitary authority,3.0,0k - 140k,Wales,Urban with rural areas,Coalition/Minority,Single tier
+Torfaen County Borough Council,TOF,0,0,0,0,0,0,0,0,0,0,Welsh unitary authority,2.0,0k - 140k,Wales,Urban,Labour,Single tier
+Thurrock Council,THR,0,0,0,0,0,0,0,0,0,0,Unitary authority,3.0,140k - 210k,East of England,Urban,Conservative,Single tier
+City of York Council,YOR,0,0,0,0,0,0,0,0,0,0,Unitary authority,5.0,210k - 290k,Yorkshire and The Humber,Urban,Coalition/Minority,Single tier
+Tameside Metropolitan Borough Council,TAM,0,0,0,0,0,0,0,0,0,0,Metropolitan district,1.0,210k - 290k,North West,Urban,Labour,Single tier
+London Borough of Waltham Forest,WFT,0,0,0,0,0,0,0,0,0,0,London borough,3.0,210k - 290k,London,Urban,Labour,Single tier
+Stoke-on-Trent City Council,STE,0,0,0,0,0,0,0,0,0,0,Unitary authority,1.0,210k - 290k,West Midlands,Urban,Coalition/Minority,Single tier
+Derby City Council,DER,0,0,0,0,0,0,0,0,0,0,Unitary authority,2.0,210k - 290k,East Midlands,Urban,Coalition/Minority,Single tier
+Dudley Metropolitan Borough Council,DUD,0,0,0,0,0,0,0,0,0,0,Metropolitan district,3.0,290k - 410k,West Midlands,Urban,Conservative,Single tier
+East Renfrewshire Council,ERW,0,0,0,0,0,0,0,0,0,0,Scottish unitary authority,5.0,0k - 140k,Scotland,Urban,Coalition/Minority,Single tier
+East Riding of Yorkshire Council,ERY,0,0,0,0,0,0,0,0,0,0,Unitary authority,5.0,290k - 410k,Yorkshire and The Humber,Urban with rural areas,Conservative,Single tier
+Flintshire County Council,FLN,0,0,0,0,0,0,0,0,0,0,Welsh unitary authority,4.0,140k - 210k,Wales,Urban with rural areas,Coalition/Minority,Single tier
+Gwynedd Council,GWN,0,0,0,0,0,0,0,0,0,0,Welsh unitary authority,4.0,0k - 140k,Wales,Rural,Plaid Cymru,Single tier
+Coventry City Council,COV,0,0,0,0,0,0,0,0,0,0,Metropolitan district,2.0,290k - 410k,West Midlands,Urban,Labour,Single tier
+London Borough of Havering,HAV,0,0,0,0,0,0,0,0,0,0,London borough,4.0,210k - 290k,London,Urban,Coalition/Minority,Single tier
+Clackmannanshire Council,CLK,0,0,0,0,0,0,0,0,0,0,Scottish unitary authority,3.0,0k - 140k,Scotland,Rural,Coalition/Minority,Single tier
+Isle of Anglesey County Council,AGY,0,0,0,0,0,0,0,0,0,0,Welsh unitary authority,3.0,0k - 140k,Wales,Rural,Coalition/Minority,Single tier
+Angus Council,ANS,0,0,0,0,0,0,0,0,0,0,Scottish unitary authority,4.0,0k - 140k,Scotland,Urban with rural areas,Coalition/Minority,Single tier
+London Borough of Bexley,BEX,0,0,0,0,0,0,0,0,0,0,London borough,4.0,210k - 290k,London,Urban,Conservative,Single tier
+Bridgend County Borough Council,BGE,0,0,0,0,0,0,0,0,0,0,Welsh unitary authority,3.0,140k - 210k,Wales,Urban with rural areas,Coalition/Minority,Single tier
+London Borough of Barnet,BNE,0,0,0,0,0,0,0,0,0,0,London borough,5.0,290k - 410k,London,Urban,Conservative,Single tier
+Halton Borough Council,HAL,0,0,0,0,0,0,0,0,0,0,Unitary authority,1.0,0k - 140k,North West,Urban,Labour,Single tier
+London Borough of Hackney,HCK,0,0,0,0,0,0,0,0,0,0,London borough,1.0,210k - 290k,London,Urban,Labour,Single tier
+Powys County Council,POW,0,0,0,0,0,0,0,0,0,0,Welsh unitary authority,4.0,0k - 140k,Wales,Sparse and rural,Coalition/Minority,Single tier
+Renfrewshire Council,RFW,0,0,0,0,0,0,0,0,0,0,Scottish unitary authority,3.0,140k - 210k,Scotland,Urban,Coalition/Minority,Single tier
+Rutland County Council,RUT,0,0,0,0,0,0,0,0,0,0,Unitary authority,5.0,0k - 140k,East Midlands,Rural,Conservative,Single tier
+Sheffield City Council,SHF,0,0,0,0,0,0,0,0,0,0,Metropolitan district,2.0,440k - 640k,Yorkshire and The Humber,Urban,Coalition/Minority,Single tier
+St Helens Council,SHN,0,0,0,0,0,0,0,0,0,0,Metropolitan district,1.0,140k - 210k,North West,Urban,Labour,Single tier
+The Highland Council,HLD,0,0,0,0,0,0,0,0,0,0,Scottish unitary authority,4.0,210k - 290k,Scotland,Sparse and rural,Coalition/Minority,Single tier
+North East Lincolnshire Council,NEL,0,0,0,0,0,0,0,0,0,0,Unitary authority,1.0,140k - 210k,Yorkshire and The Humber,Urban,Conservative,Single tier
+Hartlepool Borough Council,HPL,0,0,0,0,0,0,0,0,0,0,Unitary authority,1.0,0k - 140k,North East,Urban,Coalition/Minority,Single tier
+Council of the Isles of Scilly,IOS,0,0,0,0,0,0,0,0,0,0,Unitary authority,5.0,0k - 140k,South West,Sparse and rural,Independent,Single tier
+Kirklees Council,KIR,0,0,0,0,0,0,0,0,0,0,Metropolitan district,3.0,440k - 640k,Yorkshire and The Humber,Urban,Coalition/Minority,Single tier
+Aberdeenshire Council,ABD,0,0,0,0,0,0,0,0,0,0,Scottish unitary authority,5.0,210k - 290k,Scotland,Sparse and rural,Coalition/Minority,Single tier
+Shetland Islands Council,ZET,0,0,0,0,0,0,0,0,0,0,Scottish unitary authority,5.0,0k - 140k,Scotland,Sparse and rural,Independent,Single tier

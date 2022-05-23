@@ -1,0 +1,25 @@
+official-name,local-authority-code,s1_gov,s2_m&a,s3_c&a,s4_coms,s5_mset,s6_cb,s7_dsi,s8_est,s9_ee,weighted_total,local-authority-type-name,council-quintile,pop_bucket,region,ruc_cluster,political_control,group
+Somerset County Council,SOM,48,100,60,78,60,100,0,40,100,63,County,1.0,under 800k,South West,,Conservative,County councils
+Cambridgeshire County Council,CAM,52,67,80,56,80,0,0,60,75,56,County,2.0,under 800k,East of England,,Coalition/Minority,County councils
+Suffolk County Council,SFK,62,33,80,67,80,50,0,40,50,53,County,1.0,under 800k,East of England,,Conservative,County councils
+Hampshire County Council,HAM,48,83,60,67,60,75,0,20,50,53,County,2.0,1m +,South East,,Conservative,County councils
+Kent County Council,KEN,48,56,80,67,60,100,20,0,50,53,County,2.0,1m +,South East,,Conservative,County councils
+Hertfordshire County Council,HRT,28,61,80,67,40,100,0,40,25,50,County,2.0,1m +,East of England,,Conservative,County councils
+North Yorkshire County Council,NYK,52,6,80,67,40,25,20,80,50,48,County,2.0,under 800k,Yorkshire and The Humber,,Conservative,County councils
+Leicestershire County Council,LEC,43,33,80,44,80,75,0,40,50,48,County,1.0,under 800k,East Midlands,,Conservative,County councils
+Surrey County Council,SRY,33,94,40,44,60,50,0,60,25,48,County,2.0,1m +,South East,,Conservative,County councils
+Devon County Council,DEV,38,50,40,89,40,50,0,40,75,47,County,1.0,800k - 1m,South West,,Conservative,County councils
+Oxfordshire County Council,OXF,48,44,40,56,40,25,0,80,25,43,County,2.0,under 800k,South East,,Coalition/Minority,County councils
+Worcestershire County Council,WOR,38,44,40,33,80,50,20,20,50,40,County,1.0,under 800k,West Midlands,,Conservative,County councils
+Derbyshire County Council,DBY,38,22,40,44,60,50,20,60,0,38,County,2.0,800k - 1m,West Midlands,,Conservative,County councils
+East Sussex County Council,ESX,43,11,60,33,80,75,0,0,75,38,County,1.0,under 800k,South East,,Conservative,County councils
+West Sussex County Council,WSX,52,11,40,44,40,25,0,60,25,35,County,2.0,800k - 1m,South East,,Conservative,County councils
+Gloucestershire County Council,GLS,38,39,60,56,40,0,0,0,0,33,County,2.0,under 800k,South West,,Conservative,County councils
+Warwickshire County Council,WAR,33,6,40,67,20,0,0,0,25,25,County,2.0,under 800k,West Midlands,,Conservative,County councils
+Staffordshire County Council,STS,28,0,20,44,20,25,0,60,25,24,County,2.0,800k - 1m,West Midlands,,Conservative,County councils
+Nottinghamshire County Council,NTT,19,6,40,22,20,25,0,20,25,20,County,1.0,800k - 1m,East Midlands,,Conservative,County councils
+Lincolnshire County Council,LIN,48,6,20,33,20,25,0,0,0,19,County,1.0,under 800k,Yorkshire and The Humber,,Conservative,County councils
+Cumbria County Council,CMA,5,0,60,22,0,50,0,0,0,16,County,1.0,under 800k,North West,,Coalition/Minority,County councils
+Essex County Council,ESS,0,0,0,0,0,0,0,0,0,0,County,1.0,1m +,East of England,,Conservative,County councils
+Norfolk County Council,NFK,0,0,0,0,0,0,0,0,0,0,County,1.0,800k - 1m,East of England,,Conservative,County councils
+Lancashire County Council,LAN,0,0,0,0,0,0,0,0,0,0,County,1.0,1m +,North West,,Conservative,County councils
