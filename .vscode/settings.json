@@ -6,6 +6,12 @@
     "python.analysis.typeCheckingMode": "basic",
     "python.analysis.stubPath": "src/data_common/typing",
     "editor.formatOnSave": true,
+    "[scss]": {
+        "editor.formatOnSave": false,
+    },
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
