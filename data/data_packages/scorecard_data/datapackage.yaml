@@ -1,0 +1,21 @@
+name: scorecard_data
+title: Scorecard Data
+description : |
+  Processed and raw data for the 2022 Council Climate Scorecards
+version: 1.0
+licenses:
+  - name: CC-BY-NC-4.0
+    path: https://creativecommons.org/licenses/by-nc/4.0/
+    title: Creative Commons Attribution-NonCommercial 4.0 International License
+
+sources:
+  - title: Council Climate Plan Scorecards
+    path: https://councilclimatescorecards.uk/
+
+contributors:
+  - title: Climate Emergency UK
+    path: https://www.climateemergency.uk/
+    role: author
+  - title: mySociety
+    path: https://mysociety.org
+    role: author

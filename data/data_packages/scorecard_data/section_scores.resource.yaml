@@ -1,0 +1,51 @@
+title: Section Scores
+description: By authority, the scores received for each section and the total possible for that authority type.
+path: section_scores.csv
+name: section_scores
+profile: tabular-data-resource
+scheme: file
+format: csv
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+  - name: local-authority-code
+    type: string
+    description: 3 letter code for authority
+    constraints:
+      unique: false
+    example: ABC
+  - name: section
+    type: string
+    description: Section short ID (a section is a group of questions)
+    constraints:
+      unique: false
+      enum:
+      - s1_gov
+      - s2_m&a
+      - s3_c&a
+      - s4_coms
+      - s5_mset
+      - s6_cb
+      - s7_dsi
+      - s8_est
+      - s9_ee
+    example: s1_gov
+  - name: max_score
+    type: integer
+    description: Maximum score avaliable for section
+    constraints:
+      unique: false
+    example: 21
+  - name: score
+    type: number
+    description: Score this authority received for this section
+    constraints:
+      unique: false
+    example: 0.0
+  - name: section_name
+    type: string
+    description: Descriptive name for section (group of questions)
+    constraints:
+      unique: false
+    example: Governance, development and funding

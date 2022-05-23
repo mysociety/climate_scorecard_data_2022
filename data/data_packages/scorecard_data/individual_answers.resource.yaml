@@ -1,0 +1,47 @@
+title: Individual answers
+description: The scored value for each question for each authority
+path: individual_answers.csv
+name: individual_answers
+profile: tabular-data-resource
+scheme: file
+format: csv
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+  - name: answer_id
+    type: string
+    description: Unique ID for an answer to a question by an authority
+    constraints:
+      unique: true
+    example: ABC_s1_gov_q1_sp1
+  - name: local-authority-code
+    type: string
+    description: 3 letter code for local authority
+    constraints:
+      unique: false
+    example: ABC
+  - name: question_id
+    type: string
+    description: ID for question
+    constraints:
+      unique: false
+    example: s1_gov_q1_sp1
+  - name: audited_answer
+    type: string
+    description: The result assigned to the question by the marker
+    constraints:
+      unique: false
+    example: 'True'
+  - name: score
+    type: number
+    description: The score the answer translate to
+    constraints:
+      unique: false
+    example: 1.0
+  - name: max_score
+    type: integer
+    description: The maximum score avaliable for the question.
+    constraints:
+      unique: false
+    example: 1

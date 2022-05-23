@@ -1,0 +1,29 @@
+title: Section labels and weights
+description: Mapping of short section IDs to long labels, and the weighting used in the overall score
+path: section_labels_and_weights.csv
+name: section_labels_and_weights
+profile: tabular-data-resource
+scheme: file
+format: csv
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+  - name: section_id
+    type: string
+    description: ID for section (group of questions)
+    constraints:
+      unique: true
+    example: s1_gov
+  - name: section_name
+    type: string
+    description: Description of questions in sections. 
+    constraints:
+      unique: true
+    example: Governance, development and funding
+  - name: section_weight
+    type: number
+    description: Weighting applied to the section percentage in the final result.
+    constraints:
+      unique: false
+    example: 0.15
