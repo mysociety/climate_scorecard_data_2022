@@ -83,7 +83,7 @@ def name_registry_lookup(allow_none: bool = False) -> Callable:
     return convert
 
 
-@pd.api.extensions.register_dataframe_accessor("la")
+@pd_api.extensions.register_dataframe_accessor("la")
 class LAPDAccessor(object):
     """
     extention to pandas dataframe

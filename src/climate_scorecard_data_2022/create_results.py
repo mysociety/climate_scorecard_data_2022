@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from climate_scorecard_data_2022.la_processing import *
+import climate_scorecard_data_2022.la_processing
 
 source_file = Path("data", "raw", "individual_answers.csv")
 
