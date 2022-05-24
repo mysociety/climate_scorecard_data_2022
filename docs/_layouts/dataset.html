@@ -57,7 +57,16 @@ layout: default
 
 <h2>Individual tables</h2>
 
+<ul class="data-resource-list">
+    {% for resource in page.resources %}
+    <li>
+        <a href="#{{ resource.name }}">{{resource.title}}</a> - {{resource.description}}
+    </li>
+    {% endfor %}
+</ul>
+
 {% for resource in page.resources %}
+<a name="{{ resource.name }}"></a>
 <h3>Table: {{resource.title}}</h3>
 
 <p>Description: {{resource.description}}</p>

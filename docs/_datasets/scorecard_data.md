@@ -18,124 +18,6 @@ contributors:
   path: https://mysociety.org
   role: author
 resources:
-- title: Individual answers
-  description: The scored value for each question for each authority
-  path: individual_answers.csv
-  name: individual_answers
-  profile: tabular-data-resource
-  scheme: file
-  format: csv
-  hashing: md5
-  encoding: utf-8
-  schema:
-    fields:
-    - name: answer_id
-      type: string
-      description: Unique ID for an answer to a question by an authority
-      constraints:
-        unique: true
-      example: ABC_s1_gov_q1_sp1
-    - name: local-authority-code
-      type: string
-      description: 3 letter code for local authority
-      constraints:
-        unique: false
-      example: ABC
-    - name: question_id
-      type: string
-      description: ID for question
-      constraints:
-        unique: false
-      example: s1_gov_q1_sp1
-    - name: audited_answer
-      type: string
-      description: The result assigned to the question by the marker
-      constraints:
-        unique: false
-      example: 'True'
-    - name: score
-      type: number
-      description: The score the answer translate to
-      constraints:
-        unique: false
-      example: 1.0
-    - name: max_score
-      type: integer
-      description: The maximum score avaliable for the question.
-      constraints:
-        unique: false
-      example: 1
-  download_id: scorecard-data-individual-answers
-- title: Questions list
-  description: List of questions used, and the allowed values and scores
-  path: questions_list.csv
-  name: questions_list
-  profile: tabular-data-resource
-  scheme: file
-  format: csv
-  hashing: md5
-  encoding: utf-8
-  schema:
-    fields:
-    - name: question_id
-      type: string
-      description: Unique ID for a question
-      constraints:
-        unique: true
-      example: s1_gov_q1
-    - name: Question description
-      type: string
-      description: Full text description of the question
-      constraints:
-        unique: true
-      example: Is the Plan led by a senior lead officer with a named individual, cabinet
-        member or committee responsible for developing and delivering the Plan and
-        are the actions assigned?
-    - name: Options
-      type: string
-      description: The kind of response allowed to the question (generally checkbox).
-        HEADER is used for grouping purposes.
-      constraints:
-        unique: false
-      example: HEADER
-    - name: Scores
-      type: string
-      description: Map of scores to different answers
-      constraints:
-        unique: false
-      example: '0'
-  download_id: scorecard-data-questions-list
-- title: Section labels and weights
-  description: Mapping of short section IDs to long labels, and the weighting used
-    in the overall score
-  path: section_labels_and_weights.csv
-  name: section_labels_and_weights
-  profile: tabular-data-resource
-  scheme: file
-  format: csv
-  hashing: md5
-  encoding: utf-8
-  schema:
-    fields:
-    - name: section_id
-      type: string
-      description: ID for section (group of questions)
-      constraints:
-        unique: true
-      example: s1_gov
-    - name: section_name
-      type: string
-      description: Description of questions in sections.
-      constraints:
-        unique: true
-      example: Governance, development and funding
-    - name: section_weight
-      type: number
-      description: Weighting applied to the section percentage in the final result.
-      constraints:
-        unique: false
-      example: 0.15
-  download_id: scorecard-data-section-labels-and-weights
 - title: Authority scores
   description: For each authority, percentage score for each section and the overall
     weighted total.
@@ -266,6 +148,124 @@ resources:
         unique: false
       example: District councils
   download_id: scorecard-data-authority-scores
+- title: Individual answers
+  description: The scored value for each question for each authority
+  path: individual_answers.csv
+  name: individual_answers
+  profile: tabular-data-resource
+  scheme: file
+  format: csv
+  hashing: md5
+  encoding: utf-8
+  schema:
+    fields:
+    - name: answer_id
+      type: string
+      description: Unique ID for an answer to a question by an authority
+      constraints:
+        unique: true
+      example: ABC_s1_gov_q1_sp1
+    - name: local-authority-code
+      type: string
+      description: 3 letter code for local authority
+      constraints:
+        unique: false
+      example: ABC
+    - name: question_id
+      type: string
+      description: ID for question
+      constraints:
+        unique: false
+      example: s1_gov_q1_sp1
+    - name: audited_answer
+      type: string
+      description: The result assigned to the question by the marker
+      constraints:
+        unique: false
+      example: 'True'
+    - name: score
+      type: number
+      description: The score the answer translate to
+      constraints:
+        unique: false
+      example: 1.0
+    - name: max_score
+      type: integer
+      description: The maximum score avaliable for the question.
+      constraints:
+        unique: false
+      example: 1
+  download_id: scorecard-data-individual-answers
+- title: Questions list
+  description: List of questions used, and the allowed values and scores
+  path: questions_list.csv
+  name: questions_list
+  profile: tabular-data-resource
+  scheme: file
+  format: csv
+  hashing: md5
+  encoding: utf-8
+  schema:
+    fields:
+    - name: question_id
+      type: string
+      description: Unique ID for a question
+      constraints:
+        unique: true
+      example: s1_gov_q1
+    - name: Question description
+      type: string
+      description: Full text description of the question
+      constraints:
+        unique: true
+      example: Is the Plan led by a senior lead officer with a named individual, cabinet
+        member or committee responsible for developing and delivering the Plan and
+        are the actions assigned?
+    - name: Options
+      type: string
+      description: The kind of response allowed to the question (generally checkbox).
+        HEADER is used for grouping purposes.
+      constraints:
+        unique: false
+      example: HEADER
+    - name: Scores
+      type: string
+      description: Map of scores to different answers
+      constraints:
+        unique: false
+      example: '0'
+  download_id: scorecard-data-questions-list
+- title: Section labels and weights
+  description: Mapping of short section IDs to long labels, and the weighting used
+    in the overall score
+  path: section_labels_and_weights.csv
+  name: section_labels_and_weights
+  profile: tabular-data-resource
+  scheme: file
+  format: csv
+  hashing: md5
+  encoding: utf-8
+  schema:
+    fields:
+    - name: section_id
+      type: string
+      description: ID for section (group of questions)
+      constraints:
+        unique: true
+      example: s1_gov
+    - name: section_name
+      type: string
+      description: Description of questions in sections.
+      constraints:
+        unique: true
+      example: Governance, development and funding
+    - name: section_weight
+      type: number
+      description: Weighting applied to the section percentage in the final result.
+      constraints:
+        unique: false
+      example: 0.15
+  download_id: scorecard-data-section-labels-and-weights
 - title: Section Scores
   description: By authority, the scores received for each section and the total possible
     for that authority type.
