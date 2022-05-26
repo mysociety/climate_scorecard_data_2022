@@ -149,7 +149,8 @@ resources:
       example: District councils
   download_id: scorecard-data-authority-scores
 - title: Individual answers
-  description: The scored value for each question for each authority
+  description: The scored value for each question for each authority. If a Council
+    had no plan publicly available then all boxes are blank.
   path: individual_answers.csv
   name: individual_answers
   profile: tabular-data-resource

@@ -68,7 +68,7 @@ def individual_answers():
         ]
     ]
 
-    df = df.sort_values("local-authority-code")
+    df = df.sort_values(["local-authority-code", "question_id"])
 
     df.to_csv(Path(data_package_folder, f"individual_answers.csv"), index=False)
 
