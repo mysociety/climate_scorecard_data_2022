@@ -43,6 +43,10 @@ sass:
         - theme/sass
         - sass  
 
+# Twitter
+twittercard:
+  enabled: true
+  username: "@mysociety"
 
 # Exclude these files from the build
 exclude:
