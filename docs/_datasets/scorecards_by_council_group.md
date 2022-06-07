@@ -17,6 +17,10 @@ contributors:
 - title: mySociety
   path: https://mysociety.org
   role: author
+download_options:
+  gate: hard
+  survey: 6896293/CUK-data-feedback
+  header_text: Before you can download this file
 resources:
 - title: Combined/Strategic Authority Scorecards
   description: Scorecard scores for Combined or Strategic Authorities
