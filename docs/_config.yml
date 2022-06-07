@@ -14,17 +14,22 @@ collections:
     permalink: /downloads/:name/
 
 
+#  download_gate_type, require form submission before download. soft, present at same time but do not put up a barrier.
+
 defaults:
   - scope:
       path: ""
       type: datasets
     values:
-      layout: dataset
+      layout: datasets/dataset
   - scope:
       path: ""
       type: downloads
     values:
-      layout: download
+      download_gate_type: soft
+      download_form_header: Can you help us with funding by telling us more about yourself?
+      download_survey: 6876792/Data-usage
+      layout: datasets/download
 
 # Build settings
 description: Data behind Climate Emergency's 2022 Climate Scorecards
