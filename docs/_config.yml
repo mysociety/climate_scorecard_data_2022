@@ -3,6 +3,10 @@ description: >
   Data and notebooks for Council Climate Scorecard Data 2022
 baseurl: "/climate_scorecard_data_2022"
 url: "https://mysociety.github.io"
+logo: "/theme/img/mysociety-large-social.png"
+
+layouts_dir: theme/_layouts
+includes_dir: theme/_includes
 
 
 collections:
